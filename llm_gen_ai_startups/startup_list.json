@@ -33,7 +33,10 @@
             "AI & ML",
             "Cloud",
             "Machine & Deep Learning",
-            "Infrastructure"
+            "Infrastructure",
+            "\u4eba\u5de5\u667a\u80fd",
+            "\u79d1\u6280",
+            "\u7814\u7a76"
         ],
         "web_domain": "openai.com"
     },
@@ -69,7 +72,10 @@
             "Natural Language Processing",
             "Artificial intelligence",
             "AI & ML",
-            "Cloud"
+            "Cloud",
+            "\u4eba\u5de5\u667a\u80fd",
+            "\u79d1\u6280",
+            "\u7814\u7a76"
         ],
         "web_domain": "anthropic.com"
     },
@@ -87,7 +93,9 @@
             "multilingual embedding",
             "access to language models",
             "AI",
-            "NLP"
+            "NLP",
+            "Artificial Intelligence",
+            "Natural Language Processing"
         ],
         "web_domain": "cohere.ai"
     },
@@ -1739,7 +1747,10 @@
         "main_product_or_service": "Web security",
         "categories": [
             "Security",
-            "Web"
+            "Web",
+            "Technology",
+            "Internet Services",
+            "Cybersecurity"
         ],
         "web_domain": "cloudflare.com"
     },
@@ -1807,7 +1818,9 @@
         "main_product_or_service": "Password management",
         "categories": [
             "Security",
-            "Productivity"
+            "Productivity",
+            "Software",
+            "Technology"
         ],
         "web_domain": "dashlane.com"
     },
@@ -1850,7 +1863,10 @@
         "main_product_or_service": "Phone system",
         "categories": [
             "Communication",
-            "Productivity"
+            "Productivity",
+            "\u4eba\u5de5\u667a\u80fd",
+            "\u901a\u4fe1",
+            "\u79d1\u6280"
         ],
         "web_domain": "dialpad.com"
     },
@@ -2886,7 +2902,10 @@
         "main_product_or_service": "Communication software",
         "categories": [
             "Communication",
-            "Productivity"
+            "Productivity",
+            "Collaboration",
+            "Project Management",
+            "Software"
         ],
         "web_domain": "slack.com"
     },
@@ -3285,7 +3304,9 @@
             "Automation",
             "Chatbot",
             "Chatbot Tools",
-            "Writing"
+            "Writing",
+            "AI Writing",
+            "Marketing Tools"
         ],
         "web_domain": "writesonic.com"
     },
@@ -5474,7 +5495,7 @@
     {
         "name": "Aptori",
         "tagline": "Reduce Risk with Proactive Application Security.",
-        "web_site": "https://aptori.dev/",
+        "web_site": "https://aptori.dev",
         "main_product_or_service": "AI-Powered Risk Assessment and Remediation",
         "categories": [
             "Application Security",
@@ -5482,7 +5503,9 @@
             "Risk Assessment",
             "AI",
             "Healthcare",
-            "Software Development"
+            "Software Development",
+            "API\u6d4b\u8bd5",
+            "AI\u5de5\u5177"
         ],
         "web_domain": "aptori.dev"
     },
@@ -6700,7 +6723,8 @@
         "main_product_or_service": "AI-driven lending solution",
         "categories": [
             "Fintech",
-            "AI"
+            "AI",
+            "Lending"
         ],
         "web_domain": "zest.ai"
     },
@@ -7136,7 +7160,10 @@
             "AI",
             "Data",
             "Enterprise",
-            "Government"
+            "Government",
+            "\u4eba\u5de5\u667a\u80fd",
+            "\u79d1\u6280",
+            "\u6570\u636e\u670d\u52a1"
         ],
         "web_domain": "scale.com"
     },
@@ -9791,7 +9818,10 @@
         "categories": [
             "Messaging",
             "Social Media",
-            "Communication"
+            "Communication",
+            "\u901a\u8baf",
+            "\u793e\u4ea4\u5a92\u4f53",
+            "\u5e94\u7528\u7a0b\u5e8f"
         ],
         "web_domain": "telegram.org"
     },
@@ -10055,7 +10085,10 @@
             "Hiring Solutions",
             "Video Interviews",
             "Assessments",
-            "AI"
+            "AI",
+            "HRTech",
+            "Recruitment",
+            "Artificial Intelligence"
         ],
         "web_domain": "hirevue.com"
     },
@@ -10802,7 +10835,10 @@
         "categories": [
             "Software",
             "Technology",
-            "Embedded Systems"
+            "Embedded Systems",
+            "\u91d1\u878d\u670d\u52a1",
+            "\u5408\u89c4\u6027\u7ba1\u7406",
+            "\u53cd\u6d17\u94b1"
         ],
         "web_domain": "oracle.com"
     },
@@ -12486,7 +12522,8 @@
             "Cloud Computing",
             "Enterprise Software",
             "Human Capital Management",
-            "Financial Management"
+            "Financial Management",
+            "HR Tech"
         ],
         "web_domain": "workday.com"
     },
@@ -12509,7 +12546,9 @@
         "main_product_or_service": "Interactive flipbooks and engaging content for every channel.",
         "categories": [
             "Technology",
-            "Publishing"
+            "Publishing",
+            "Marketing and PR",
+            "Content Marketing"
         ],
         "web_domain": "issuu.com"
     },
@@ -12779,7 +12818,9 @@
         "main_product_or_service": "Data intelligence platform",
         "categories": [
             "FinTech",
-            "AI"
+            "AI",
+            "Fintech",
+            "Payments"
         ],
         "web_domain": "hyperplane.ai"
     },
@@ -13484,7 +13525,8 @@
         "categories": [
             "Automotive",
             "Energy",
-            "Technology"
+            "Technology",
+            "Artificial Intelligence"
         ],
         "web_domain": "tesla.com"
     },
@@ -13673,7 +13715,9 @@
         "main_product_or_service": "IT services and consulting",
         "categories": [
             "Information Technology",
-            "Consulting"
+            "Consulting",
+            "IT Services",
+            "Digital Transformation"
         ],
         "web_domain": "infosys.com"
     },
@@ -14161,7 +14205,10 @@
         "categories": [
             "AI",
             "Robotics",
-            "Technology"
+            "Technology",
+            "Financial Services",
+            "Blockchain",
+            "Artificial Intelligence"
         ],
         "web_domain": "figure.com"
     },
@@ -14394,14 +14441,17 @@
         "web_domain": "dayuswarung.weebly.com"
     },
     {
-        "name": "Yellow Flower Cafe",
-        "tagline": "An organic treasure tucked away in a rice terrace labyrinth.",
-        "web_site": "https://www.facebook.com/pages/Yellow-Flower-Cafe-Ubud-Bali/274160762626728",
-        "main_product_or_service": "Organic food",
+        "name": "Facebook",
+        "tagline": "Connect with friends and the world around you on Facebook.",
+        "web_site": "https://pl-pl.facebook.com/",
+        "main_product_or_service": "Social networking service",
         "categories": [
             "Food",
             "Cafe",
-            "Organic"
+            "Organic",
+            "Social Media",
+            "Technology",
+            "Internet Services"
         ],
         "web_domain": "facebook.com"
     },
@@ -15395,7 +15445,8 @@
             "openAI",
             "AI customization",
             "rapid AI solution creation",
-            "AI workflows"
+            "AI workflows",
+            "AI \u5c0f\u5de5\u5177"
         ],
         "web_domain": "gooey.ai"
     },
@@ -15618,7 +15669,10 @@
         "categories": [
             "NLP",
             "Cloud Computing",
-            "AI"
+            "AI",
+            "\u4e91\u8ba1\u7b97",
+            "\u4eba\u5de5\u667a\u80fd",
+            "\u8bed\u97f3\u8bc6\u522b"
         ],
         "web_domain": "cloud.tencent.com"
     },
@@ -16289,7 +16343,10 @@
             "Credit",
             "Real Estate",
             "Corporate",
-            "Consulting"
+            "Consulting",
+            "Fintech",
+            "AI",
+            "Compliance"
         ],
         "web_domain": "hebbia.ai"
     },
@@ -16353,5 +16410,1076 @@
             "Document Management"
         ],
         "web_domain": "deepjudge.ai"
+    },
+    {
+        "name": "Captions",
+        "tagline": "Your AI-powered creative studio",
+        "web_site": "https://desktop.captions.ai",
+        "main_product_or_service": "AI-powered video editing and creation tools",
+        "categories": [
+            "Video Editing",
+            "AI Tools",
+            "Content Creation",
+            "Creative Studio"
+        ],
+        "web_domain": "captions.ai"
+    },
+    {
+        "name": "Captions, LLC",
+        "tagline": "Auto subtitle & edit videos",
+        "web_site": "https://getcaptions.app/",
+        "main_product_or_service": "AI powered camera and editor for creators",
+        "categories": [
+            "Photo & Video"
+        ],
+        "web_domain": "getcaptions.app"
+    },
+    {
+        "name": "Captions",
+        "tagline": "A new AI-powered app that can dub videos into 28 languages.",
+        "web_site": "https://www.captionsapp.com",
+        "main_product_or_service": "Lipdub - AI app for dubbing videos",
+        "categories": [
+            "AI",
+            "Video Editing",
+            "Mobile Apps"
+        ],
+        "web_domain": "captionsapp.com"
+    },
+    {
+        "name": "New England Biolabs",
+        "tagline": "Support for educators provides an opportunity to teach hands-on molecular biology techniques",
+        "web_site": "https://www.neb.com",
+        "main_product_or_service": "Lab equipment and educational support for molecular biology",
+        "categories": [
+            "Education",
+            "Biotechnology",
+            "Laboratory Equipment"
+        ],
+        "web_domain": "neb.com"
+    },
+    {
+        "name": "Sinbad the Sailor",
+        "tagline": "A legendary sailor known for his adventurous voyages.",
+        "web_site": "https://en.wikipedia.org/wiki/Sinbad_the_Sailor",
+        "main_product_or_service": "Adventures and stories of Sinbad",
+        "categories": [
+            "Fictional characters",
+            "Arabian folklore",
+            "One Thousand and One Nights characters"
+        ],
+        "web_domain": "wikipedia.org"
+    },
+    {
+        "name": "OpenText",
+        "tagline": "Information Management Solutions",
+        "web_site": "https://www.opentext.com/",
+        "main_product_or_service": "Information Management",
+        "categories": [
+            "Information Management",
+            "Cloud Services",
+            "Cybersecurity",
+            "AI Solutions",
+            "DevOps",
+            "Content Management",
+            "\u96f2\u7ba1\u7406",
+            "IT\u904b\u71df",
+            "\u6578\u64da\u7ba1\u7406",
+            "\u5b89\u5168\u6027",
+            "B2B Integration",
+            "Data Management",
+            "Supply Chain Management"
+        ],
+        "web_domain": "opentext.com"
+    },
+    {
+        "name": "Mailchimp",
+        "tagline": "#1 email marketing and automations platform*",
+        "web_site": "https://mailchimp.com",
+        "main_product_or_service": "Email marketing and automation platform",
+        "categories": [
+            "Marketing",
+            "Automation",
+            "Email Platform"
+        ],
+        "web_domain": "mailchimp.com"
+    },
+    {
+        "name": "Keeper Security",
+        "tagline": "Password Management and Privileged Access Management (PAM) Solution",
+        "web_site": "https://www.keeper.io",
+        "main_product_or_service": "Password Manager and Privileged Access Management",
+        "categories": [
+            "Cybersecurity",
+            "Password Management",
+            "Privileged Access Management",
+            "Identity and Access Management"
+        ],
+        "web_domain": "keeper.io"
+    },
+    {
+        "name": "Bing Chat",
+        "tagline": "Bing Chat now allows up to 30 interactions per session and a daily limit of 300 interactions.",
+        "web_site": "https://www.bing.com/chat",
+        "main_product_or_service": "Conversational AI chat service",
+        "categories": [
+            "Artificial Intelligence",
+            "Chatbot",
+            "Search Engine"
+        ],
+        "web_domain": "bing.com"
+    },
+    {
+        "name": "Matrix AI",
+        "tagline": "A decentralized AI economy platform that enhances blockchain networks.",
+        "web_site": "https://www.matrix.io/",
+        "main_product_or_service": "AI-supported cybersecurity, automated smart contract coding, dynamic network authorization, adaptive blockchain parameters.",
+        "categories": [
+            "Blockchain",
+            "Artificial Intelligence"
+        ],
+        "web_domain": "matrix.io"
+    },
+    {
+        "name": "DeepBrain Chain",
+        "tagline": "A decentralized, cost-effective AI computing platform that enhances data trading.",
+        "web_site": "https://www.deepbrainchain.org/",
+        "main_product_or_service": "Decentralized cloud computing network for AI product development.",
+        "categories": [
+            "Blockchain",
+            "Artificial Intelligence"
+        ],
+        "web_domain": "deepbrainchain.org"
+    },
+    {
+        "name": "Peculium",
+        "tagline": "A cryptocurrency-based savings and investment management platform.",
+        "web_site": "https://peculium.io/",
+        "main_product_or_service": "AI, big data, and machine learning for secure and efficient cryptocurrency asset management.",
+        "categories": [
+            "Blockchain",
+            "Artificial Intelligence"
+        ],
+        "web_domain": "peculium.io"
+    },
+    {
+        "name": "AlphaNetworks",
+        "tagline": "A leading blockchain-driven entertainment platform.",
+        "web_site": "https://www.alphanetworks.com/en",
+        "main_product_or_service": "Next-generation media and entertainment solutions.",
+        "categories": [
+            "Blockchain",
+            "Entertainment"
+        ],
+        "web_domain": "alphanetworks.com"
+    },
+    {
+        "name": "Core Scientific",
+        "tagline": "Leading provider of blockchain and AI infrastructure solutions.",
+        "web_site": "https://www.corescientific.com/",
+        "main_product_or_service": "Blockchain and AI hosting, application development, and transaction processing.",
+        "categories": [
+            "Blockchain",
+            "Artificial Intelligence"
+        ],
+        "web_domain": "corescientific.com"
+    },
+    {
+        "name": "Cyware Labs",
+        "tagline": "Global leader in security solutions powered by blockchain and AI.",
+        "web_site": "https://cyware.com/",
+        "main_product_or_service": "Real-time threat response and security solutions.",
+        "categories": [
+            "Security",
+            "Blockchain",
+            "Artificial Intelligence"
+        ],
+        "web_domain": "cyware.com"
+    },
+    {
+        "name": "Neurochain",
+        "tagline": "Top provider of business solutions powered by blockchain and AI.",
+        "web_site": "https://www.neurochaintech.io/",
+        "main_product_or_service": "Business solutions based on smart decision mechanisms.",
+        "categories": [
+            "Blockchain",
+            "Artificial Intelligence"
+        ],
+        "web_domain": "neurochaintech.io"
+    },
+    {
+        "name": "Fetch.ai",
+        "tagline": "World-leading platform for collective learning and decentralized problem-solving.",
+        "web_site": "https://fetch.ai/",
+        "main_product_or_service": "AI and machine learning solutions for decentralized finance.",
+        "categories": [
+            "Blockchain",
+            "Artificial Intelligence"
+        ],
+        "web_domain": "fetch.ai"
+    },
+    {
+        "name": "BurstIQ",
+        "tagline": "Leading provider of blockchain and AI healthcare data solutions.",
+        "web_site": "https://www.burstiq.com/",
+        "main_product_or_service": "Secure global health data network for data sharing.",
+        "categories": [
+            "Healthcare",
+            "Blockchain",
+            "Artificial Intelligence"
+        ],
+        "web_domain": "burstiq.com"
+    },
+    {
+        "name": "Blackbird.AI",
+        "tagline": "AI platform combating manipulative misinformation campaigns.",
+        "web_site": "https://www.blackbird.ai/",
+        "main_product_or_service": "Automated understanding of misinformation and harmful digital media.",
+        "categories": [
+            "AI",
+            "Media"
+        ],
+        "web_domain": "blackbird.ai"
+    },
+    {
+        "name": "MOTU",
+        "tagline": "Digital Performer",
+        "web_site": "http://www.motu.com/",
+        "main_product_or_service": "MIDI/Audio Workstation",
+        "categories": [
+            "\u97f3\u9891\u5de5\u4f5c\u7ad9",
+            "\u97f3\u4e50\u5de5\u4f5c\u7ad9",
+            "MIDI\u5de5\u4f5c\u7ad9"
+        ],
+        "web_domain": "motu.com"
+    },
+    {
+        "name": "IDC",
+        "tagline": "The premier global market intelligence firm.",
+        "web_site": "https://www.idc.com",
+        "main_product_or_service": "Market intelligence and research services",
+        "categories": [
+            "Market Research",
+            "Data Analytics",
+            "Custom Solutions"
+        ],
+        "web_domain": "idc.com"
+    },
+    {
+        "name": "LiveWell",
+        "tagline": "Manage your health and access the care you need, when and where you need it.",
+        "web_site": "https://www.livewellaah.org/",
+        "main_product_or_service": "Health management app and website",
+        "categories": [
+            "Health",
+            "Telehealth",
+            "Wellness",
+            "Healthcare Technology"
+        ],
+        "web_domain": "livewellaah.org"
+    },
+    {
+        "name": "SilverCloud",
+        "tagline": "Feeling depressed, anxious, or overwhelmed? SilverCloud\u2019s online programs can help you to take control and manage your well-being.",
+        "web_site": "https://wrightpatterson.tricare.mil/Getting-Care/My-Military-Health",
+        "main_product_or_service": "Online mental health programs",
+        "categories": [
+            "Mental Health",
+            "Online Health Services"
+        ],
+        "web_domain": "wrightpatterson.tricare.mil"
+    },
+    {
+        "name": "Baylor Scott & White Health",
+        "tagline": "Virtual care from the comfort of your home",
+        "web_site": "https://www.bswhealth.com",
+        "main_product_or_service": "Virtual Care",
+        "categories": [
+            "Healthcare",
+            "Telehealth",
+            "Virtual Care"
+        ],
+        "web_domain": "bswhealth.com"
+    },
+    {
+        "name": "American Medical Association",
+        "tagline": "What Doctors Wish Patients Knew About Using a Patient Portal",
+        "web_site": "https://www.ama-assn.org/",
+        "main_product_or_service": "Patient Portal",
+        "categories": [
+            "Health Care",
+            "Medical Services",
+            "Patient Communication"
+        ],
+        "web_domain": "ama-assn.org"
+    },
+    {
+        "name": "OneChronos",
+        "tagline": "The Smart Market for Institutional Investors",
+        "web_site": "https://www.onechronos.com",
+        "main_product_or_service": "Smart Market for Institutional Investors",
+        "categories": [
+            "Finance",
+            "Technology",
+            "Trading",
+            "ATS",
+            "Financial Services",
+            "Equities",
+            "Alternative Trading System",
+            "Dark Pool",
+            "Smart Market",
+            "FinTech",
+            "Artificial Intelligence",
+            "Capital Markets",
+            "Auction"
+        ],
+        "web_domain": "onechronos.com"
+    },
+    {
+        "name": "OneChronos",
+        "tagline": "US equities ATS targeting institutional investors",
+        "web_site": "https://www.globaltrading.net/",
+        "main_product_or_service": "Smart market periodic auctions using AI and mathematical optimisation",
+        "categories": [
+            "Equities",
+            "Trading",
+            "Financial Technology"
+        ],
+        "web_domain": "globaltrading.net"
+    },
+    {
+        "name": "Chinese Radio Seattle",
+        "tagline": "Seattle Local News Daily Reporting",
+        "web_site": "https://chineseradioseattle.com/",
+        "main_product_or_service": "Chinese radio broadcasting and local news",
+        "categories": [
+            "Media",
+            "Broadcasting",
+            "Community Services"
+        ],
+        "web_domain": "chineseradioseattle.com"
+    },
+    {
+        "name": "Pearl Jars",
+        "tagline": "Grow your own superfoods!",
+        "web_site": "https://www.pearljars.com",
+        "main_product_or_service": "Glass jars for food storage and preservation",
+        "categories": [
+            "Storage Jars",
+            "Fermentation",
+            "Canning & Preserving",
+            "Sprouting"
+        ],
+        "web_domain": "pearljars.com"
+    },
+    {
+        "name": "Again Faster",
+        "tagline": "Get $200 Off Kineon Red Light Therapy",
+        "web_site": "https://www.againfaster.com",
+        "main_product_or_service": "Strength and conditioning equipment",
+        "categories": [
+            "Fitness",
+            "Health",
+            "Wellness"
+        ],
+        "web_domain": "againfaster.com"
+    },
+    {
+        "name": "MyStartr",
+        "tagline": "Crowdfunding in Malaysia",
+        "web_site": "https://rewards.mystartr.com",
+        "main_product_or_service": "Crowdfunding platform",
+        "categories": [
+            "Dream factory",
+            "Art",
+            "Comics",
+            "Community",
+            "Dance",
+            "Design",
+            "Events",
+            "Film/Video",
+            "Music",
+            "Theater",
+            "Writing/Publishing",
+            "Other",
+            "Product"
+        ],
+        "web_domain": "mystartr.com"
+    },
+    {
+        "name": "TARA JARMON",
+        "tagline": "Women's Fashion and Accessories",
+        "web_site": "https://en.tarajarmon.com",
+        "main_product_or_service": "Fashion and Accessories",
+        "categories": [
+            "Fashion",
+            "Women's Clothing",
+            "Accessories"
+        ],
+        "web_domain": "tarajarmon.com"
+    },
+    {
+        "name": "Rogo",
+        "tagline": "Generative AI for Financial Firms",
+        "web_site": "https://tryrogo.com",
+        "main_product_or_service": "Purpose-built financial AI connected to all your data. Find, create, and automate anything.",
+        "categories": [
+            "Investment Banks",
+            "Private Equity",
+            "Hedge Funds"
+        ],
+        "web_domain": "tryrogo.com"
+    },
+    {
+        "name": "Rogo",
+        "tagline": "Generative AI for Finance.",
+        "web_site": "https://www.rogo.ai/",
+        "main_product_or_service": "Generative AI for Finance",
+        "categories": [
+            "Software Development"
+        ],
+        "web_domain": "rogo.ai"
+    },
+    {
+        "name": "Rogo",
+        "tagline": "Powerful Enterprise AI for Financial Services",
+        "web_site": "https://www.rogodata.com/",
+        "main_product_or_service": "AI-driven financial analysis platform",
+        "categories": [
+            "AI",
+            "Financial Services",
+            "Technology",
+            "Finance",
+            "Banking",
+            "Generative AI",
+            "Machine Learning",
+            "Big Data",
+            "Fintech",
+            "Data Analysis",
+            "Financial Services / Investment Firms",
+            "Internet / Technology",
+            "Venture Capital"
+        ],
+        "web_domain": "rogodata.com"
+    },
+    {
+        "name": "Norm Ai",
+        "tagline": "Regulatory AI Agents for compliance in financial services",
+        "web_site": "https://www.norm.ai/",
+        "main_product_or_service": "Regulatory AI Agents",
+        "categories": [
+            "Compliance",
+            "Fintech",
+            "AI"
+        ],
+        "web_domain": "norm.ai"
+    },
+    {
+        "name": "Effectiv",
+        "tagline": "AI for user onboarding and fraud detection",
+        "web_site": "https://effectiv.ai/",
+        "main_product_or_service": "AI-powered onboarding and fraud detection",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Fraud Prevention"
+        ],
+        "web_domain": "effectiv.ai"
+    },
+    {
+        "name": "Sardine",
+        "tagline": "AI-powered fraud prevention solutions",
+        "web_site": "https://www.sardine.ai/",
+        "main_product_or_service": "Fraud prevention solutions",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Fraud Prevention"
+        ],
+        "web_domain": "sardine.ai"
+    },
+    {
+        "name": "Range",
+        "tagline": "Consumer-focused wealth management platform",
+        "web_site": "https://www.range.com/",
+        "main_product_or_service": "Wealth management platform",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Wealth Management"
+        ],
+        "web_domain": "range.com"
+    },
+    {
+        "name": "Streetbeat",
+        "tagline": "AI-powered investment portfolio creation",
+        "web_site": "https://streetbeat.com/en",
+        "main_product_or_service": "Investment portfolio creation",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Investment"
+        ],
+        "web_domain": "streetbeat.com"
+    },
+    {
+        "name": "Parthean",
+        "tagline": "AI-driven financial coach",
+        "web_site": "https://www.parthean.com/",
+        "main_product_or_service": "Financial coaching",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Personal Finance"
+        ],
+        "web_domain": "parthean.com"
+    },
+    {
+        "name": "Cashmere AI",
+        "tagline": "Engagement automation for wealth advisors",
+        "web_site": "https://www.cashmereai.com/",
+        "main_product_or_service": "Wealth advisor engagement automation",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Wealth Management"
+        ],
+        "web_domain": "cashmereai.com"
+    },
+    {
+        "name": "Sherpas",
+        "tagline": "Client engagement automation for wealth advisors",
+        "web_site": "https://sherpaswealth.com/",
+        "main_product_or_service": "Client engagement platform",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Wealth Management"
+        ],
+        "web_domain": "sherpaswealth.com"
+    },
+    {
+        "name": "Arkifi",
+        "tagline": "Automated investment analysis",
+        "web_site": "https://www.arkifi.ai/",
+        "main_product_or_service": "Investment analysis automation",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Investment"
+        ],
+        "web_domain": "arkifi.ai"
+    },
+    {
+        "name": "Boosted.ai",
+        "tagline": "Investment management optimization",
+        "web_site": "https://www.boosted.ai/",
+        "main_product_or_service": "Investment management tools",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Investment"
+        ],
+        "web_domain": "boosted.ai"
+    },
+    {
+        "name": "HighRadius",
+        "tagline": "GenAI-powered finance solutions",
+        "web_site": "https://www.highradius.com/about/news/highradius-announces-first-ever-finance-team-centric-accounts-payable-solution/#:~:text=With%20HighRadius'%20GenAI%2Dpowered%20Accounts,guidelines%20for%20any%20actions%20required.",
+        "main_product_or_service": "Finance automation solutions",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Finance"
+        ],
+        "web_domain": "highradius.com"
+    },
+    {
+        "name": "Runway",
+        "tagline": "Financial planning tool",
+        "web_site": "https://runway.com/",
+        "main_product_or_service": "Financial planning workflows",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Finance"
+        ],
+        "web_domain": "runway.com"
+    },
+    {
+        "name": "Trullion",
+        "tagline": "Accounting platform for revenue recognition",
+        "web_site": "https://trullion.com/",
+        "main_product_or_service": "Accounting platform",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Accounting"
+        ],
+        "web_domain": "trullion.com"
+    },
+    {
+        "name": "Slope",
+        "tagline": "Payments and financing platform",
+        "web_site": "https://slopepay.com/",
+        "main_product_or_service": "Payments reconciliation",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Payments"
+        ],
+        "web_domain": "slopepay.com"
+    },
+    {
+        "name": "Casca",
+        "tagline": "AI-powered loan origination system",
+        "web_site": "https://www.cascading.ai/",
+        "main_product_or_service": "Loan origination system",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Lending"
+        ],
+        "web_domain": "cascading.ai"
+    },
+    {
+        "name": "Noetica",
+        "tagline": "AI for corporate debt transactions",
+        "web_site": "https://www.noetica.ai/",
+        "main_product_or_service": "Debt transaction benchmarking",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Lending"
+        ],
+        "web_domain": "noetica.ai"
+    },
+    {
+        "name": "MultiOn",
+        "tagline": "AI agents for digital products",
+        "web_site": "https://www.multion.ai/",
+        "main_product_or_service": "AI agents for task completion",
+        "categories": [
+            "Fintech",
+            "AI",
+            "Commerce"
+        ],
+        "web_domain": "multion.ai"
+    },
+    {
+        "name": "Tandem Diabetes Care",
+        "tagline": "We create new possibilities for people living with diabetes, their loved ones, and the healthcare providers supporting them.",
+        "web_site": "https://www.tandemdiabetes.com/",
+        "main_product_or_service": "Tandem Mobi System, t:slim X2 Insulin Pump",
+        "categories": [
+            "Medical Devices",
+            "Healthcare",
+            "Diabetes Management"
+        ],
+        "web_domain": "tandemdiabetes.com"
+    },
+    {
+        "name": "Shield Concierge",
+        "tagline": "Enhanced customer service",
+        "web_site": "https://www.blueshieldca.com/en/home/be-well/conditions-and-care-programs/shield-concierge",
+        "main_product_or_service": "Personalized and coordinated customer care assistant",
+        "categories": [
+            "Health Care",
+            "Insurance",
+            "Customer Service"
+        ],
+        "web_domain": "blueshieldca.com"
+    },
+    {
+        "name": "Hamilton GI",
+        "tagline": "Providing Quality, Affordable Care",
+        "web_site": "https://hamiltongi.com/",
+        "main_product_or_service": "Gastroenterology services",
+        "categories": [
+            "Healthcare",
+            "Gastroenterology",
+            "Medical Services"
+        ],
+        "web_domain": "hamiltongi.com"
+    },
+    {
+        "name": "Pharmacare Hawaii",
+        "tagline": "Durable Medical Equipment",
+        "web_site": "https://pharmacarehawaii.com",
+        "main_product_or_service": "Diabetes Management Tools and Services",
+        "categories": [
+            "Healthcare",
+            "Medical Equipment",
+            "Diabetes Management"
+        ],
+        "web_domain": "pharmacarehawaii.com"
+    },
+    {
+        "name": "Tandem",
+        "tagline": "AI to accelerate access to medicine",
+        "web_site": "https://withtandem.com/?utm_source=otta.com",
+        "main_product_or_service": "AI-driven healthcare solutions",
+        "categories": [
+            "Healthcare",
+            "B2C",
+            "B2B",
+            "Artificial Intelligence",
+            "Biotechnology"
+        ],
+        "web_domain": "withtandem.com"
+    },
+    {
+        "name": "Gundersen Pharmacy",
+        "tagline": "Never miss a dose again with these 4 medication tips and tricks!",
+        "web_site": "https://gundersenhealth.org/services/gundersen-pharmacy",
+        "main_product_or_service": "Medication management and pharmacy services",
+        "categories": [
+            "Healthcare",
+            "Pharmacy",
+            "Medication Management"
+        ],
+        "web_domain": "gundersenhealth.org"
+    },
+    {
+        "name": "North American Chinese Society of Human Resources (NACSHR)",
+        "tagline": "The Largest Chinese HR event in North America",
+        "web_site": "https://www.nacshr.org/",
+        "main_product_or_service": "HR services and events",
+        "categories": [
+            "Human Resources",
+            "Networking",
+            "Professional Development"
+        ],
+        "web_domain": "nacshr.org"
+    },
+    {
+        "name": "CVWizard",
+        "tagline": "Job market insights and anonymous application processes",
+        "web_site": "https://www.cvwizard.com/en/articles/survey-reveals-new-insights-job-market",
+        "main_product_or_service": "Job market insights and tools for anonymous applications",
+        "categories": [
+            "HRTech",
+            "Recruitment"
+        ],
+        "web_domain": "cvwizard.com"
+    },
+    {
+        "name": "Criteria Corp",
+        "tagline": "Talent assessment organization",
+        "web_site": "https://www.criteriacorp.com/",
+        "main_product_or_service": "Talent assessment tools",
+        "categories": [
+            "HRTech",
+            "Recruitment"
+        ],
+        "web_domain": "criteriacorp.com"
+    },
+    {
+        "name": "BetterUp",
+        "tagline": "Pioneering AI-Powered Platform For Leaders",
+        "web_site": "https://www.betterup.com",
+        "main_product_or_service": "Leadership Development Platform",
+        "categories": [
+            "HR Tech",
+            "Coaching",
+            "AI Solutions"
+        ],
+        "web_domain": "betterup.com"
+    },
+    {
+        "name": "Paradox.ai",
+        "tagline": "Conversational AI for Recruiting",
+        "web_site": "https://www.paradox.ai",
+        "main_product_or_service": "Conversational AI Recruitment Platform",
+        "categories": [
+            "HR Tech",
+            "AI Solutions",
+            "Recruitment"
+        ],
+        "web_domain": "paradox.ai"
+    },
+    {
+        "name": "Speck Products",
+        "tagline": "Protective cases for your devices",
+        "web_site": "https://speckproducts.com",
+        "main_product_or_service": "Protective cases for smartphones, tablets, and laptops",
+        "categories": [
+            "Accessories",
+            "Consumer Electronics",
+            "Mobile Accessories"
+        ],
+        "web_domain": "speckproducts.com"
+    },
+    {
+        "name": "Melty",
+        "tagline": "Open source AI code editor.",
+        "web_site": "https://melty.sh",
+        "main_product_or_service": "AI code editor",
+        "categories": [
+            "Software",
+            "AI Tools",
+            "Development Tools"
+        ],
+        "web_domain": "melty.sh"
+    },
+    {
+        "name": "v1",
+        "tagline": "An open-source starter kit based on Midday.",
+        "web_site": "https://v1.run",
+        "main_product_or_service": "SaaS starter kit",
+        "categories": [
+            "Software",
+            "SaaS",
+            "Development Tools"
+        ],
+        "web_domain": "v1.run"
+    },
+    {
+        "name": "COSCUP",
+        "tagline": "Conference for Open Source Coders, Users, and Promoters",
+        "web_site": "https://coscup.org/2023/",
+        "main_product_or_service": "Open Source Conference",
+        "categories": [
+            "Open Source",
+            "Conference",
+            "Technology"
+        ],
+        "web_domain": "coscup.org"
+    },
+    {
+        "name": "A2O",
+        "tagline": "Generative AI Solutions for the Enterprise",
+        "web_site": "https://console.a2o.ai/",
+        "main_product_or_service": "Generative AI solutions for data analysis and chatbot integration",
+        "categories": [
+            "AI Solutions",
+            "Data Analysis",
+            "Chatbot Services"
+        ],
+        "web_domain": "a2o.ai"
+    },
+    {
+        "name": "poolside",
+        "tagline": "Building the next generation AI for software engineering",
+        "web_site": "https://poolside.ai",
+        "main_product_or_service": "AI for software development",
+        "categories": [
+            "AI",
+            "Software Engineering",
+            "Development Tools",
+            "Software Development",
+            "Artificial Intelligence",
+            "Technology",
+            "Machine Learning"
+        ],
+        "web_domain": "poolside.ai"
+    },
+    {
+        "name": "Poolside.ai",
+        "tagline": "Revolutionizing Software Development with AI",
+        "web_site": "https://reiserx.com/reiserx/poolsideai-revolutionizing-software-development-with-ai/",
+        "main_product_or_service": "Generative AI for accelerating software development",
+        "categories": [
+            "AI",
+            "Software Engineering",
+            "AI Tools"
+        ],
+        "web_domain": "reiserx.com"
+    },
+    {
+        "name": "W.",
+        "tagline": "A chronicle of the life and Presidency of George W. Bush.",
+        "web_site": "https://www.lionsgate.com/movies/w",
+        "main_product_or_service": "Film",
+        "categories": [
+            "Dark Comedy",
+            "Political Drama",
+            "Satire",
+            "Biography",
+            "Comedy",
+            "Drama",
+            "History"
+        ],
+        "web_domain": "lionsgate.com"
+    },
+    {
+        "name": "W Hotels",
+        "tagline": "Luxury Lifestyle Hotels",
+        "web_site": "https://w-hotels.marriott.com/",
+        "main_product_or_service": "Luxury hotels and residences",
+        "categories": [
+            "Hospitality",
+            "Travel",
+            "Luxury",
+            "Lifestyle"
+        ],
+        "web_domain": "w-hotels.marriott.com"
+    },
+    {
+        "name": "W Body Care",
+        "tagline": "EVERYDAY BODY CARE FOR THE WIN",
+        "web_site": "https://getw.com",
+        "main_product_or_service": "Body care products including deodorants, body washes, and shampoos",
+        "categories": [
+            "Body Care",
+            "Personal Care",
+            "Grooming"
+        ],
+        "web_domain": "getw.com"
+    },
+    {
+        "name": "Orq.ai",
+        "tagline": "Generative AI Collaboration Platform",
+        "web_site": "https://orq.ai",
+        "main_product_or_service": "Generative AI Collaboration Platform",
+        "categories": [
+            "Platform",
+            "Solutions",
+            "Application Development",
+            "Generative AI",
+            "Collaboration & Productivity",
+            "SaaS",
+            "Collaboration Platform",
+            "Artificial Intelligence",
+            "Deeptech",
+            "AI",
+            "Technology",
+            "Collaboration",
+            "No-code",
+            "Software Development",
+            "Collaboration Tools",
+            "Software"
+        ],
+        "web_domain": "orq.ai"
+    },
+    {
+        "name": "Haize Labs",
+        "tagline": "to rigorously test an LLM or agent with the purpose of preemptively discovering all of its failure modes.",
+        "web_site": "https://haizelabs.com/",
+        "main_product_or_service": "Automated red-teaming for LLMs",
+        "categories": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Technology",
+            "AI",
+            "Software Development",
+            "AI Safety",
+            "AI Research",
+            "AI Solutions"
+        ],
+        "web_domain": "haizelabs.com"
+    },
+    {
+        "name": "Merlin AI",
+        "tagline": "All-in-One AI extension to Write, Summarize, Code & Play",
+        "web_site": "https://www.getmerlin.in/",
+        "main_product_or_service": "AI writing tools for academic purposes",
+        "categories": [
+            "Artificial Intelligence",
+            "Academic Writing",
+            "Productivity Tools"
+        ],
+        "web_domain": "getmerlin.in"
+    },
+    {
+        "name": "Peking University",
+        "tagline": "Research progress on nitrogen and phosphorus runoff loss models for rice paddy",
+        "web_site": "http://www.jlakes.org/ch/index.aspx",
+        "main_product_or_service": "Research on nitrogen and phosphorus runoff loss models",
+        "categories": [
+            "Agriculture",
+            "Environmental Science",
+            "Research"
+        ],
+        "web_domain": "jlakes.org"
+    },
+    {
+        "name": "Founders You Should Know",
+        "tagline": "When we meet founders we believe in, we help build their teams with curated talent from our networks",
+        "web_site": "https://www.foundersysk.com/",
+        "main_product_or_service": "Startup showcase and networking events",
+        "categories": [
+            "Technology",
+            "Information",
+            "Internet"
+        ],
+        "web_domain": "foundersysk.com"
+    },
+    {
+        "name": "Explainable-DSE",
+        "tagline": "An Agile and Explainable Exploration of Efficient HW/SW Codesigns of Deep Learning Accelerators Using Bottleneck Analysis",
+        "web_site": "https://doi.org/10.1145/3623278.3624772",
+        "main_product_or_service": "Framework for the DSE of accelerator codesigns using bottleneck analysis",
+        "categories": [
+            "Design Space Exploration",
+            "Hardware/Software Codesign",
+            "Deep Learning Accelerators"
+        ],
+        "web_domain": "doi.org"
+    },
+    {
+        "name": "Google",
+        "tagline": "Developing and optimizing large-scale AI systems for LLM training and serving.",
+        "web_site": "https://www.xiaofanzhang.net",
+        "main_product_or_service": "AI systems development",
+        "categories": [
+            "Technology",
+            "Artificial Intelligence",
+            "Software Engineering"
+        ],
+        "web_domain": "xiaofanzhang.net"
+    },
+    {
+        "name": "Kisaco Research",
+        "tagline": "AI Infra Summit 2025",
+        "web_site": "https://ai-infra-summit.com",
+        "main_product_or_service": "Industry events and networking opportunities",
+        "categories": [
+            "Events",
+            "Networking",
+            "Research"
+        ],
+        "web_domain": "ai-infra-summit.com"
+    },
+    {
+        "name": "KUMA Outdoor Gear",
+        "tagline": "Experience Luxury Outdoors",
+        "web_site": "https://www.kumaoutdoorgear.com",
+        "main_product_or_service": "Outdoor gear and accessories",
+        "categories": [
+            "Outdoor Equipment",
+            "Camping Gear",
+            "Apparel",
+            "Accessories"
+        ],
+        "web_domain": "kumaoutdoorgear.com"
+    },
+    {
+        "name": "Scopus AI",
+        "tagline": "Trusted content. Powered by responsible AI.",
+        "web_site": "https://scopus.com",
+        "main_product_or_service": "Intuitive intelligent search tool powered by generative AI",
+        "categories": [
+            "\u79d1\u7814\u5b66\u672f",
+            "\u533b\u7597\u5065\u5eb7",
+            "\u4f01\u4e1a\u7814\u53d1"
+        ],
+        "web_domain": "scopus.com"
+    },
+    {
+        "name": "Cognizant",
+        "tagline": "Prepare for the future with AI",
+        "web_site": "https://www.cognizant.com/cn/zh",
+        "main_product_or_service": "AI-driven digital transformation services",
+        "categories": [
+            "\u4eba\u5de5\u667a\u80fd",
+            "\u6570\u5b57\u5316\u8f6c\u578b",
+            "\u54a8\u8be2\u670d\u52a1",
+            "IT\u670d\u52a1",
+            "Artificial Intelligence",
+            "Technology Consulting",
+            "Business Services"
+        ],
+        "web_domain": "cognizant.com"
     }
 ]
