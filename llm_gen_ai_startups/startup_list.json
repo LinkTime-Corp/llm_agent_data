@@ -24,8 +24,6 @@
             "Machine Learning",
             "Natural Language Processing",
             "Chatbot",
-            "\u673a\u5668\u5b66\u4e60",
-            "\u81ea\u7136\u8bed\u8a00\u5904\u7406",
             "Cybersecurity",
             "Productivity Tools",
             "Chatbots",
@@ -33,10 +31,7 @@
             "AI & ML",
             "Cloud",
             "Machine & Deep Learning",
-            "Infrastructure",
-            "\u4eba\u5de5\u667a\u80fd",
-            "\u79d1\u6280",
-            "\u7814\u7a76"
+            "Infrastructure"
         ],
         "web_domain": "openai.com"
     },
@@ -72,10 +67,7 @@
             "Natural Language Processing",
             "Artificial intelligence",
             "AI & ML",
-            "Cloud",
-            "\u4eba\u5de5\u667a\u80fd",
-            "\u79d1\u6280",
-            "\u7814\u7a76"
+            "Cloud"
         ],
         "web_domain": "anthropic.com"
     },
@@ -133,9 +125,7 @@
             "multi-language reading and writing",
             "Artificial Intelligence",
             "Content Creation",
-            "Marketing Technology",
-            "\u5e7f\u544a\u751f\u6210\u5668",
-            "\u5185\u5bb9\u751f\u6210\u5de5\u5177"
+            "Marketing Technology"
         ],
         "web_domain": "jasper.ai"
     },
@@ -159,8 +149,6 @@
             "GPT-4",
             "Distillation",
             "Compilation",
-            "\u591a\u6a21\u6001",
-            "\u89c6\u89c9\u5904\u7406",
             "Natural Language Processing",
             "Language Models",
             "Research"
@@ -369,7 +357,6 @@
         "categories": [
             "Data",
             "AI",
-            "BI\u3001\u673a\u5668\u5b66\u4e60\u548c\u9ad8\u7ea7\u5206\u6790",
             "Data Science",
             "Machine Learning",
             "Analytics"
@@ -645,6 +632,28 @@
             "Technology"
         ],
         "web_domain": "withmartian.com"
+    },
+    {
+        "name": "Microsoft",
+        "tagline": "Use live captions in Microsoft Teams meetings",
+        "web_site": "https://www.microsoft.com",
+        "main_product_or_service": "Microsoft Teams",
+        "categories": [
+            "Software",
+            "Communication",
+            "Collaboration",
+            "Video Management",
+            "Transcription Services",
+            "Cloud Services",
+            "Productivity",
+            "Cloud Computing",
+            "Productivity Software",
+            "Software as a Service",
+            "Technology",
+            "Artificial Intelligence",
+            "AI"
+        ],
+        "web_domain": "microsoft.com"
     },
     {
         "name": "Stripe",
@@ -1863,10 +1872,7 @@
         "main_product_or_service": "Phone system",
         "categories": [
             "Communication",
-            "Productivity",
-            "\u4eba\u5de5\u667a\u80fd",
-            "\u901a\u4fe1",
-            "\u79d1\u6280"
+            "Productivity"
         ],
         "web_domain": "dialpad.com"
     },
@@ -2096,8 +2102,7 @@
         "main_product_or_service": "Data analysis",
         "categories": [
             "Data",
-            "Development",
-            "BI\u3001\u673a\u5668\u5b66\u4e60\u548c\u9ad8\u7ea7\u5206\u6790"
+            "Development"
         ],
         "web_domain": "hex.tech"
     },
@@ -2423,8 +2428,7 @@
         "main_product_or_service": "Analytics software",
         "categories": [
             "Analytics",
-            "Productivity",
-            "BI\u3001\u673a\u5668\u5b66\u4e60\u548c\u9ad8\u7ea7\u5206\u6790"
+            "Productivity"
         ],
         "web_domain": "mixpanel.com"
     },
@@ -4341,6 +4345,75 @@
         "web_domain": "wysa.com"
     },
     {
+        "name": "Dify",
+        "tagline": "Dify is an open-source LLM app development platform.",
+        "web_site": "https://dify.ai",
+        "main_product_or_service": "Open-source LLM app development platform",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Development Platform",
+            "LLM",
+            "Backend-as-a-Service",
+            "Workflow",
+            "Software Development",
+            "Generative AI"
+        ],
+        "web_domain": "dify.ai"
+    },
+    {
+        "name": "Anything-LLM",
+        "tagline": "The all-in-one AI app you were looking for.",
+        "web_site": "https://anythingllm.com/",
+        "main_product_or_service": "Full-stack application for AI and document management",
+        "categories": [
+            "AI",
+            "Chatbot",
+            "Open Source",
+            "Desktop App",
+            "Web UI",
+            "AI Agents",
+            "Multi-modal",
+            "RAG",
+            "Vector Database",
+            "LLM",
+            "Local AI",
+            "Local LLM",
+            "Ollama",
+            "LLM Web UI",
+            "LM Studio",
+            "LLM Application",
+            "Agent Framework JavaScript",
+            "Crew AI",
+            "Llama3",
+            "Custom AI Agents"
+        ],
+        "web_domain": "anythingllm.com"
+    },
+    {
+        "name": "n/a",
+        "tagline": "AppBuilder",
+        "web_site": "https://www.volcengine.com",
+        "main_product_or_service": "AI and database integration for enhanced data interaction",
+        "categories": [
+            "AI"
+        ],
+        "web_domain": "volcengine.com"
+    },
+    {
+        "name": "Alibaba Mail",
+        "tagline": "A self-developed anti-spam system for email services.",
+        "web_site": "https://devs.console.aliyun.com/applications/create",
+        "main_product_or_service": "Elasticsearch",
+        "categories": [
+            "Serverless",
+            "Email Services",
+            "Cybersecurity",
+            "Cloud Computing"
+        ],
+        "web_domain": "aliyun.com"
+    },
+    {
         "name": "Google Cloud",
         "tagline": "Innovate faster with enterprise-ready AI, enhanced by Gemini models",
         "web_site": "https://cloud.google.com/",
@@ -5195,6 +5268,21 @@
         "web_domain": "anaqua.com"
     },
     {
+        "name": "AnimateZero",
+        "tagline": "AIbase is a platform providing access to AI tools and resources.",
+        "web_site": "https://www.aibase.com",
+        "main_product_or_service": "AI tools and resources",
+        "categories": [
+            "AI",
+            "Prompt",
+            "PDF",
+            "LLM",
+            "Technology",
+            "Software"
+        ],
+        "web_domain": "aibase.com"
+    },
+    {
         "name": "HeyGen",
         "tagline": "AI video creation tool",
         "web_site": "https://www.heygen.com/",
@@ -5249,6 +5337,149 @@
             "Video Generation"
         ],
         "web_domain": "neverends.life"
+    },
+    {
+        "name": "AIsphere",
+        "tagline": "AI video generation tool",
+        "web_site": "https://aisphere.tech/",
+        "main_product_or_service": "AI video generation tool",
+        "categories": [
+            "AI",
+            "Video Generation"
+        ],
+        "web_domain": "aisphere.tech"
+    },
+    {
+        "name": "LibAILab",
+        "tagline": "Computer vision and generative AI",
+        "web_site": "https://www.ishencai.com/",
+        "main_product_or_service": "Computer vision and generative AI",
+        "categories": [
+            "AI",
+            "Video Generation",
+            "Computer Vision"
+        ],
+        "web_domain": "ishencai.com"
+    },
+    {
+        "name": "6Pen",
+        "tagline": "AI drawing tool and AIGC community",
+        "web_site": "https://6pen.art/",
+        "main_product_or_service": "AI drawing tool",
+        "categories": [
+            "AI",
+            "Video Generation",
+            "Art Generation"
+        ],
+        "web_domain": "6pen.art"
+    },
+    {
+        "name": "Shengshu Technology",
+        "tagline": "Multimodal generative AI",
+        "web_site": "http://shengshu-ai.com",
+        "main_product_or_service": "Multimodal generative AI",
+        "categories": [
+            "AI",
+            "Video Generation",
+            "Generative AI"
+        ],
+        "web_domain": "shengshu-ai.com"
+    },
+    {
+        "name": "n/a",
+        "tagline": "AI video generation tool",
+        "web_site": "https://www.artink.art/",
+        "main_product_or_service": "AI video generation tool",
+        "categories": [
+            "AI",
+            "Video Generation"
+        ],
+        "web_domain": "artink.art"
+    },
+    {
+        "name": "RightBrain AI",
+        "tagline": "AI image and video generation",
+        "web_site": "https://rightbrainai.cn/",
+        "main_product_or_service": "AI image and video generation",
+        "categories": [
+            "AI",
+            "Video Generation"
+        ],
+        "web_domain": "rightbrainai.cn"
+    },
+    {
+        "name": "Vidu",
+        "tagline": "Work-ready AI trained for safety & accuracy",
+        "web_site": "https://hbzgn.com/archives/5808.html",
+        "main_product_or_service": "n/a",
+        "categories": [],
+        "web_domain": "hbzgn.com"
+    },
+    {
+        "name": "UniVG",
+        "tagline": "Spectacles '24 is an AR glasses designed to connect people through augmented reality technology.",
+        "web_site": "https://top.aibase.com/tool/univg",
+        "main_product_or_service": "AR glasses",
+        "categories": [
+            "AI",
+            "Augmented Reality",
+            "Fashion",
+            "Technology",
+            "LLM",
+            "agent",
+            "drag-and-drop"
+        ],
+        "web_domain": "top.aibase.com"
+    },
+    {
+        "name": "Anomalo",
+        "tagline": "A data quality platform that uses machine learning for automated checks.",
+        "web_site": "https://anomalo.com",
+        "main_product_or_service": "Data quality monitoring and insights",
+        "categories": [
+            "Data Quality",
+            "Machine Learning",
+            "Analytics"
+        ],
+        "web_domain": "anomalo.com"
+    },
+    {
+        "name": "Databricks",
+        "tagline": "Unified data analytics platform.",
+        "web_site": "https://www.databricks.com/product/data-lakehouse",
+        "main_product_or_service": "Lakehouse Platform",
+        "categories": [
+            "Data Analytics",
+            "Cloud Computing",
+            "Machine Learning"
+        ],
+        "web_domain": "databricks.com"
+    },
+    {
+        "name": "Tecton",
+        "tagline": "A machine learning feature store platform.",
+        "web_site": "https://www.tecton.ai/product/",
+        "main_product_or_service": "Machine learning feature store",
+        "categories": [
+            "Data Science",
+            "Machine Learning"
+        ],
+        "web_domain": "tecton.ai"
+    },
+    {
+        "name": "Algorithmia",
+        "tagline": "A platform for developers to share knowledge and insights.",
+        "web_site": "https://juejin.cn/post/7103331365269176334",
+        "main_product_or_service": "Developer community and knowledge sharing platform",
+        "categories": [
+            "Technology",
+            "Community",
+            "Education",
+            "AI",
+            "MLOps",
+            "Machine Learning"
+        ],
+        "web_domain": "juejin.cn"
     },
     {
         "name": "Mordor Intelligence",
@@ -5503,9 +5734,7 @@
             "Risk Assessment",
             "AI",
             "Healthcare",
-            "Software Development",
-            "API\u6d4b\u8bd5",
-            "AI\u5de5\u5177"
+            "Software Development"
         ],
         "web_domain": "aptori.dev"
     },
@@ -6131,6 +6360,14 @@
             "Gaming"
         ],
         "web_domain": "sony.com"
+    },
+    {
+        "name": "n/a",
+        "tagline": "\u300aRaiatea\u300b",
+        "web_site": "http://boardgametable.blogspot.com/",
+        "main_product_or_service": "n/a",
+        "categories": [],
+        "web_domain": "boardgametable.blogspot.com"
     },
     {
         "name": "Arize AI",
@@ -7160,10 +7397,7 @@
             "AI",
             "Data",
             "Enterprise",
-            "Government",
-            "\u4eba\u5de5\u667a\u80fd",
-            "\u79d1\u6280",
-            "\u6570\u636e\u670d\u52a1"
+            "Government"
         ],
         "web_domain": "scale.com"
     },
@@ -7464,6 +7698,18 @@
             "Edge Platforms"
         ],
         "web_domain": "edgeir.com"
+    },
+    {
+        "name": "BlinqIO",
+        "tagline": "An AI-based software testing tool with a powerful testing framework.",
+        "web_site": "https://blinq.io/",
+        "main_product_or_service": "AI software testing tool",
+        "categories": [
+            "Software Testing",
+            "Automation",
+            "AI Tools"
+        ],
+        "web_domain": "blinq.io"
     },
     {
         "name": "testRigor",
@@ -8162,10 +8408,7 @@
         "categories": [
             "Finance",
             "Investment",
-            "Brokerage",
-            "\u91d1\u878d\u670d\u52a1",
-            "\u8bc1\u5238\u7ecf\u7eaa",
-            "\u6295\u8d44"
+            "Brokerage"
         ],
         "web_domain": "interactivebrokers.com.hk"
     },
@@ -9818,10 +10061,7 @@
         "categories": [
             "Messaging",
             "Social Media",
-            "Communication",
-            "\u901a\u8baf",
-            "\u793e\u4ea4\u5a92\u4f53",
-            "\u5e94\u7528\u7a0b\u5e8f"
+            "Communication"
         ],
         "web_domain": "telegram.org"
     },
@@ -10828,21 +11068,6 @@
         "web_domain": "internaldeveloperplatform.org"
     },
     {
-        "name": "Oracle Java ME",
-        "tagline": "Java Platform, Micro Edition (Java ME) provides a robust, flexible environment for applications running on embedded and mobile devices in the Internet of Things.",
-        "web_site": "https://www.oracle.com/java/technologies/java-me.html",
-        "main_product_or_service": "Java ME Embedded",
-        "categories": [
-            "Software",
-            "Technology",
-            "Embedded Systems",
-            "\u91d1\u878d\u670d\u52a1",
-            "\u5408\u89c4\u6027\u7ba1\u7406",
-            "\u53cd\u6d17\u94b1"
-        ],
-        "web_domain": "oracle.com"
-    },
-    {
         "name": "CNOE",
         "tagline": "Cloud Native Operational Excellence",
         "web_site": "https://cnoe.io",
@@ -11155,6 +11380,18 @@
             "Consulting"
         ],
         "web_domain": "ventionteams.com"
+    },
+    {
+        "name": "Runway",
+        "tagline": "Generative video and image AI",
+        "web_site": "https://runwayml.com",
+        "main_product_or_service": "Gen-2",
+        "categories": [
+            "AI",
+            "Artificial Intelligence",
+            "Video Generation"
+        ],
+        "web_domain": "runwayml.com"
     },
     {
         "name": "Cycode",
@@ -11840,6 +12077,18 @@
             "Chatbots"
         ],
         "web_domain": "decagon.ai"
+    },
+    {
+        "name": "Deepgram",
+        "tagline": "AI automatic speech recognition company providing voice recognition services.",
+        "web_site": "https://www.deepgram.com",
+        "main_product_or_service": "Voice recognition services",
+        "categories": [
+            "AI",
+            "Speech Recognition",
+            "Technology"
+        ],
+        "web_domain": "deepgram.com"
     },
     {
         "name": "Fanruan",
@@ -12560,10 +12809,7 @@
         "categories": [
             "Power Systems",
             "Robotics",
-            "Electronics",
-            "\u673a\u5668\u4eba",
-            "\u7535\u6e90\u7cfb\u7edf",
-            "\u5de5\u4e1a"
+            "Electronics"
         ],
         "web_domain": "vicorpower.com"
     },
@@ -13426,9 +13672,6 @@
             "Talent Management",
             "Workforce Exchange",
             "Resource Management",
-            "\u8f6f\u4ef6\u670d\u52a1\u53caSaaS",
-            "\u79c1\u6709\u53ca\u5f85\u4e0a\u5e02\u516c\u53f8",
-            "\u7ba1\u7406\u54a8\u8be2\u987e\u95ee\u4eba\u529b",
             "Machine Learning",
             "HRTech",
             "Artificial Intelligence"
@@ -13698,6 +13941,31 @@
         "web_domain": "crowdstrike.com"
     },
     {
+        "name": "EPAM Systems",
+        "tagline": "Global digital transformation services and product engineering solutions provider.",
+        "web_site": "https://www.epam.com",
+        "main_product_or_service": "Digital transformation services and product engineering solutions",
+        "categories": [
+            "IT Services",
+            "Digital Transformation",
+            "Product Engineering",
+            "Software Development",
+            "Consulting",
+            "Software & Platform Engineering",
+            "Agility",
+            "Product Development",
+            "IoT",
+            "Next-Gen Architecture",
+            "Application & Cloud Management",
+            "Big Data & Analytics",
+            "Consulting Services",
+            "Digital Engagement",
+            "Mobility",
+            "Strategy & Experience"
+        ],
+        "web_domain": "epam.com"
+    },
+    {
         "name": "Tech Mahindra",
         "tagline": "IT services company",
         "web_site": "https://www.techmahindra.com",
@@ -13707,19 +13975,6 @@
             "Engineering Services"
         ],
         "web_domain": "techmahindra.com"
-    },
-    {
-        "name": "Infosys",
-        "tagline": "Global leader in next-generation digital services and consulting",
-        "web_site": "https://www.infosys.com",
-        "main_product_or_service": "IT services and consulting",
-        "categories": [
-            "Information Technology",
-            "Consulting",
-            "IT Services",
-            "Digital Transformation"
-        ],
-        "web_domain": "infosys.com"
     },
     {
         "name": "Wipro",
@@ -14895,6 +15150,28 @@
         "web_domain": "ai.google.dev"
     },
     {
+        "name": "gemsouls",
+        "tagline": "An AI platform supporting virtual characters and their connection to the real world.",
+        "web_site": "https://www.mygemsouls.com/",
+        "main_product_or_service": "AI platform for virtual characters",
+        "categories": [
+            "ChatGPT API",
+            "AI",
+            "Chatbots",
+            "Virtual Reality",
+            "Companion"
+        ],
+        "web_domain": "mygemsouls.com"
+    },
+    {
+        "name": "gemsouls",
+        "tagline": "Paralegal AI",
+        "web_site": "https://aitoolbox.cn/sites/1363.html",
+        "main_product_or_service": "n/a",
+        "categories": [],
+        "web_domain": "aitoolbox.cn"
+    },
+    {
         "name": "LunaLust",
         "tagline": "AI Girlfriend platform that helps you find your perfect virtual partner.",
         "web_site": "https://lunalust.ai/?ref=aitools.fyi&utm_source=aitools.fyi",
@@ -15445,8 +15722,7 @@
             "openAI",
             "AI customization",
             "rapid AI solution creation",
-            "AI workflows",
-            "AI \u5c0f\u5de5\u5177"
+            "AI workflows"
         ],
         "web_domain": "gooey.ai"
     },
@@ -15669,10 +15945,7 @@
         "categories": [
             "NLP",
             "Cloud Computing",
-            "AI",
-            "\u4e91\u8ba1\u7b97",
-            "\u4eba\u5de5\u667a\u80fd",
-            "\u8bed\u97f3\u8bc6\u522b"
+            "AI"
         ],
         "web_domain": "cloud.tencent.com"
     },
@@ -15795,6 +16068,18 @@
             "Chips"
         ],
         "web_domain": "groq.com"
+    },
+    {
+        "name": "Gumloop",
+        "tagline": "Automate any workflow with AI.",
+        "web_site": "https://gumloop.com",
+        "main_product_or_service": "AI Automation Framework",
+        "categories": [
+            "Web Scraping",
+            "SEO Marketing",
+            "Document Processing"
+        ],
+        "web_domain": "gumloop.com"
     },
     {
         "name": "Inflection AI",
@@ -16482,10 +16767,6 @@
             "AI Solutions",
             "DevOps",
             "Content Management",
-            "\u96f2\u7ba1\u7406",
-            "IT\u904b\u71df",
-            "\u6578\u64da\u7ba1\u7406",
-            "\u5b89\u5168\u6027",
             "B2B Integration",
             "Data Management",
             "Supply Chain Management"
@@ -16528,6 +16809,14 @@
             "Search Engine"
         ],
         "web_domain": "bing.com"
+    },
+    {
+        "name": "Tracktion Software Corporation",
+        "tagline": "Waveform Pro",
+        "web_site": "https://www.tracktion.com/products/waveform-pro",
+        "main_product_or_service": "n/a",
+        "categories": [],
+        "web_domain": "tracktion.com"
     },
     {
         "name": "Matrix AI",
@@ -16646,11 +16935,7 @@
         "tagline": "Digital Performer",
         "web_site": "http://www.motu.com/",
         "main_product_or_service": "MIDI/Audio Workstation",
-        "categories": [
-            "\u97f3\u9891\u5de5\u4f5c\u7ad9",
-            "\u97f3\u4e50\u5de5\u4f5c\u7ad9",
-            "MIDI\u5de5\u4f5c\u7ad9"
-        ],
+        "categories": [],
         "web_domain": "motu.com"
     },
     {
@@ -17247,6 +17532,14 @@
         "web_domain": "coscup.org"
     },
     {
+        "name": "Xtremepush",
+        "tagline": "Xtremepush is an Omnichannel Customer Engagement Platform powered by a built-in CDP.",
+        "web_site": "https://zh/supplier/xtremepush/v4934",
+        "main_product_or_service": "n/a",
+        "categories": [],
+        "web_domain": "zh/supplier/xtremepush/v4934"
+    },
+    {
         "name": "A2O",
         "tagline": "Generative AI Solutions for the Enterprise",
         "web_site": "https://console.a2o.ai/",
@@ -17459,11 +17752,7 @@
         "tagline": "Trusted content. Powered by responsible AI.",
         "web_site": "https://scopus.com",
         "main_product_or_service": "Intuitive intelligent search tool powered by generative AI",
-        "categories": [
-            "\u79d1\u7814\u5b66\u672f",
-            "\u533b\u7597\u5065\u5eb7",
-            "\u4f01\u4e1a\u7814\u53d1"
-        ],
+        "categories": [],
         "web_domain": "scopus.com"
     },
     {
@@ -17472,10 +17761,6 @@
         "web_site": "https://www.cognizant.com/cn/zh",
         "main_product_or_service": "AI-driven digital transformation services",
         "categories": [
-            "\u4eba\u5de5\u667a\u80fd",
-            "\u6570\u5b57\u5316\u8f6c\u578b",
-            "\u54a8\u8be2\u670d\u52a1",
-            "IT\u670d\u52a1",
             "Artificial Intelligence",
             "Technology Consulting",
             "Business Services"
