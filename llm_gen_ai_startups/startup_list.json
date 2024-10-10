@@ -131,7 +131,7 @@
     },
     {
         "name": "Hugging Face",
-        "tagline": "Community forum for AI and ML model development.",
+        "tagline": "The AI community building the future.",
         "web_site": "https://huggingface.co/",
         "main_product_or_service": "BLOOM, Enterprise Hub, Inference Endpoints, AutoTrain",
         "categories": [
@@ -843,7 +843,7 @@
     {
         "name": "Nobias Therapeutics",
         "tagline": "Using AI tools to accelerate drug development.",
-        "web_site": "nobiastx.com",
+        "web_site": "https://nobiastx.com",
         "main_product_or_service": "AI-driven drug discovery",
         "categories": [
             "Biotechnology",
@@ -867,7 +867,7 @@
     {
         "name": "Roboflow",
         "tagline": "The fastest way to use computer vision in production.",
-        "web_site": "https://roboflow.com/careers?ref=whoishiring0123",
+        "web_site": "https://roboflow.com/careers",
         "main_product_or_service": "Computer vision platform",
         "categories": [
             "Technology",
@@ -917,7 +917,7 @@
     {
         "name": "Loom",
         "tagline": "Video recording, editing, and hosting for work.",
-        "web_site": "https://www.loom.com/careers#positions",
+        "web_site": "https://www.loom.com/careers",
         "main_product_or_service": "Video communication platform",
         "categories": [
             "Technology",
@@ -1216,7 +1216,7 @@
     {
         "name": "10x Future Technologies",
         "tagline": "Banking technology startup",
-        "web_site": "https://www.10xbanking.com/platform?ref=thestack.technology",
+        "web_site": "https://www.10xbanking.com/platform",
         "main_product_or_service": "cloud-native, API-based core banking offering",
         "categories": [
             "Banking",
@@ -1229,7 +1229,7 @@
     {
         "name": "LexlabsAI",
         "tagline": "AI tools for contract management and legal innovation.",
-        "web_site": "https://www.linkedin.com/company/lexlabsai?trk=public_post_feed-actor-name",
+        "web_site": "https://www.linkedin.com/company/lexlabsai",
         "main_product_or_service": "AI tools for contract management",
         "categories": [
             "LegalTech",
@@ -2173,7 +2173,9 @@
             "Support",
             "Customer Service",
             "AI",
-            "Chatbots"
+            "Chatbots",
+            "Customer Support",
+            "Technology"
         ],
         "web_domain": "intercom.com"
     },
@@ -3416,7 +3418,7 @@
     {
         "name": "LangChain",
         "tagline": "A powerful framework that simplifies the process of building advanced language model applications.",
-        "web_site": "https://docs.langchain.com/docs/?ref=notes.replicatecodex.com",
+        "web_site": "https://docs.langchain.com/docs/",
         "main_product_or_service": "Language model application framework",
         "categories": [
             "Software Development",
@@ -4577,7 +4579,9 @@
         "main_product_or_service": "LLM application monitoring and evaluation",
         "categories": [
             "AI",
-            "Monitoring Tools"
+            "Monitoring Tools",
+            "Software",
+            "Data Analytics"
         ],
         "web_domain": "honeyhive.ai"
     },
@@ -4607,7 +4611,7 @@
     {
         "name": "e2b-dev",
         "tagline": "A list of AI autonomous agents",
-        "web_site": "https://e2b.dev",
+        "web_site": "https://e2b.dev/docs",
         "main_product_or_service": "Code Interpreter SDK",
         "categories": [
             "AI",
@@ -4793,15 +4797,19 @@
     },
     {
         "name": "Snowflake",
-        "tagline": "Snowflake Cortex gives you instant access to industry-leading large language models (LLMs) trained by researchers at companies like Mistral, Reka, Meta, and Google.",
-        "web_site": "https://www.snowflake.com",
+        "tagline": "Cloud Data Platform",
+        "web_site": "https://www.snowflake.com/",
         "main_product_or_service": "Snowflake Cortex LLM Functions",
         "categories": [
             "AI",
             "Machine Learning",
             "Data Cloud",
             "Cloud Data Platform",
-            "Gen AI"
+            "Gen AI",
+            "Cloud Computing",
+            "Data Warehousing",
+            "Big Data",
+            "Analytics"
         ],
         "web_domain": "snowflake.com"
     },
@@ -5236,7 +5244,7 @@
     {
         "name": "Nvidia",
         "tagline": "Nvidia partners with Amgen to build a generative AI platform Freyja to accelerate drug development.",
-        "web_site": "https://www.technice.com.tw/?s=Nvidia",
+        "web_site": "https://www.technice.com.tw/",
         "main_product_or_service": "Generative AI for drug development",
         "categories": [
             "AI",
@@ -5296,7 +5304,7 @@
     {
         "name": "HiDream.ai",
         "tagline": "Generative AI company focusing on visual multimodal models",
-        "web_site": "https://hidream.ai/#/",
+        "web_site": "https://hidream.ai/",
         "main_product_or_service": "Visual multimodal generative AI",
         "categories": [
             "AI",
@@ -5418,7 +5426,7 @@
     {
         "name": "UniVG",
         "tagline": "Spectacles '24 is an AR glasses designed to connect people through augmented reality technology.",
-        "web_site": "https://top.aibase.com/tool/univg",
+        "web_site": "https://top.aibase.com/excesslink",
         "main_product_or_service": "AR glasses",
         "categories": [
             "AI",
@@ -5592,12 +5600,19 @@
     },
     {
         "name": "Snorkel AI",
-        "tagline": "A data-centric system to accelerate AI and machine learning development.",
-        "web_site": "https://snorkel.ai/",
+        "tagline": "Programmatic AI Data Development",
+        "web_site": "https://www.snorkel.ai",
         "main_product_or_service": "Data-centric AI development platform",
         "categories": [
             "Data Science",
-            "Machine Learning"
+            "Machine Learning",
+            "Data Labeling",
+            "Data Annotation",
+            "LLM Fine-Tuning",
+            "NLP Applications",
+            "Computer Vision",
+            "AI Data Development",
+            "Natural Language Processing"
         ],
         "web_domain": "snorkel.ai"
     },
@@ -6804,7 +6819,7 @@
     {
         "name": "Design & Reuse",
         "tagline": "The Market Place for Embedded Systems",
-        "web_site": "www.design-reuse-china.com",
+        "web_site": "https://www.design-reuse-china.com",
         "main_product_or_service": "Embedded Systems Marketplace",
         "categories": [
             "Embedded Systems",
@@ -7199,7 +7214,7 @@
     {
         "name": "Glide Apps",
         "tagline": "AI app builder that allows anyone to create custom mobile and web apps without coding.",
-        "web_site": "https://go.glideapps.com/?signUp=&mdid=%24device%3A1920ac2724c1ace-031382fdd18b9-b457558-46500-1920ac2724d1acf",
+        "web_site": "https://go.glideapps.com/",
         "main_product_or_service": "No-code app development platform",
         "categories": [
             "No-Code",
@@ -7237,7 +7252,7 @@
     {
         "name": "Frontly",
         "tagline": "AI-powered no-code app builder",
-        "web_site": "https://ca.linkedin.com/company/frontly?trk=public_post-text",
+        "web_site": "https://ca.linkedin.com/company/frontly",
         "main_product_or_service": "No-code app development platform",
         "categories": [
             "No-Code",
@@ -7261,7 +7276,7 @@
     {
         "name": "FlowiseAI",
         "tagline": "AI-powered tool for building workflows",
-        "web_site": "https://www.linkedin.com/company/flowiseai?trk=public_post-text",
+        "web_site": "https://www.linkedin.com/company/flowiseai",
         "main_product_or_service": "AI workflow automation",
         "categories": [
             "AI",
@@ -7306,7 +7321,7 @@
     {
         "name": "OpenStatus",
         "tagline": "Open source status monitoring",
-        "web_site": "https://www.linkedin.com/company/openstatus?trk=public_post-text",
+        "web_site": "https://www.linkedin.com/company/openstatus",
         "main_product_or_service": "Status monitoring service",
         "categories": [
             "Monitoring",
@@ -7350,7 +7365,7 @@
     {
         "name": "OpenSign",
         "tagline": "Open source DocuSign alternative",
-        "web_site": "https://www.linkedin.com/company/opensignhq?trk=public_post-comment-text",
+        "web_site": "https://www.linkedin.com/company/opensignhq",
         "main_product_or_service": "E-signature service",
         "categories": [
             "E-signature",
@@ -8059,7 +8074,7 @@
     {
         "name": "Amplify.ai",
         "tagline": "AI chatbot tool for Facebook and Instagram comments.",
-        "web_site": "https://www.amplify.ai/#welcome",
+        "web_site": "https://www.amplify.ai/",
         "main_product_or_service": "AI Chatbot Tool",
         "categories": [
             "Customer Service",
@@ -8368,7 +8383,7 @@
     {
         "name": "BIGPIE C&T CO.,LTD",
         "tagline": "Korean cosmetics",
-        "web_site": "https://bigpiecnt.trustpass.alibaba.com/zh_CN/index.html?from=detail&productId=1700006061891",
+        "web_site": "https://bigpiecnt.trustpass.alibaba.com/zh_CN/index.html",
         "main_product_or_service": "Supple Preparation unscented & Facial Toner",
         "categories": [
             "Korean cosmetics",
@@ -8439,7 +8454,7 @@
     {
         "name": "AppTotal",
         "tagline": "Democratizing third-party apps security",
-        "web_site": "https://apptotal.io/?ref=blog.canonic.security",
+        "web_site": "https://apptotal.io/",
         "main_product_or_service": "Risk assessment for third-party OAuth apps",
         "categories": [
             "SaaS",
@@ -8571,7 +8586,7 @@
     {
         "name": "Cartwheel",
         "tagline": "Transform Your Text into Mind-Blowing Animations",
-        "web_site": "https://getcartwheel.com/?ref=therundown",
+        "web_site": "https://getcartwheel.com/",
         "main_product_or_service": "Text to character animations",
         "categories": [
             "AI Tools",
@@ -9125,7 +9140,7 @@
     {
         "name": "Zahner-Elektrik GmbH & Co. KG",
         "tagline": "Renowned manufacturer of high-end potentiostats for electrochemistry.",
-        "web_site": "//zahner.de/",
+        "web_site": "https://zahner.de/",
         "main_product_or_service": "High-end potentiostats.",
         "categories": [
             "Manufacturing",
@@ -9159,7 +9174,7 @@
     {
         "name": "CERA SYSTEM Verschlei\u00dfschutz GmbH",
         "tagline": "Manufacturer of ceramic series components and ceramic-lined valves",
-        "web_site": "www.cerasystem.de",
+        "web_site": "https://www.cerasystem.de",
         "main_product_or_service": "Ceramic series components and ceramic-lined valves",
         "categories": [
             "Automotive engineering",
@@ -9198,7 +9213,7 @@
     {
         "name": "Bella Cera",
         "tagline": "Vivaldi Collection - Magnificat",
-        "web_site": "https://www.randrproducts.com/Flooring/Bella%20Cera/Bella%20Cera-Hardwood-Flooring.aspx?pTypeId=1&mId=5",
+        "web_site": "https://www.randrproducts.com/Flooring/Bella%20Cera/Bella%20Cera-Hardwood-Flooring.aspx",
         "main_product_or_service": "Hardwood Flooring",
         "categories": [
             "Flooring",
@@ -9853,7 +9868,7 @@
     {
         "name": "Cody",
         "tagline": "Read, write and understand code faster",
-        "web_site": "https://about.sourcegraph.com/cody?ref=hackernoon.com",
+        "web_site": "https://about.sourcegraph.com/cody",
         "main_product_or_service": "AI code assistant",
         "categories": [
             "AI",
@@ -9865,7 +9880,7 @@
     {
         "name": "Mutable AI",
         "tagline": "Build fast with AI",
-        "web_site": "https://mutable.ai/?ref=hackernoon.com",
+        "web_site": "https://mutable.ai/",
         "main_product_or_service": "AI-driven code assistant",
         "categories": [
             "AI",
@@ -11546,7 +11561,7 @@
     {
         "name": "AI Supremacy",
         "tagline": "Top Generative AI Product Gaps to Invest In",
-        "web_site": "www.ai-supremacy.com",
+        "web_site": "https://www.ai-supremacy.com",
         "main_product_or_service": "Generative AI insights and investment opportunities",
         "categories": [
             "Generative AI",
@@ -12105,7 +12120,7 @@
     {
         "name": "TranslatePress AI",
         "tagline": "A revolutionary new AI translation tool that lets you translate your website automatically using a combination of the world\u2019s leading neural machine AI translation tools.",
-        "web_site": "https://translatepress.com/ai/?utm_source=blog&utm_content=best-ai-translation-tool",
+        "web_site": "https://translatepress.com/ai/",
         "main_product_or_service": "AI translation tool for websites",
         "categories": [
             "AI",
@@ -12293,7 +12308,7 @@
     {
         "name": "DevRev",
         "tagline": "Unify Customer Support & Software Development",
-        "web_site": "https://devrev.ai/",
+        "web_site": "https://devrev.ai",
         "main_product_or_service": "AgentOS platform and knowledge graph",
         "categories": [
             "Product",
@@ -13553,7 +13568,7 @@
     {
         "name": "Carveco",
         "tagline": "Carveco Maker For SainSmart Customers",
-        "web_site": "https://store-us.carveco.com/products/carveco-maker-for-sainsmart?ref=5pctOff",
+        "web_site": "https://store-us.carveco.com/products/carveco-maker-for-sainsmart",
         "main_product_or_service": "Carveco Maker",
         "categories": [
             "Software",
@@ -13604,7 +13619,7 @@
     {
         "name": "Hailo",
         "tagline": "Pioneering chipmaker of edge artificial intelligence (AI) processors",
-        "web_site": "https://www.ourcrowd.com/companies/hailo?utm_source=benzinga&utm_medium=banner&utm_campaign=hailo_on_benzinga",
+        "web_site": "https://www.ourcrowd.com/companies/hailo",
         "main_product_or_service": "Hailo-10 AI Accelerator",
         "categories": [
             "Artificial Intelligence",
@@ -14782,7 +14797,7 @@
     {
         "name": "Beyond Ordinary Guides",
         "tagline": "Curated Travel Guides & Authentic Stores for the Aesthetic Minded Traveler",
-        "web_site": "www.beyondordinaryguides.com",
+        "web_site": "https://www.beyondordinaryguides.com",
         "main_product_or_service": "Curated travel guides",
         "categories": [
             "Travel",
@@ -15140,7 +15155,7 @@
     {
         "name": "Google AI Gemma",
         "tagline": "A series of advanced lightweight open models built using the same technology and research results as Gemini models.",
-        "web_site": "https://ai.google.dev/gemma?hl=zh-cn",
+        "web_site": "https://ai.google.dev/gemma",
         "main_product_or_service": "Open AI models",
         "categories": [
             "AI",
@@ -15174,7 +15189,7 @@
     {
         "name": "LunaLust",
         "tagline": "AI Girlfriend platform that helps you find your perfect virtual partner.",
-        "web_site": "https://lunalust.ai/?ref=aitools.fyi&utm_source=aitools.fyi",
+        "web_site": "https://lunalust.ai/",
         "main_product_or_service": "AI Girlfriend",
         "categories": [
             "Companion"
@@ -15184,7 +15199,7 @@
     {
         "name": "AI Charfriend",
         "tagline": "A free platform providing unrestricted NSFW character AI chat experience without any filters.",
-        "web_site": "https://charfriend.com/ai-character?ref=aitools.fyi&utm_source=aitools.fyi",
+        "web_site": "https://charfriend.com/ai-character",
         "main_product_or_service": "NSFW AI chat platform",
         "categories": [
             "AI Girlfriend"
@@ -15583,7 +15598,7 @@
     {
         "name": "Chord ai",
         "tagline": "Discover chords, beats and lyrics for your favorite songs instantly with Chordai's AI music assistant.",
-        "web_site": "https://www.chordai.net?ref=deepgram&utm_source=deepgram&utm_medium=referral",
+        "web_site": "https://www.chordai.net",
         "main_product_or_service": "AI music assistant",
         "categories": [
             "Music",
@@ -15714,7 +15729,7 @@
     {
         "name": "Gooey AI",
         "tagline": "Discover, customize, and deploy low-code AI solutions.",
-        "web_site": "https://gooey.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "web_site": "https://gooey.ai/",
         "main_product_or_service": "Low-code AI solutions",
         "categories": [
             "low-code AI",
@@ -15940,7 +15955,7 @@
     {
         "name": "Tencent Cloud",
         "tagline": "NLP Services",
-        "web_site": "https://cloud.tencent.com/product/nlp?from=21341&from_column=21341",
+        "web_site": "https://cloud.tencent.com/product/nlp",
         "main_product_or_service": "Natural Language Processing (NLP) services",
         "categories": [
             "NLP",
@@ -15973,7 +15988,9 @@
         "categories": [
             "AI",
             "Software Development",
-            "Developer Tools"
+            "Developer Tools",
+            "Tech",
+            "Startups"
         ],
         "web_domain": "techcrunch.com"
     },
@@ -16072,7 +16089,7 @@
     {
         "name": "Gumloop",
         "tagline": "Automate any workflow with AI.",
-        "web_site": "https://gumloop.com",
+        "web_site": "https://www.gumloop.com/",
         "main_product_or_service": "AI Automation Framework",
         "categories": [
             "Web Scraping",
@@ -17270,7 +17287,7 @@
     {
         "name": "HighRadius",
         "tagline": "GenAI-powered finance solutions",
-        "web_site": "https://www.highradius.com/about/news/highradius-announces-first-ever-finance-team-centric-accounts-payable-solution/#:~:text=With%20HighRadius'%20GenAI%2Dpowered%20Accounts,guidelines%20for%20any%20actions%20required.",
+        "web_site": "https://www.highradius.com/about/news/highradius-announces-first-ever-finance-team-centric-accounts-payable-solution/",
         "main_product_or_service": "Finance automation solutions",
         "categories": [
             "Fintech",
@@ -17402,7 +17419,7 @@
     {
         "name": "Tandem",
         "tagline": "AI to accelerate access to medicine",
-        "web_site": "https://withtandem.com/?utm_source=otta.com",
+        "web_site": "https://withtandem.com/",
         "main_product_or_service": "AI-driven healthcare solutions",
         "categories": [
             "Healthcare",
@@ -17766,5 +17783,305 @@
             "Business Services"
         ],
         "web_domain": "cognizant.com"
+    },
+    {
+        "name": "Maven",
+        "tagline": "Unlock your career growth",
+        "web_site": "https://www.maven.com",
+        "main_product_or_service": "Live courses with real-world experts",
+        "categories": [
+            "Education",
+            "Online Learning",
+            "Professional Development"
+        ],
+        "web_domain": "maven.com"
+    },
+    {
+        "name": "STATION F",
+        "tagline": "STATION F is the largest startup campus in the world.",
+        "web_site": "https://stationf.co",
+        "main_product_or_service": "Startup campus and services for entrepreneurs",
+        "categories": [
+            "Startup",
+            "Incubator",
+            "Coworking Space",
+            "Entrepreneurship",
+            "Innovation",
+            "Technology"
+        ],
+        "web_domain": "stationf.co"
+    },
+    {
+        "name": "SAP",
+        "tagline": "SAP debuts a new, more collaborative Joule powered by open-source LLMs",
+        "web_site": "https://www.sap.com",
+        "main_product_or_service": "Generative AI copilot Joule",
+        "categories": [
+            "AI",
+            "Cloud Computing",
+            "Software",
+            "Enterprise Software"
+        ],
+        "web_domain": "sap.com"
+    },
+    {
+        "name": "Indeed",
+        "tagline": "Find jobs, company reviews, and salaries",
+        "web_site": "https://www.indeed.com/",
+        "main_product_or_service": "Job search platform",
+        "categories": [
+            "Job Search",
+            "Employment",
+            "Recruitment"
+        ],
+        "web_domain": "indeed.com"
+    },
+    {
+        "name": "Stride",
+        "tagline": "Software that exceeds expectations today, GenAI and Agile best practices to up-skill your team for tomorrow.",
+        "web_site": "https://www.stride.build",
+        "main_product_or_service": "Custom Software Delivery and GenAI solutions",
+        "categories": [
+            "IT Services and IT Consulting",
+            "Software Development",
+            "Agile Software Development",
+            "GenAI"
+        ],
+        "web_domain": "stride.build"
+    },
+    {
+        "name": "Vanguard, Inc.",
+        "tagline": "Empowering individual investors to influence shareholder matters.",
+        "web_site": "https://vanguard.com",
+        "main_product_or_service": "Investment Stewardship",
+        "categories": [
+            "ESG",
+            "investors",
+            "Shareholders"
+        ],
+        "web_domain": "vanguard.com"
+    },
+    {
+        "name": "Truthset",
+        "tagline": "Data validation-as-a-service startup",
+        "web_site": "https://www.startuphub.ai/data-point-capital-leads-5m-round-in-truthset-to-validate-accuracy-of-consumer-data/",
+        "main_product_or_service": "Data validation services",
+        "categories": [
+            "Data Validation",
+            "Advertising",
+            "Technology",
+            "Blockchain",
+            "AI",
+            "Healthcare",
+            "Environmental Technology",
+            "Recruitment",
+            "Enterprise Software"
+        ],
+        "web_domain": "startuphub.ai"
+    },
+    {
+        "name": "Basecamp Research",
+        "tagline": "AI-powered database of life",
+        "web_site": "https://sifted.eu/articles/basecamp-research-60m-series-b/",
+        "main_product_or_service": "AI-powered database",
+        "categories": [
+            "Climate Tech",
+            "Venture Capital",
+            "Artificial Intelligence",
+            "Technology",
+            "Photo Editing",
+            "Robotics",
+            "Audio Technology"
+        ],
+        "web_domain": "sifted.eu"
+    },
+    {
+        "name": "Fondo",
+        "tagline": "Bookkeeping, Tax, and Tax Credits for startups.",
+        "web_site": "http://tryfondo.com",
+        "main_product_or_service": "Tax Credits, Bookkeeping, Tax Filing",
+        "categories": [
+            "Finance",
+            "Tax Services",
+            "Bookkeeping"
+        ],
+        "web_domain": "tryfondo.com"
+    },
+    {
+        "name": "Safe Security",
+        "tagline": "Welcome to the Future of Cyber Risk Management",
+        "web_site": "https://safe.security",
+        "main_product_or_service": "SAFE One - Unified Platform for Cyber Risk Management",
+        "categories": [
+            "Cybersecurity",
+            "Risk Management",
+            "Technology"
+        ],
+        "web_domain": "safe.security"
+    },
+    {
+        "name": "Wolters Kluwer",
+        "tagline": "Combining Domain Expertise With Advanced Technology",
+        "web_site": "https://www.wolterskluwer.com/en",
+        "main_product_or_service": "Information, software solutions and services for professionals in healthcare, tax and accounting, financial and corporate compliance, legal and regulatory, corporate performance and ESG.",
+        "categories": [
+            "Health",
+            "Tax & Accounting",
+            "ESG",
+            "Finance",
+            "Compliance",
+            "Legal"
+        ],
+        "web_domain": "wolterskluwer.com"
+    },
+    {
+        "name": "Airbnb.org",
+        "tagline": "Helping displaced individuals find shelter.",
+        "web_site": "https://www.airbnb.org/",
+        "main_product_or_service": "Housing support for displaced individuals and relief workers",
+        "categories": [
+            "Nonprofit",
+            "Housing",
+            "Disaster Relief"
+        ],
+        "web_domain": "airbnb.org"
+    },
+    {
+        "name": "Team Rubicon",
+        "tagline": "Disaster relief through veteran volunteers.",
+        "web_site": "https://teamrubiconusa.org/",
+        "main_product_or_service": "Disaster relief services",
+        "categories": [
+            "Nonprofit",
+            "Disaster Relief"
+        ],
+        "web_domain": "teamrubiconusa.org"
+    },
+    {
+        "name": "Black Forest Labs",
+        "tagline": "The image generation model family from Black Forest Labs.",
+        "web_site": "https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/",
+        "main_product_or_service": "FLUX1.1 pro",
+        "categories": [
+            "AI",
+            "Image Generation",
+            "Generative AI"
+        ],
+        "web_domain": "blackforestlabs.ai"
+    },
+    {
+        "name": "Simbian",
+        "tagline": "Cybersecurity startup Simbian has launched three LLM AI Agents that work as virtual employees but with the speed, stamina, and accuracy of robots.",
+        "web_site": "https://simbian.ai/",
+        "main_product_or_service": "LLM AI Agents for cybersecurity",
+        "categories": [
+            "Cybersecurity",
+            "Artificial Intelligence",
+            "Technology"
+        ],
+        "web_domain": "simbian.ai"
+    },
+    {
+        "name": "Air Street Capital",
+        "tagline": "AI investor and venture capital firm",
+        "web_site": "https://www.airstreet.com/portfolio",
+        "main_product_or_service": "Investment in AI startups",
+        "categories": [
+            "Venture Capital",
+            "Investment",
+            "AI"
+        ],
+        "web_domain": "airstreet.com"
+    },
+    {
+        "name": "Legau",
+        "tagline": "The All-In-One AI Drafting Solution",
+        "web_site": "https://www.artificiallawyer.com/2024/10/10/legau-the-all-in-one-ai-drafting-solution/",
+        "main_product_or_service": "multi-capability legal drafting system leveraging genAI",
+        "categories": [
+            "Legal Tech",
+            "AI",
+            "Contract Drafting",
+            "Contract Review"
+        ],
+        "web_domain": "artificiallawyer.com"
+    },
+    {
+        "name": "Visa",
+        "tagline": "Pivotal player in fintech innovation and partnerships.",
+        "web_site": "https://www.visa.com",
+        "main_product_or_service": "Payment processing and financial services",
+        "categories": [
+            "Fintech",
+            "Payment Solutions",
+            "Financial Services"
+        ],
+        "web_domain": "visa.com"
+    },
+    {
+        "name": "MeCubro",
+        "tagline": "Insurance for the digital age",
+        "web_site": "https://www.mecubro.com",
+        "main_product_or_service": "Digital insurance solutions",
+        "categories": [
+            "Insurtech",
+            "Digital Insurance"
+        ],
+        "web_domain": "mecubro.com"
+    },
+    {
+        "name": "Clupp",
+        "tagline": "Insurance made simple",
+        "web_site": "https://www.clupp.com",
+        "main_product_or_service": "Insurance platform",
+        "categories": [
+            "Insurtech",
+            "Insurance"
+        ],
+        "web_domain": "clupp.com"
+    },
+    {
+        "name": "Domu",
+        "tagline": "Home insurance redefined",
+        "web_site": "https://www.domu.com",
+        "main_product_or_service": "Home insurance",
+        "categories": [
+            "Insurtech",
+            "Home Insurance"
+        ],
+        "web_domain": "domu.com"
+    },
+    {
+        "name": "Schaefer City Technologies LLC",
+        "tagline": "Smart solutions for urban living",
+        "web_site": "https://www.schaefercitytech.com",
+        "main_product_or_service": "Urban technology solutions",
+        "categories": [
+            "Insurtech",
+            "Urban Technology"
+        ],
+        "web_domain": "schaefercitytech.com"
+    },
+    {
+        "name": "Pathwork",
+        "tagline": "Connecting insurance with technology",
+        "web_site": "https://www.pathwork.com",
+        "main_product_or_service": "Insurance technology solutions",
+        "categories": [
+            "Insurtech",
+            "Insurance Technology"
+        ],
+        "web_domain": "pathwork.com"
+    },
+    {
+        "name": "Wallet Studio from Miss Moneypenny Tech",
+        "tagline": "Your financial assistant",
+        "web_site": "https://www.missmoneypennytech.com",
+        "main_product_or_service": "Financial management app",
+        "categories": [
+            "Fintech",
+            "Personal Finance"
+        ],
+        "web_domain": "missmoneypennytech.com"
     }
 ]

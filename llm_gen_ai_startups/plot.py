@@ -47,8 +47,8 @@ filtered_category_distribution = category_distribution[category_distribution >= 
 
 # Save the category distribution to a CSV file
 # categories_yyyymmdd.csv
-timestamp = pd.Timestamp.now().strftime("%Y%m%d")
-filename = f"categories.{timestamp}.csv"
+# timestamp = pd.Timestamp.now().strftime("%Y%m%d")
+filename = f"categories.csv"
 with open(os.path.join(script_path, filename), "w") as f:
     filtered_category_distribution.to_csv(f)
 

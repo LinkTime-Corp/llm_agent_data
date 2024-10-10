@@ -4,7 +4,7 @@ Anthropic,AI safety and research company,https://www.anthropic.com,Claude AI mod
 Cohere,Natural language processing solutions for business operations.,https://cohere.ai,"Command, Rerank, Embed",Retrieval-augmented generation | text generation | text classification | semantic search | enterprise conversational AI agent | multilingual embedding | access to language models | AI | NLP | Artificial Intelligence | Natural Language Processing,cohere.ai
 Glean,Generative AI enterprise search company.,https://glean.com,Glean Work AI Platform,Cognitive enterprise search | data ingestion and management | knowledge management | enterprise environment app | AI assistance | enterprise security and privacy management | data unification | AI | Workplace Search | Knowledge Management | Productivity,glean.com
 Jasper,Designed for marketing content generation.,https://jasper.ai,Jasper,Long-form and short-form content creation | dialog-driven content creation and language modeling | AI copilot | AI assistant browser extension | art creation | multi-language reading and writing | Artificial Intelligence | Content Creation | Marketing Technology,jasper.ai
-Hugging Face,Community forum for AI and ML model development.,https://huggingface.co/,"BLOOM, Enterprise Hub, Inference Endpoints, AutoTrain",Open source development community | multilingual content generation | public submissions and deployments of NLP | computer vision | access to third-party AI models | AI | Machine Learning | Open Source | Software Engineering | Artificial Intelligence | synthetic | GPT-4 | Distillation | Compilation | Natural Language Processing | Language Models | Research,huggingface.co
+Hugging Face,The AI community building the future.,https://huggingface.co/,"BLOOM, Enterprise Hub, Inference Endpoints, AutoTrain",Open source development community | multilingual content generation | public submissions and deployments of NLP | computer vision | access to third-party AI models | AI | Machine Learning | Open Source | Software Engineering | Artificial Intelligence | synthetic | GPT-4 | Distillation | Compilation | Natural Language Processing | Language Models | Research,huggingface.co
 Inflection AI,Focuses on colloquial conversation and advice.,https://inflection.ai,Pi,AI model studio | AI chatbot and LLM | emotionally intelligent AI chatbot | voice search | brain-computer interface (BCI) | conversational AI | AI assistance,inflection.ai
 Stability AI,Leading startup in generative AI for image and video content generation.,https://stability.ai,Stable Diffusion,Text-to-image generation | image editing | audio and video generation | language modeling | open-source AI | 3D object generation and modeling | application development models | API and embed capabilities | AI | Generative AI | Sound Generation,stability.ai
 MOSTLY AI,Synthetic data generation platform.,https://mostly.ai,MOSTLY AI,Synthetic data generation for AI and software app development | test data generation | data anonymization | Python client synthetic data generation | AI and ML development | data analytics | testing and product development | Synthetic Data | Privacy | Data Sharing | AI/ML Development | Testing & QA | Self Service Analytics,mostly.ai
@@ -56,13 +56,13 @@ Gruntwork,Improving humanity's most important invention: Software.,https://grunt
 Overleaf,Modern collaborative authoring tools for scientists.,https://www.overleaf.com,Collaborative LaTeX editor,Software | Collaboration | Science,overleaf.com
 Sarama,Developing a vocal language between dogs & people.,https://sarama.xyz,ML analysis of dog barks,Technology | Animal Communication | Machine Learning,sarama.xyz
 Bluesky,Building social network protocols.,https://blueskyweb.xyz,Social network protocols,Social Media | Technology,blueskyweb.xyz
-Nobias Therapeutics,Using AI tools to accelerate drug development.,nobiastx.com,AI-driven drug discovery,Biotechnology | Pharmaceuticals | AI,nobiastx.com
+Nobias Therapeutics,Using AI tools to accelerate drug development.,https://nobiastx.com,AI-driven drug discovery,Biotechnology | Pharmaceuticals | AI,nobiastx.com
 Next Matter,Building a new automation platform for business operations.,https://nextmatter.com,Automation platform,Software | Automation | Business,nextmatter.com
-Roboflow,The fastest way to use computer vision in production.,https://roboflow.com/careers?ref=whoishiring0123,Computer vision platform,Technology | Computer Vision | AI,roboflow.com
+Roboflow,The fastest way to use computer vision in production.,https://roboflow.com/careers,Computer vision platform,Technology | Computer Vision | AI,roboflow.com
 Good Pair Days,Disrupting the wine retail experience.,https://www.goodpairdays.com,Wine subscription service,E-commerce | Wine | Retail,goodpairdays.com
 Grit,Building software to automatically fix technical debt.,https://www.grit.io/careers,Software for technical debt management,Software | Engineering | Machine Learning | AI | Software Development,grit.io
 onXmaps,Building web and mobile mapping apps.,https://www.onxmaps.com/join-our-team,Mapping applications,Technology | Mapping | Outdoor,onxmaps.com
-Loom,"Video recording, editing, and hosting for work.",https://www.loom.com/careers#positions,Video communication platform,Technology | Video | Communication | Productivity,loom.com
+Loom,"Video recording, editing, and hosting for work.",https://www.loom.com/careers,Video communication platform,Technology | Video | Communication | Productivity,loom.com
 Zulip,Building the world’s best collaboration platform.,https://zulip.com/jobs/,Team chat application,Software | Collaboration | Open Source,zulip.com
 ML6,Machine Learning consulting company.,https://ml6.eu/join-us,Machine Learning solutions,Consulting | Machine Learning | AI | Lifesciences | Biotechnology,ml6.eu
 Medusa,Building the leading open source ecommerce platform for developers.,https://medusajs.com/,E-commerce platform,E-commerce | Open Source | Technology,medusajs.com
@@ -87,8 +87,8 @@ Protillion Biosciences,Revolutionizing drug discovery with technology.,https://w
 Koddi,Building a robust network for brands to connect with consumers.,https://www.koddi.com/careers,Adtech solutions,Technology | Advertising,koddi.com
 10x Genomics,The neXt generation of single cell RNA-seq: An introduction to GEM-X technology,https://www.10xgenomics.com,Chromium Single Cell Gene Expression and Single Cell Immune Profiling,Biotechnology | Genomics | Life Sciences | Spatial Biology,10xgenomics.com
 10x Future Technologies,Cloud Banking Platform,https://www.pymnts.com/news/investment-tracker/2021/cloud-banking-platform-10x-future-technologies-raises-187-million-dollars-international-expansion,FinTech services,FinTech | Cloud Banking | Digital Banking,pymnts.com
-10x Future Technologies,Banking technology startup,https://www.10xbanking.com/platform?ref=thestack.technology,"cloud-native, API-based core banking offering",Banking | Financial Services | fintech | SaaS,10xbanking.com
-LexlabsAI,AI tools for contract management and legal innovation.,https://www.linkedin.com/company/lexlabsai?trk=public_post_feed-actor-name,AI tools for contract management,LegalTech | AI | Contract Management | Open-source | Research | Venture Capital | Investment | Technology | Animation | Computing | Hardware | Data Access | Search Engine | SaaS | Generative AI | Privacy | Compliance | Biotechnology | Healthcare | Cancer Treatment,linkedin.com
+10x Future Technologies,Banking technology startup,https://www.10xbanking.com/platform,"cloud-native, API-based core banking offering",Banking | Financial Services | fintech | SaaS,10xbanking.com
+LexlabsAI,AI tools for contract management and legal innovation.,https://www.linkedin.com/company/lexlabsai,AI tools for contract management,LegalTech | AI | Contract Management | Open-source | Research | Venture Capital | Investment | Technology | Animation | Computing | Hardware | Data Access | Search Engine | SaaS | Generative AI | Privacy | Compliance | Biotechnology | Healthcare | Cancer Treatment,linkedin.com
 Apple,Find your things with AirTag.,https://www.apple.com/airtag/,AirTag,Technology | Consumer Electronics | Digital Payments | Fintech,apple.com
 Tile,The Smart Location Company,https://www.thetileapp.com/,Bluetooth Tracker,Technology | Consumer Electronics,thetileapp.com
 LandAirSea,GPS Tracking Solutions,https://landairsea.com/,GPS Tracker,Technology | Consumer Electronics,landairsea.com
@@ -164,7 +164,7 @@ HubPlanner,Resource management software,https://hubplanner.com/,Resource managem
 Hubspot Marketing,Marketing automation software,https://www.hubspot.com,Marketing software,Marketing | Sales | Customer Service | Chatbot Tools,hubspot.com
 Inedo ProGet,Package management for DevOps,https://inedo.com,Package management,Development | DevOps,inedo.com
 Instatus,Incident status page software,https://instatus.com,Status page software,IT | Communication,instatus.com
-Intercom,Customer messaging platform,https://intercom.com,Messaging software,Communication | Support | Customer Service | AI | Chatbots,intercom.com
+Intercom,Customer messaging platform,https://intercom.com,Messaging software,Communication | Support | Customer Service | AI | Chatbots | Customer Support | Technology,intercom.com
 JFrog,DevOps software solutions,https://jfrog.com/,DevOps software,Development | DevOps | DevSecOps | MLOps,jfrog.com
 JotForm,Online form builder,https://www.jotform.com,Form builder,Productivity | Forms,jotform.com
 Kanbanize,Visual project management,https://kanbanize.com/,Project management,Productivity | Collaboration,kanbanize.com
@@ -272,7 +272,7 @@ Drift,B2B marketing platform with AI chatbot,https://www.drift.com/,B2B marketin
 Zendesk,Customer service software with AI capabilities,https://www.zendesk.com,Customer service software,Customer Service | AI | Chatbots,zendesk.com
 Certainly,All-in-one chatbot platform for ecommerce,https://certainly.io/,Chatbot platform for ecommerce,Customer Service | AI | Chatbots,certainly.io
 Wings,Learning Multimodal LLMs without Text-only Forgetting,http://arxiv.org/pdf/2406.03496v1,Multimodal Large Language Model,Artificial Intelligence | Language Models | Machine Learning | cs.LG | cs.NE | q-bio.QM | cs.CY | cs.AI | cs.RO | cs.SY | eess.SY | stat.ML | cs.CV | Biotechnology | Health Research,arxiv.org
-LangChain,A powerful framework that simplifies the process of building advanced language model applications.,https://docs.langchain.com/docs/?ref=notes.replicatecodex.com,Language model application framework,Software Development | Artificial Intelligence | Natural Language Processing,docs.langchain.com
+LangChain,A powerful framework that simplifies the process of building advanced language model applications.,https://docs.langchain.com/docs/,Language model application framework,Software Development | Artificial Intelligence | Natural Language Processing,docs.langchain.com
 Adaptive Shield,"Enable your security team to run an in-depth, continuous analysis and management of your entire SaaS stack",https://www.adaptive-shield.com,SaaS Security Posture Management (SSPM) and Identity Threat Detection and Response (ITDR),Cybersecurity | SaaS Security | Identity Management | IT and Security Operations | Cloud Security | Information & Communications Technology | Security,adaptive-shield.com
 Adaptive Shield,SaaS Security Posture Management (SSPM) detection and response capabilities for AI-driven applications.,https://www.helpnetsecurity.com/tag/adaptive-shield/,SaaS Security Posture Management (SSPM) platform,Cybersecurity | SaaS | AI Security,helpnetsecurity.com
 Adept,Building a generally intelligent copilot for knowledge workers.,https://www.adept.ai/blog/fuyu-8b,Fuyu-8B multimodal model,AI | Machine Learning | Software Development | Technology | Software | Natural Language Processing | Computer Vision,adept.ai
@@ -360,10 +360,10 @@ AutoChain,Lightweight and extensible framework for building generative AI agents
 Klu.ai,LLM application platform with a unified API for accessing LLMs.,https://klu.ai/,Unified API for LLMs,AI | Application Platforms,klu.ai
 Braintrust,"Platform for evaluating, improving, and deploying LLMs.",https://www.braintrustdata.com/,LLM evaluation and deployment platform,AI | Evaluation Tools,braintrustdata.com
 Humanloop,Platform for developing reliable and scalable LLM-based applications.,https://humanloop.com/,LLM application development platform,AI | Application Development,humanloop.com
-HoneyHive,"Evaluates, debugs, and monitors production LLM applications.",https://www.honeyhive.ai/,LLM application monitoring and evaluation,AI | Monitoring Tools,honeyhive.ai
+HoneyHive,"Evaluates, debugs, and monitors production LLM applications.",https://www.honeyhive.ai/,LLM application monitoring and evaluation,AI | Monitoring Tools | Software | Data Analytics,honeyhive.ai
 Parea AI,"Platform for debugging, testing, and monitoring LLM applications.",https://www.parea.ai/,LLM application debugging and monitoring,AI | Testing Tools,parea.ai
 Ramblr.ai,Bringing Gen AI Into The Real World,https://ramblr.ai,3D annotation and recognition capabilities,Artificial Intelligence | Technology | Software,ramblr.ai
-e2b-dev,A list of AI autonomous agents,https://e2b.dev,Code Interpreter SDK,AI | autonomous agents | software development | Software Development | Open Source | Cloud Computing | ai | productivity | startup,e2b.dev
+e2b-dev,A list of AI autonomous agents,https://e2b.dev/docs,Code Interpreter SDK,AI | autonomous agents | software development | Software Development | Open Source | Cloud Computing | ai | productivity | startup,e2b.dev
 deepset,An LLM platform for enterprise AI teams,https://www.deepset.ai,deepset Cloud,AI | Software | SaaS | NLP | Search Engine | Technology,deepset.ai
 Outerbounds,A human-friendly platform for serious ML/AI systems.,https://outerbounds.com/,MLOps and AI platform,MLOps | AI | Machine Learning,outerbounds.com
 DataStax,Build the Generative AI Experience: Agent Architecture,https://www.datastax.com,Astra DB and Cassandra 5.0 NoSQL with Generative AI,AI | Database | Cloud Computing | Cloud Services | Chatbot | RAG,datastax.com
@@ -376,7 +376,7 @@ Skim AI,Solutions d'apprentissage automatique et d'intelligence artificielle,htt
 AI21 Labs,AI21 Labs is a company that develops advanced AI language models.,https://www.ai21.com,Generative AI solutions,AI | Technology | Enterprise Solutions | Artificial Intelligence | Machine Learning | Natural Language Processing | Software | Language Services | Chatbots | Virtual Assistants | Software Development | Computer Software,ai21.com
 Clarivate,A global leader in connecting people and organizations to intelligence they can trust to transform their world.,https://clarivate.com/,"Information services and solutions for academia, government, and life sciences.",Information Services | Technology | Research | Academia | Government | Life Sciences,clarivate.com
 WorkOS,"Provides a single, elegant interface abstracting dozens of enterprise integrations.",https://workos.com,Single Sign-On (SSO) solutions,Developer Tools | Enterprise Software,workos.com
-Snowflake,"Snowflake Cortex gives you instant access to industry-leading large language models (LLMs) trained by researchers at companies like Mistral, Reka, Meta, and Google.",https://www.snowflake.com,Snowflake Cortex LLM Functions,AI | Machine Learning | Data Cloud | Cloud Data Platform | Gen AI,snowflake.com
+Snowflake,Cloud Data Platform,https://www.snowflake.com/,Snowflake Cortex LLM Functions,AI | Machine Learning | Data Cloud | Cloud Data Platform | Gen AI | Cloud Computing | Data Warehousing | Big Data | Analytics,snowflake.com
 Stack Overflow,Where developers & technologists share private knowledge with coworkers,https://stackoverflow.co/,Q&A platform for developers,Technology | Software Development | Community | Education,stackoverflow.co
 Cato Networks,World’s Leading Single-Vendor SASE Platform,https://www.catonetworks.com/,SASE (Secure Access Service Edge) platform,SASE | Network Security | Cloud Services,catonetworks.com
 Florida Fish and Wildlife Conservation Commission,Conserving Florida's wildlife and habitats,https://myfwc.com/,Wildlife conservation and management,Wildlife | Conservation | Recreation,myfwc.com
@@ -410,11 +410,11 @@ Aiagent.app,A web application that allows users to create custom AI agents to pe
 StarrySky,"Selected more than 1000 projects, including machine learning, deep learning, NLP, GNN, recommendation system, biomedicine, machine vision, etc.",http://www.wuwenjie.xyz/wordpress,Project selection and discovery in AI and machine learning,Machine Learning | Deep Learning | NLP | GNN | Recommendation Systems | Biomedicine | Machine Vision,wuwenjie.xyz
 Amazon,Leading biotechnology company using AWS AI to enhance drug manufacturing throughput.,https://www.aboutamazon.com/,Biotechnology solutions for drug discovery and manufacturing,Biotechnology | Healthcare | Artificial Intelligence | E-commerce | Cloud Computing | Technology | Healthcare Technology | Biopharma | AI,aboutamazon.com
 Relation Therapeutics,Computational drug discovery startup,https://bydrug.pharmcube.com/,Machine learning and genomics for drug discovery,AI | Pharmaceuticals | Biotechnology,pharmcube.com
-Nvidia,Nvidia partners with Amgen to build a generative AI platform Freyja to accelerate drug development.,https://www.technice.com.tw/?s=Nvidia,Generative AI for drug development,AI | Biotechnology | Pharmaceuticals,technice.com.tw
+Nvidia,Nvidia partners with Amgen to build a generative AI platform Freyja to accelerate drug development.,https://www.technice.com.tw/,Generative AI for drug development,AI | Biotechnology | Pharmaceuticals,technice.com.tw
 Anaqua,AI-Powered IP Management Platform for Law Firms,https://www.anaqua.com,AQX 11 for Law Firms,Software | IP Management | Legal Technology | intellectual property | patent | trademark | artificial intelligence | technology | IP management | software | Intellectual Property | Legal Tech | Software Development,anaqua.com
 AnimateZero,AIbase is a platform providing access to AI tools and resources.,https://www.aibase.com,AI tools and resources,AI | Prompt | PDF | LLM | Technology | Software,aibase.com
 HeyGen,AI video creation tool,https://www.heygen.com/,AI video creation tool,AI | Video Generation,heygen.com
-HiDream.ai,Generative AI company focusing on visual multimodal models,https://hidream.ai/#/,Visual multimodal generative AI,AI | Video Generation | Generative AI,hidream.ai
+HiDream.ai,Generative AI company focusing on visual multimodal models,https://hidream.ai/,Visual multimodal generative AI,AI | Video Generation | Generative AI,hidream.ai
 Möbius,AI video model,https://mobius.any-vision.com/,AI video model,AI | Video Generation,any-vision.com
 Morph Studio,Text-to-video generation technology and community platform,https://www.morphstudio.com/,Text-to-video generation,AI | Video Generation,morphstudio.com
 Neverends,AI video generation,https://neverends.life/,AI video generation,AI | Video Generation,neverends.life
@@ -425,7 +425,7 @@ Shengshu Technology,Multimodal generative AI,http://shengshu-ai.com,Multimodal g
 n/a,AI video generation tool,https://www.artink.art/,AI video generation tool,AI | Video Generation,artink.art
 RightBrain AI,AI image and video generation,https://rightbrainai.cn/,AI image and video generation,AI | Video Generation,rightbrainai.cn
 Vidu,Work-ready AI trained for safety & accuracy,https://hbzgn.com/archives/5808.html,n/a,,hbzgn.com
-UniVG,Spectacles '24 is an AR glasses designed to connect people through augmented reality technology.,https://top.aibase.com/tool/univg,AR glasses,AI | Augmented Reality | Fashion | Technology | LLM | agent | drag-and-drop,top.aibase.com
+UniVG,Spectacles '24 is an AR glasses designed to connect people through augmented reality technology.,https://top.aibase.com/excesslink,AR glasses,AI | Augmented Reality | Fashion | Technology | LLM | agent | drag-and-drop,top.aibase.com
 Anomalo,A data quality platform that uses machine learning for automated checks.,https://anomalo.com,Data quality monitoring and insights,Data Quality | Machine Learning | Analytics,anomalo.com
 Databricks,Unified data analytics platform.,https://www.databricks.com/product/data-lakehouse,Lakehouse Platform,Data Analytics | Cloud Computing | Machine Learning,databricks.com
 Tecton,A machine learning feature store platform.,https://www.tecton.ai/product/,Machine learning feature store,Data Science | Machine Learning,tecton.ai
@@ -438,7 +438,7 @@ Comet,A platform for managing and optimizing the entire machine learning lifecyc
 dotData,Automated feature engineering and enterprise AI automation.,https://dotdata.com/,AI and machine learning model automation,Data Science | Machine Learning,dotdata.com
 Neuton,An automated no-code tinyML platform for developing micro machine learning models.,https://neuton.ai/,No-code tinyML platform,Data Science | Machine Learning,neuton.ai
 Pinecone,A vector database and search technology for AI and machine learning applications.,https://www.pinecone.io/,Vector database for AI applications,Data Science | Machine Learning | Database | AI | Technology | Serverless Computing,pinecone.io
-Snorkel AI,A data-centric system to accelerate AI and machine learning development.,https://snorkel.ai/,Data-centric AI development platform,Data Science | Machine Learning,snorkel.ai
+Snorkel AI,Programmatic AI Data Development,https://www.snorkel.ai,Data-centric AI development platform,Data Science | Machine Learning | Data Labeling | Data Annotation | LLM Fine-Tuning | NLP Applications | Computer Vision | AI Data Development | Natural Language Processing,snorkel.ai
 Striveworks,MLOps technology for highly regulated industries.,https://striveworks.us/,MLOps platform,Data Science | Machine Learning,striveworks.us
 Verta,"A platform for deploying, operating, managing, and monitoring AI and machine learning models.",https://www.verta.ai/,AI model management platform,Data Science | Machine Learning,verta.ai
 Determined,An open-source deep learning training platform that enables data scientists to build their models quickly and easily.,https://www.determined.ai/,Deep learning training platform,MLOps | Machine Learning | Data Science,determined.ai
@@ -539,7 +539,7 @@ Technosip,"Your Vision, Our Expertise",http://www.technosip.com,AI solutions for
 Pieces,"An AI tool designed to improve developer's efficiency and collaboration by allowing them to save, enrich, search, reference, and reuse their code snippets.",https://docs.pieces.app/installation-getting-started/what-am-i-installing,AI-powered code snippet management and collaboration tool,Software Development | AI Tools | Productivity Tools,pieces.app
 Jina AI,"Your Search Foundation, Supercharged.",https://jina.ai,Multimodal AI applications and embeddings,AI | Search | Machine Learning,jina.ai
 Avigilon,Explore our award-winning access control and video security hardware,https://www.avigilon.com,End to End Security Solutions,Security | Video Analytics | Access Control | Video Security,avigilon.com
-Design & Reuse,The Market Place for Embedded Systems,www.design-reuse-china.com,Embedded Systems Marketplace,Embedded Systems | Technology | Marketplace,design-reuse-china.com
+Design & Reuse,The Market Place for Embedded Systems,https://www.design-reuse-china.com,Embedded Systems Marketplace,Embedded Systems | Technology | Marketplace,design-reuse-china.com
 Axolotl,Go ahead and axolotl questions,https://axolotl-ai-cloud.github.io/axolotl/,A tool designed to streamline the fine-tuning of various AI models,AI | Machine Learning | Software Development,axolotl-ai-cloud.github.io
 Axolotl,a low code guide to finetuning LLMs,https://axolotl-ui.vercel.app/,AI model fine-tuning tool,AI | Machine Learning | Software Development,axolotl-ui.vercel.app
 Primastat,Quick LLM fine-tuning guide using axolotl,https://medium.com/primastat,LLM fine-tuning,AI | Machine Learning | Technology | Android Development | Jetpack Compose | Architecture | Android | Chatbots | NLP | LLMs,medium.com
@@ -571,20 +571,20 @@ Rephrase.ai,Humanize communications – one personalized video at a time.,https:
 Papercup,Make the world's video content watchable in any language.,https://www.papercup.com/,Automated dubbing process,Content Creation | AI,papercup.com
 Typeface,Empower everyone to express their unique imagination.,https://www.typeface.ai/,Personalized content creation tool,Content Creation | AI,typeface.ai
 Boomy,Enable anyone with a smartphone to produce and monetize world-class original songs.,https://boomy.com/,AI music creation platform,Music | AI,boomy.com
-Glide Apps,AI app builder that allows anyone to create custom mobile and web apps without coding.,https://go.glideapps.com/?signUp=&mdid=%24device%3A1920ac2724c1ace-031382fdd18b9-b457558-46500-1920ac2724d1acf,No-code app development platform,No-Code | App Development | AI Tools | AI | Software Development,glideapps.com
+Glide Apps,AI app builder that allows anyone to create custom mobile and web apps without coding.,https://go.glideapps.com/,No-code app development platform,No-Code | App Development | AI Tools | AI | Software Development,glideapps.com
 flowrabbit.ai,Revolutionizing No-Code AI App Development,http://flowrabbit.ai,No-code app builder for generative AI workflows,No-Code | AI | App Development,flowrabbit.ai
 RazorCode AI,"Build apps in days, not weeks",https://razorcode.ai/,AI-powered app development assistant,No-Code | App Development | AI Tools,razorcode.ai
-Frontly,AI-powered no-code app builder,https://ca.linkedin.com/company/frontly?trk=public_post-text,No-code app development platform,No-Code | AI | App Development,frontly.com
+Frontly,AI-powered no-code app builder,https://ca.linkedin.com/company/frontly,No-code app development platform,No-Code | AI | App Development,frontly.com
 Railway,All systems operational,https://railway.app,Cloud infrastructure platform,Cloud Computing | Infrastructure as a Service | Developer Tools,railway.app
-FlowiseAI,AI-powered tool for building workflows,https://www.linkedin.com/company/flowiseai?trk=public_post-text,AI workflow automation,AI | Dev Tools | Open Source,flowise.ai
+FlowiseAI,AI-powered tool for building workflows,https://www.linkedin.com/company/flowiseai,AI workflow automation,AI | Dev Tools | Open Source,flowise.ai
 Supabase,Open source Firebase alternative,https://supabase.io,Database as a Service,Database | Open Source,supabase.io
 Hanko,Identity management for developers,https://hanko.io,Identity management solutions,Identity Management | Open Source,hanko.io
 "Documenso, Inc.",Document automation platform,https://documenso.com,Document automation,Document Management | AI,documenso.com
-OpenStatus,Open source status monitoring,https://www.linkedin.com/company/openstatus?trk=public_post-text,Status monitoring service,Monitoring | Open Source,openstatus.io
+OpenStatus,Open source status monitoring,https://www.linkedin.com/company/openstatus,Status monitoring service,Monitoring | Open Source,openstatus.io
 Mermaid Chart,Diagramming and visualization tool,https://mermaid-js.github.io,Diagramming tool,Visualization | Open Source,mermaid-js.github.io
 Tiledesk,Open source customer support platform,https://tiledesk.com,Customer support software,Customer Support | Open Source,tiledesk.com
 Hasura,Instant GraphQL APIs on Postgres,https://hasura.io,GraphQL API service,API | Open Source,hasura.io
-OpenSign,Open source DocuSign alternative,https://www.linkedin.com/company/opensignhq?trk=public_post-comment-text,E-signature service,E-signature | Open Source,opensign.com
+OpenSign,Open source DocuSign alternative,https://www.linkedin.com/company/opensignhq,E-signature service,E-signature | Open Source,opensign.com
 Betterdata,Programmatic Synthetic Data,https://www.betterdata.ai/,Programmable Synthetic Data generation using Generative AI and Privacy Engineering,Artificial Intelligence | Machine Learning | Synthetic Data | AI | Data Sharing,betterdata.ai
 Bifrost AI,A synthetic data API for geospatial AI developers,http://bifrost.ai,Synthetic data platform for AI engineers,AI (Artificial Intelligence) | Software | Machine Learning (ML) | Virtual Worlds | Computer Vision | 3D | Deep Learning,bifrost.ai
 Scale AI,Accelerate the Development of AI Applications,https://scale.com,Scale Data Engine,AI | Data | Enterprise | Government,scale.com
@@ -643,7 +643,7 @@ Pandorabots,Custom chatbot tool powered by AIML.,https://home.pandorabots.com/ho
 Aivo,Low-code chatbot used by brands like Sony and Visa.,https://www.aivo.co,Low-Code Chatbot,Customer Service | Chatbot Tools,aivo.co
 Inbenta,Three-in-one chatbot for customer queries and knowledge management.,https://www.inbenta.com,Chatbot,Customer Service | Chatbot Tools,inbenta.com
 Flow OX,No-code chatbot fueled by ChatGPT.,https://flowxo.com,No-Code Chatbot,Customer Service | Chatbot Tools,flowxo.com
-Amplify.ai,AI chatbot tool for Facebook and Instagram comments.,https://www.amplify.ai/#welcome,AI Chatbot Tool,Customer Service | Chatbot Tools,amplify.ai
+Amplify.ai,AI chatbot tool for Facebook and Instagram comments.,https://www.amplify.ai/,AI Chatbot Tool,Customer Service | Chatbot Tools,amplify.ai
 Imperson,Complete offering chatbot tool for voice calls and messages.,https://www.imperson.com,Chatbot Tool,Customer Service | Chatbot Tools,imperson.com
 Wit.ai,Comprehensive AI option for chatbots and more.,https://wit.ai,AI Chatbot,Customer Service | Chatbot Tools,wit.ai
 TARS,Conversational AI chatbot designed for business interactions.,https://hellotars.com,Conversational AI Chatbot,Customer Service | Chatbot Tools,hellotars.com
@@ -667,13 +667,13 @@ Seed-Music,A Unified Framework for High Quality and Controlled Music Generation,
 Seed-TTS,A large-scale autoregressive text-to-speech model series capable of generating speech indistinguishable from human speech.,https://bytedancespeech.github.io/seedtts_tech_report,Text-to-Speech (TTS) model,AI | Speech Generation | Machine Learning,bytedancespeech.github.io
 Emerson Process Management Co Ltd,A leading provider of automation solutions for various industries.,http://www.jifang-kongtiao.cn/,Automation solutions for process control,Automation | Process Control | Industrial Solutions | Infrastructure | Technology | Lifecycle Services | Industrial Automation | Control Systems | HVAC | Refrigeration | Climate Control,jifang-kongtiao.cn
 DevOps,Development and Operations integration for faster software delivery,https://baike.baidu.com/item/devops/2613029,Software development and operations automation,Software Development | DevOps | Continuous Integration | Continuous Delivery,baike.baidu.com
-"BIGPIE C&T CO.,LTD",Korean cosmetics,https://bigpiecnt.trustpass.alibaba.com/zh_CN/index.html?from=detail&productId=1700006061891,Supple Preparation unscented & Facial Toner,Korean cosmetics | Skincare | Beauty,bigpiecnt.trustpass.alibaba.com
+"BIGPIE C&T CO.,LTD",Korean cosmetics,https://bigpiecnt.trustpass.alibaba.com/zh_CN/index.html,Supple Preparation unscented & Facial Toner,Korean cosmetics | Skincare | Beauty,bigpiecnt.trustpass.alibaba.com
 Nuvei,Payment technology and expertise to ensure partners seize every payment opportunity,https://www.nuvei.com,Payment processing solutions,Payment Processing | Fintech | E-commerce,nuvei.com
 Emergen Research,Creating passive income for long-term success,https://www.emergenresearch.com/cn,Market research and consulting services,Market Research | Consulting,emergenresearch.com
 Interactive Brokers Hong Kong Limited,A one-stop custody solution for advisors to build competitive advantages and manage business efficiently.,https://www.interactivebrokers.com.hk/en/home.php,Global trading and custody solutions for advisors,Finance | Investment | Brokerage,interactivebrokers.com.hk
 Ecwid,Everything you need to sell online,https://www.ecwid.com,E-commerce platform for online selling,E-commerce | Software | Technology,ecwid.com
 Esri,Leading GIS technology and solutions provider,https://www.esri.com,ArcGIS,Geographic Information Systems | Software | Technology,esri.com
-AppTotal,Democratizing third-party apps security,https://apptotal.io/?ref=blog.canonic.security,Risk assessment for third-party OAuth apps,SaaS | Security | Technology,apptotal.io
+AppTotal,Democratizing third-party apps security,https://apptotal.io/,Risk assessment for third-party OAuth apps,SaaS | Security | Technology,apptotal.io
 Zscaler,A Leader in the 2024 Gartner® Magic Quadrant™ for Security Service Edge (SSE),https://www.zscaler.com/,Cloud security services,Cloud Security | Cybersecurity | SaaS Security | cloud security | secure access service edge (SASE) | zero trust security | Zero Trust,zscaler.com
 Canonic Security,SaaS application security platform provider,https://www.canonic.security/,SaaS Application Security platform,SaaS security | threat detection and response | Computer and Network Security | SaaS Security | Threat Detection & Response | Cybersecurity | SaaS | Technology,canonic.security
 Cardumen Capital,We passionately support founders that are on a mission to change the world.,https://www.cardumencapital.com/,Venture Capital,DeepTech | AgriFoodTech | Fund of Funds | Venture Capital | Deep Tech | AI | Cybersecurity | Big Data | Information Technologies | Information Communication Technologies,cardumencapital.com
@@ -683,7 +683,7 @@ Ample,This US startup aims to solve the challenge of charging electric cars with
 Perseo,A company with an enabling technology for recovering the organic fraction of municipal solid waste.,http://www.perseobiotech.com/,Organic waste recovery technology,Waste Management | Technology,perseobiotech.com
 Repair,An Israeli startup that has developed an innovative Direct Air Capture (DAC) technology with electrochemical technology.,https://repair-carbon.com/,Direct Air Capture technology,Environmental Technology | Energy,repair-carbon.com
 Qilimanjaro,A company that develops quantum computing.,https://www.qilimanjaro.tech/,Quantum computing solutions,Technology | Computing,qilimanjaro.tech
-Cartwheel,Transform Your Text into Mind-Blowing Animations,https://getcartwheel.com/?ref=therundown,Text to character animations,AI Tools | Animation | Video Creation | AI | Software,getcartwheel.com
+Cartwheel,Transform Your Text into Mind-Blowing Animations,https://getcartwheel.com/,Text to character animations,AI Tools | Animation | Video Creation | AI | Software,getcartwheel.com
 Wix,AI-Powered App Builder for Simplified Mobile App Development,https://www.wix.com,Generative AI tool for app development,AI | App Development | Web Development,wix.com
 Celestial AI,Optical interconnect technology platform for memory and compute,https://www.celestial.ai,Photonic Fabric,Technology | AI | Optical Interconnects | Optical Interconnect | Optoelectronics | Microelectronics | AI Technology,celestial.ai
 AttoTude,Revolutionizing high-speed networking for AI and hyperscale data centers.,https://www.attotude.com,Interconnect technology for data centers,AI | Telecommunications | Data Centers | Sustainable Technology,attotude.com
@@ -731,13 +731,13 @@ THT: Thermal Hazard Technology,Leading supplier of lithium battery safety testin
 Toray Research Center,Offers technical support using innovative analytical techniques.,http://www.toray-research.co.jp/en/,Technical support and analysis.,Research | Support,toray-research.co.jp
 VSParticle B.V,Providing tools to advance fields based on nanotechnology.,https://vsparticle.com,Nanotechnology tools.,Nanotechnology | Research,vsparticle.com
 Wiley,Global leader in scientific research and education.,http://www.wiley.com/,Scientific publishing and education.,Publishing | Education,wiley.com
-Zahner-Elektrik GmbH & Co. KG,Renowned manufacturer of high-end potentiostats for electrochemistry.,//zahner.de/,High-end potentiostats.,Manufacturing | Electrochemistry,zahner.de
+Zahner-Elektrik GmbH & Co. KG,Renowned manufacturer of high-end potentiostats for electrochemistry.,https://zahner.de/,High-end potentiostats.,Manufacturing | Electrochemistry,zahner.de
 ZEISS,"Leading provider of light, electron, and X-ray microscope systems.",http://www.zeiss.com,Microscope systems and solutions.,Manufacturing | Research,zeiss.com
 Project Wilderness 150,Wilderness Trip Reports – Wilderness Information,https://wilderness150.wordpress.com/,Wilderness trip reports and information,Non-Wilderness Area Hikes | Trip Reports | Wilderness Areas,wilderness150.wordpress.com
-CERA SYSTEM Verschleißschutz GmbH,Manufacturer of ceramic series components and ceramic-lined valves,www.cerasystem.de,Ceramic series components and ceramic-lined valves,Automotive engineering | Ceramics and joining technology | Chemicals – Pharmaceuticals | Environmental engineering,cerasystem.de
+CERA SYSTEM Verschleißschutz GmbH,Manufacturer of ceramic series components and ceramic-lined valves,https://www.cerasystem.de,Ceramic series components and ceramic-lined valves,Automotive engineering | Ceramics and joining technology | Chemicals – Pharmaceuticals | Environmental engineering,cerasystem.de
 Richards & Sterling,Our MINI CERA series is a contemporary porcelain wall tile line which showcases an elegant satin finish in a rich color palette.,https://richardsandsterling.com/v2/,Porcelain wall tiles,Home Improvement | Construction | Manufacturing,richardsandsterling.com
 Cera Cediment,A desert tyrant that kicks up clouds of sand with each cataclysmic strike.,https://monsterhunter.fandom.com/wiki/Cera_Cediment_(MH4U),Charge Blade,Weapons | Charge Blades | MH4U Weapons | MH4U Charge Blades | Missing Weapon Data,monsterhunter.fandom.com
-Bella Cera,Vivaldi Collection - Magnificat,https://www.randrproducts.com/Flooring/Bella%20Cera/Bella%20Cera-Hardwood-Flooring.aspx?pTypeId=1&mId=5,Hardwood Flooring,Flooring | Hardwood | Engineered,randrproducts.com
+Bella Cera,Vivaldi Collection - Magnificat,https://www.randrproducts.com/Flooring/Bella%20Cera/Bella%20Cera-Hardwood-Flooring.aspx,Hardwood Flooring,Flooring | Hardwood | Engineered,randrproducts.com
 Cerebriu,Excellence in MRI Acquisition,https://cerebriu.com,Apollo - AI-powered MRI triage and automated protocol optimization solution,Healthcare | Artificial Intelligence | Medical Imaging | AI | Radiology | HealthTech,cerebriu.com
 Vista.ai,AI-guided software for automating MRI exams,https://vista.ai,One Click MRI,HealthTech | Medical Imaging | Artificial Intelligence,vista.ai
 Turbo Dodge,A forum community dedicated to Turbo Dodge owners and enthusiasts.,https://www.turbododge.com,Discussion forum for Turbo Dodge vehicles,Automotive | Community | Forums,turbododge.com
@@ -787,8 +787,8 @@ Philips,Healthcare’s digital transformation,https://www.philips.com,Cloud-base
 Codeium,Your modern coding superpowers.,https://codeium.com,AI development tools,Software | AI | Developer Tools | Software Development | AI Tools | Productivity Tools | Development Tools,codeium.com
 GitKraken,A DevEx platform that’s built for team velocity & greater collaboration.,https://www.gitkraken.com,"GitKraken Desktop, GitLens, GitKraken CLI, GitKraken.dev, GitKraken Browser Extension",Dev Tools | Developer Tools | Productivity Tools,gitkraken.com
 CodeRabbit,A service to code review your code with AI assistance.,https://coderabbit.ai/,AI code review service,Software Development | AI | Coding,coderabbit.ai
-Cody,"Read, write and understand code faster",https://about.sourcegraph.com/cody?ref=hackernoon.com,AI code assistant,AI | Software Development | Developer Tools,sourcegraph.com
-Mutable AI,Build fast with AI,https://mutable.ai/?ref=hackernoon.com,AI-driven code assistant,AI | Software Development | Developer Tools,mutable.ai
+Cody,"Read, write and understand code faster",https://about.sourcegraph.com/cody,AI code assistant,AI | Software Development | Developer Tools,sourcegraph.com
+Mutable AI,Build fast with AI,https://mutable.ai/,AI-driven code assistant,AI | Software Development | Developer Tools,mutable.ai
 Cognigy,Generative & conversational AI powered customer service agents for your business,https://www.cognigy.com,AI Agents for customer service,AI Agents | Customer Service | Conversational AI | Automation | Contact Center Solutions | Customer Service Automation | Software Development | natural language processing | Enterprise artificial intelligence | machine learning | multi channel AI | Enterprise Software | chatbot | process automation | automation | IVR | chat | live chat | agent handover | graphical flow editor | customer service | NLP | virtual assistants | customer experience | customer service automation | innovation | AI | conversational ai | digital transformation | omnichannel | multi-lingual | CX | virtual agent | Contact Center | Agent Assist | conversational ai platform | Technology,cognigy.com
 Oyo,Once a red-hot Indian startup active in markets including the U.S. and Europe,https://www.oyorooms.com,Hospitality services,Hospitality | Travel | Technology,oyorooms.com
 Cognition,An applied AI lab building end-to-end software agents,https://devin.ai,"Devin, the world’s first AI software engineer",Artificial Intelligence | Software Development,devin.ai
@@ -914,7 +914,7 @@ d-Matrix,Efficient Gen AI Compute,https://d-matrix.com,Digital In-Memory Compute
 DAIR.AI,Learn to apply the latest prompting techniques and tools to build use cases and applications with LLMs.,https://dair.ai,AI education and training courses,AI | Education | Technology | Artificial Intelligence | Online Learning | NLP | Data Science | Programming,dair.ai
 DAIR.AI,A guide for prompt engineering and optimizing language models.,https://dair-ai.thinkific.com/,Prompt Engineering Courses,Education | Technology | AI,dair-ai.thinkific.com
 Danti,Making it simple to build an understanding of the physical places and areas around the planet.,https://danti.ai/,AI-powered data search capabilities for Earth information,Defense & Intelligence | Civil Government | Critical Infrastructure | Property Investment | Insurance | Mining,danti.ai
-AI Supremacy,Top Generative AI Product Gaps to Invest In,www.ai-supremacy.com,Generative AI insights and investment opportunities,Generative AI | Investment | Technology,ai-supremacy.com
+AI Supremacy,Top Generative AI Product Gaps to Invest In,https://www.ai-supremacy.com,Generative AI insights and investment opportunities,Generative AI | Investment | Technology,ai-supremacy.com
 Notejoy,Fast and focused notes for you and your team.,https://notejoy.com/,Note-taking application,Productivity | Note-taking | Collaboration,notejoy.com
 Darrow,Discover your next big case.,https://www.darrow.ai,AI-Powered Justice Intelligence Platform,Legal Tech | AI | Data Analytics | AI & Data Analytics | LegalTech,darow.ai
 Darrow,AI-Powered Justice Intelligence Platform,https://www.darrow.ai,Justice Intelligence Platform,Legal Tech | AI | Social Justice,darrow.ai
@@ -960,7 +960,7 @@ Daytona,The Open Source Dev Environment Manager.,https://www.daytona.io,Developm
 Decagon,Enterprise-grade generative AI for customer support,https://decagon.ai,AI support agents,AI | Customer Support | Enterprise Software | Customer Service | Chatbots,decagon.ai
 Deepgram,AI automatic speech recognition company providing voice recognition services.,https://www.deepgram.com,Voice recognition services,AI | Speech Recognition | Technology,deepgram.com
 Fanruan,Data analysis and visualization solutions,https://www.fanruan.com,Business Intelligence Software,Business Intelligence | Data Visualization | SaaS,fanruan.com
-TranslatePress AI,A revolutionary new AI translation tool that lets you translate your website automatically using a combination of the world’s leading neural machine AI translation tools.,https://translatepress.com/ai/?utm_source=blog&utm_content=best-ai-translation-tool,AI translation tool for websites,AI | Translation | Software,translatepress.com
+TranslatePress AI,A revolutionary new AI translation tool that lets you translate your website automatically using a combination of the world’s leading neural machine AI translation tools.,https://translatepress.com/ai/,AI translation tool for websites,AI | Translation | Software,translatepress.com
 GitLab,A web-based DevOps lifecycle tool that provides a Git repository manager.,https://about.gitlab.com,DevOps platform,DevOps | Software Development | Collaboration Tools,gitlab.com
 GE Healthcare,Leading medical imaging and diagnostic solutions,https://www.gehealthcare.com,Medical imaging systems including X-ray,Healthcare | Medical Devices | Imaging,gehealthcare.com
 CANON MEDICAL SYSTEMS CORPORATION,Innovative medical imaging solutions,https://global.canon/en/healthcare/,Medical imaging systems including X-ray,Healthcare | Medical Devices | Imaging,canon.com
@@ -974,7 +974,7 @@ Deskpro,The Most Flexible Help Desk — Any Team Can Host Anywhere,https://www.d
 Pika,Sound Effects for seamless video audio generation,https://pika.art/home,Video sound effects generation,AI | Media,pika.art
 Figure,Humanoid robots powered by OpenAI models,https://www.figure.ai/,Humanoid robots,AI | Robotics | Artificial intelligence | Artificial Intelligence | Technology | Machinery Manufacturing,figure.ai
 Apptronik,Humanoid robots for advanced applications,https://apptronik.com/,Humanoid robots,AI | Robotics,apptronik.com
-DevRev,Unify Customer Support & Software Development,https://devrev.ai/,AgentOS platform and knowledge graph,Product | Platform | Solutions | Marketplace | AI | SaaS | Customer Engagement | Product Development | Customer support tools | Automation tools | AI Infrastructure Tools,devrev.ai
+DevRev,Unify Customer Support & Software Development,https://devrev.ai,AgentOS platform and knowledge graph,Product | Platform | Solutions | Marketplace | AI | SaaS | Customer Engagement | Product Development | Customer support tools | Automation tools | AI Infrastructure Tools,devrev.ai
 DevRev,A pioneering SaaS company that aims to seamlessly connect developers with customers through cutting-edge AI technologies.,https://devrev.com,AI-native AgentOS platform,SaaS | AI | Technology,devrev.com
 Pearl,AI solutions for dental professionals.,https://hellopearl.com/,AI solutions for identifying dental issues,Healthcare | AI | Dental,hellopearl.com
 Pafaxe,AI-powered decision support for cold chain logistics.,https://www.paxafe.com/,SaaS platform for cold chain logistics,Logistics | AI,paxafe.com
@@ -1079,11 +1079,11 @@ Local Llama,Leveraging local models with Semantic Kernel to build advanced AI sy
 E42.ai,"Making Enterprises Intelligent, One AI Co-Worker At A Time",https://e42.ai,AI and NLP-powered Cognitive Process Automation platform,Cognitive Automation | AI | NLP | Enterprise Solutions | Automation | Technology | Cognitive Process Automation | Enterprise Automation,e42.ai
 Beyondsoft Consulting Inc,Measuring our success through yours,https://www.beyondsoft.com/,IT consulting and services,Cloud Adoption and Transformation | Data and AI Modernization | Agile Operations and Security | Business Process Management,beyondsoft.com
 Artistedwinlester,Art by Edwin Lester,https://artistedwinlester.com/,Giclée reproductions of paintings,reproductions | uncategorized,artistedwinlester.com
-Carveco,Carveco Maker For SainSmart Customers,https://store-us.carveco.com/products/carveco-maker-for-sainsmart?ref=5pctOff,Carveco Maker,Software | CNC Routing,carveco.com
+Carveco,Carveco Maker For SainSmart Customers,https://store-us.carveco.com/products/carveco-maker-for-sainsmart,Carveco Maker,Software | CNC Routing,carveco.com
 BAS Atelier,"A creative practice co-founded by architect duo Luis Ignacio Figallo and Patrisa Pruthi, inspired by the ancient decorative technique of low or “bas” relief.",https://www.tappancollective.com,Art and Sculpture,Art | Sculpture | Design,tappancollective.com
 Pro Branding Store,"Your one-stop-shop for no/low minimum, no setup fee, promotional products, personal branding tools, and gift giving products.",https://www.photoflashdrive.com/pro-branding-store/,Promotional products and personal branding tools,Gift Sets | Pro Branding Store,photoflashdrive.com
 Hailo,A New Powerful AI Accelerator Bringing Generative AI to Edge Devices,https://hailo.ai/,Generative AI Accelerators,Automotive | Security | Industrial Automation | Retail | Personal Compute | Artificial Intelligence | Microprocessors | Embedded Systems,hailo.ai
-Hailo,Pioneering chipmaker of edge artificial intelligence (AI) processors,https://www.ourcrowd.com/companies/hailo?utm_source=benzinga&utm_medium=banner&utm_campaign=hailo_on_benzinga,Hailo-10 AI Accelerator,Artificial Intelligence | Chip Manufacturing | Edge Computing,ourcrowd.com
+Hailo,Pioneering chipmaker of edge artificial intelligence (AI) processors,https://www.ourcrowd.com/companies/hailo,Hailo-10 AI Accelerator,Artificial Intelligence | Chip Manufacturing | Edge Computing,ourcrowd.com
 NXP Semiconductors,Bringing machine learning and deep learning to the edge.,https://www.nxp.com,MCUs and processors optimized for machine learning applications,AI and Machine Learning | Automotive | Smart Industrial | IoT,nxp.com
 Penn State Wrestling,One of the best college wrestling dynasties ever,https://www.ncaatickets.com/championship/wrestling/champinfo,College Wrestling Championships,Sports | Wrestling | College Sports,ncaatickets.com
 Kaiser Permanente Southern California,Integrated health care system with comprehensive electronic health records.,https://www.kp.org,Health care services and research,Health Care | Research,kp.org
@@ -1175,7 +1175,7 @@ Prima Veg Warung,A Ubud gem with pure vegetarian food.,http://www.tripadvisor.co
 Lobong,Balinese cooking class and market tour.,http://lobongcooking.com,Cooking classes,Food | Cooking Class,lobongcooking.com
 Plume Angel,Maker of fairytale hair extensions.,http://www.plumeangel.com,Hair extensions,Beauty | Fashion,plumeangel.com
 KidsWantU,A B2B2C product helping corporations create positive social impact to support happy families across the globe.,https://kidswantu.com/,B2B2C product for positive social impact,Social Impact | Family | Technology,kidswantu.com
-Beyond Ordinary Guides,Curated Travel Guides & Authentic Stores for the Aesthetic Minded Traveler,www.beyondordinaryguides.com,Curated travel guides,Travel | Guides | Lifestyle | Guide | Stories | Beach | Africa,beyondordinaryguides.com
+Beyond Ordinary Guides,Curated Travel Guides & Authentic Stores for the Aesthetic Minded Traveler,https://www.beyondordinaryguides.com,Curated travel guides,Travel | Guides | Lifestyle | Guide | Stories | Beach | Africa,beyondordinaryguides.com
 Six Senses Vana,A luxury wellness retreat in the Himalayan foothills,https://www.sixsenses.com/en/resorts/vana/,Wellness retreat and Ayurvedic therapies,Hotels | Wellness | Luxury Retreats,sixsenses.com
 Formation Bio,Tech-driven and AI-native pharma differentiated by radically more efficient drug development.,https://www.formation.bio,AI-driven drug development,Biotechnology | Pharmaceuticals | Artificial Intelligence,formation.bio
 Formation Bio,Building the pharma company of the future with AI-driven drug development.,https://www.formationbio.com,AI platform for drug development and clinical trials,Biotechnology | Pharmaceuticals | AI in Healthcare,formationbio.com
@@ -1203,11 +1203,11 @@ Spectral,A decentralized platform for building on-chain AI Agents.,https://www.t
 gaiia,All-in-One Operating System (OS) for Telcos,https://app.gaiia.com/,OSS/BSS solutions for the telecommunications industry,Software | Telecommunications | Billing Solutions | Customer Management | Customer Experience | OSS/BSS | Broadband | Funding | Internet Service Providers | telecommunications | Venture,gaiia.com
 Fibrazo,Leading fiber optics provider dedicated to connecting under-served neighborhoods in Latin America with high-speed internet access,https://www.fibrazo.com/,Fiber optics internet service,Telecommunications | Internet Service Provider,fibrazo.com
 Galileo,The world's first AI-powered expert assistant for HR.,https://joshbersin.com/galileo/,AI-powered expert assistant for HR,AI | HR Technology | Human Resources | Employee Engagement | Talent Management | Consulting,joshbersin.com
-Google AI Gemma,A series of advanced lightweight open models built using the same technology and research results as Gemini models.,https://ai.google.dev/gemma?hl=zh-cn,Open AI models,AI | Machine Learning | Natural Language Processing,ai.google.dev
+Google AI Gemma,A series of advanced lightweight open models built using the same technology and research results as Gemini models.,https://ai.google.dev/gemma,Open AI models,AI | Machine Learning | Natural Language Processing,ai.google.dev
 gemsouls,An AI platform supporting virtual characters and their connection to the real world.,https://www.mygemsouls.com/,AI platform for virtual characters,ChatGPT API | AI | Chatbots | Virtual Reality | Companion,mygemsouls.com
 gemsouls,Paralegal AI,https://aitoolbox.cn/sites/1363.html,n/a,,aitoolbox.cn
-LunaLust,AI Girlfriend platform that helps you find your perfect virtual partner.,https://lunalust.ai/?ref=aitools.fyi&utm_source=aitools.fyi,AI Girlfriend,Companion,lunalust.ai
-AI Charfriend,A free platform providing unrestricted NSFW character AI chat experience without any filters.,https://charfriend.com/ai-character?ref=aitools.fyi&utm_source=aitools.fyi,NSFW AI chat platform,AI Girlfriend,charfriend.com
+LunaLust,AI Girlfriend platform that helps you find your perfect virtual partner.,https://lunalust.ai/,AI Girlfriend,Companion,lunalust.ai
+AI Charfriend,A free platform providing unrestricted NSFW character AI chat experience without any filters.,https://charfriend.com/ai-character,NSFW AI chat platform,AI Girlfriend,charfriend.com
 Climate Change AI (CCAI),A collective of volunteers addressing climate change through machine learning.,https://www.climatechange.ai/,Community building and educational resources for climate change and machine learning.,Non-profit | Environmental | Machine Learning,climatechange.ai
 Candid,Providing comprehensive data about the social sector.,https://blog.candid.org/,Foundation Directory,Nonprofits | Technology | Social Sector,candid.org
 AsyLex,Empowering legal assistance for asylum seekers,https://www.asylex.ch/,Legal counseling and representation for refugees,Nonprofit | Legal Services,asylex.ch
@@ -1241,7 +1241,7 @@ Afforai,"Afforai is a robust AI research assistant and chatbot, offering advance
 Seaml.es,"Seamless Science Literature Review Tool (Seaml) is an AI-powered assistant that creates draft reviews from paper descriptions, utilizing Semantic Scholar's database.",https://seaml.es,AI-powered literature review tool,Research,seaml.es
 Oolimo,Guitar Chord Analyzer (Chord Namer/Identifier),https://www.oolimo.com/de/gitarrenakkorde/analysieren,Guitar Chord Analyzer,Music | Software | Education,oolimo.com
 Gitar,Automated Code Refactoring,http://gitar.co,Code refactoring tools,n/a | Software Development | Developer Tools,gitar.co
-Chord ai,"Discover chords, beats and lyrics for your favorite songs instantly with Chordai's AI music assistant.",https://www.chordai.net?ref=deepgram&utm_source=deepgram&utm_medium=referral,AI music assistant,Music | AI Apps,chordai.net
+Chord ai,"Discover chords, beats and lyrics for your favorite songs instantly with Chordai's AI music assistant.",https://www.chordai.net,AI music assistant,Music | AI Apps,chordai.net
 MathWorks,MATLAB & Simulink Example,https://es.mathworks.com,MATLAB,Software | Engineering | Education,mathworks.com
 Cubase,A digital audio workstation for music production,https://www.steinberg.net/cubase/,Digital Audio Workstation (DAW),Music Production | Software | Audio Engineering,steinberg.net
 MuseScore,Free music notation software,https://musescore.com,Music notation software,Software | Music | Education,musescore.com
@@ -1252,7 +1252,7 @@ Alo Yoga,Digitally native DTC brand focused on e-commerce growth.,https://www.al
 Daydream,AI-powered search engine for e-commerce.,https://daydream.com,Natural language and image recognition search engine,E-commerce | AI | Technology,daydream.com
 True Fit,Online size recommendation solutions.,https://www.truefit.com,Fit Hub - AI-powered size recommendations,E-commerce | AI | Fashion,truefit.com
 Gooey.AI,A low-code artificial intelligence (AI) platform that simplifies AI for eCommerce and online brands.,https://serp.ai/tools/gooey-ai-2/,Low-code AI platform for eCommerce and online brands,AI Tools | Artificial Intelligence Tools | AI Content Marketing Tools | AI Automation Tools,serp.ai
-Gooey AI,"Discover, customize, and deploy low-code AI solutions.",https://gooey.ai/?ref=taaft&utm_source=taaft&utm_medium=referral,Low-code AI solutions,low-code AI | AI deployment | openAI | AI customization | rapid AI solution creation | AI workflows,gooey.ai
+Gooey AI,"Discover, customize, and deploy low-code AI solutions.",https://gooey.ai/,Low-code AI solutions,low-code AI | AI deployment | openAI | AI customization | rapid AI solution creation | AI workflows,gooey.ai
 PrepLounge,The leading platform for case interview preparation,https://www.preplounge.com,Case interview preparation platform,Coaching | Career | Resources,preplounge.com
 DeepMind,"AlphaProteo, a cutting-edge AI system that designs proteins which bind tightly to target molecules.",https://deepmind.com,AI system for protein design,Artificial Intelligence | Drug Discovery,deepmind.com
 Replit,An AI-powered coding tool that can create prototypes for web applications from natural language inputs.,https://replit.com,AI coding tool,Artificial Intelligence | Software,replit.com
@@ -1270,9 +1270,9 @@ Quotient Sciences,Quotient Sciences is a drug development & manufacturing accele
 iNGENū CRO,"The FDA-centric CRO HQ’ed in Australia, with global offices (Asia, UK, EU, USA). Delivering high-quality clinical research at a fraction of the cost.",https://www.ingenucro.com/,clinical research,Biotech | Pharmaceutical | Life Sciences,ingenucro.com
 Abzena,"Abzena is the leading end-to-end bioconjugate & complex biologics CDMO + CRO. From discovery through commercial launch, we support customers with fully integrated programs or individual services designed to de-risk and streamline the development of new treatments for patients in need.",https://abzena.com/,bioconjugate & complex biologics CDMO + CRO,Biotech | Pharmaceutical | Life Sciences,abzena.com
 Graphcore,World's first 3D Wafer-on-Wafer processor,http://graphcore.cn,Bow Pod AI computing system,Artificial Intelligence | Semiconductors | Cloud Computing,graphcore.cn
-Tencent Cloud,NLP Services,https://cloud.tencent.com/product/nlp?from=21341&from_column=21341,Natural Language Processing (NLP) services,NLP | Cloud Computing | AI,cloud.tencent.com
+Tencent Cloud,NLP Services,https://cloud.tencent.com/product/nlp,Natural Language Processing (NLP) services,NLP | Cloud Computing | AI,cloud.tencent.com
 Greptile,AI-Powered Code Reviews and Analysis,https://greptile.com,"AI that understands your entire codebase, embedded in your dev workflow.",AI | Software Development | Code Review | Dev Tools | Software | Developer Tools | Programming Languages,greptile.com
-Greptile,AI-powered API that can search and understand large codebases in natural language.,https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/,AI-powered API for codebase navigation,AI | Software Development | Developer Tools,techcrunch.com
+Greptile,AI-powered API that can search and understand large codebases in natural language.,https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/,AI-powered API for codebase navigation,AI | Software Development | Developer Tools | Tech | Startups,techcrunch.com
 Greptile,Revolutionizing Code Understanding with AI,https://fxis.ai/,AI-driven codebase navigation and understanding,Trends,fxis.ai
 Griffin Health,Healthcare from the Heart,https://www.griffinhealth.org,Healthcare services,Healthcare | Hospital | Community Health,griffinhealth.org
 Griffin Museum of Science and Industry,Providing unique experiences designed to spark scientific inquiry and creativity since 1933.,https://www.msichicago.org,Science education and exhibits,Museum | Education | Science,msichicago.org
@@ -1280,7 +1280,7 @@ Grip Security,Leverage identity as a control point to manage SaaS sprawl.,https:
 The Grit and Polish,A blog about home renovation and design,https://www.thegritandpolish.com,Home renovation tips and floral arrangement advice,DIY | Home Improvement | Gardening | Blog,thegritandpolish.com
 Carney Sandoe & Associates,Interested in finding a school job you love?,https://www.carneysandoe.com,Education recruitment and consulting services,Education | Recruitment | Consulting,carneysandoe.com
 Groq,Generative AI solutions company,https://www.groq.com,LPU Inference Engine,AI | Technology | Chip Design | Chips,groq.com
-Gumloop,Automate any workflow with AI.,https://gumloop.com,AI Automation Framework,Web Scraping | SEO Marketing | Document Processing,gumloop.com
+Gumloop,Automate any workflow with AI.,https://www.gumloop.com/,AI Automation Framework,Web Scraping | SEO Marketing | Document Processing,gumloop.com
 Inflection AI,Own your edge,https://pi.ai,Enterprise AI solutions,Artificial Intelligence | Enterprise Software,pi.ai
 CTGT,Opening the Black Box of AI,https://www.ctgt.ai,"AI solutions for safer, more understandable AI deployments",Artificial Intelligence | Machine Learning | Enterprise Software,ctgt.ai
 Graphlit,Add memory to your AI apps & agents,https://graphlit.com,GraphRAG and RAG-as-a-Service platform,AI | Data Ingestion | Machine Learning | Natural Language Processing,graphlit.com
@@ -1377,7 +1377,7 @@ Cashmere AI,Engagement automation for wealth advisors,https://www.cashmereai.com
 Sherpas,Client engagement automation for wealth advisors,https://sherpaswealth.com/,Client engagement platform,Fintech | AI | Wealth Management,sherpaswealth.com
 Arkifi,Automated investment analysis,https://www.arkifi.ai/,Investment analysis automation,Fintech | AI | Investment,arkifi.ai
 Boosted.ai,Investment management optimization,https://www.boosted.ai/,Investment management tools,Fintech | AI | Investment,boosted.ai
-HighRadius,GenAI-powered finance solutions,"https://www.highradius.com/about/news/highradius-announces-first-ever-finance-team-centric-accounts-payable-solution/#:~:text=With%20HighRadius'%20GenAI%2Dpowered%20Accounts,guidelines%20for%20any%20actions%20required.",Finance automation solutions,Fintech | AI | Finance,highradius.com
+HighRadius,GenAI-powered finance solutions,https://www.highradius.com/about/news/highradius-announces-first-ever-finance-team-centric-accounts-payable-solution/,Finance automation solutions,Fintech | AI | Finance,highradius.com
 Runway,Financial planning tool,https://runway.com/,Financial planning workflows,Fintech | AI | Finance,runway.com
 Trullion,Accounting platform for revenue recognition,https://trullion.com/,Accounting platform,Fintech | AI | Accounting,trullion.com
 Slope,Payments and financing platform,https://slopepay.com/,Payments reconciliation,Fintech | AI | Payments,slopepay.com
@@ -1388,7 +1388,7 @@ Tandem Diabetes Care,"We create new possibilities for people living with diabete
 Shield Concierge,Enhanced customer service,https://www.blueshieldca.com/en/home/be-well/conditions-and-care-programs/shield-concierge,Personalized and coordinated customer care assistant,Health Care | Insurance | Customer Service,blueshieldca.com
 Hamilton GI,"Providing Quality, Affordable Care",https://hamiltongi.com/,Gastroenterology services,Healthcare | Gastroenterology | Medical Services,hamiltongi.com
 Pharmacare Hawaii,Durable Medical Equipment,https://pharmacarehawaii.com,Diabetes Management Tools and Services,Healthcare | Medical Equipment | Diabetes Management,pharmacarehawaii.com
-Tandem,AI to accelerate access to medicine,https://withtandem.com/?utm_source=otta.com,AI-driven healthcare solutions,Healthcare | B2C | B2B | Artificial Intelligence | Biotechnology,withtandem.com
+Tandem,AI to accelerate access to medicine,https://withtandem.com/,AI-driven healthcare solutions,Healthcare | B2C | B2B | Artificial Intelligence | Biotechnology,withtandem.com
 Gundersen Pharmacy,Never miss a dose again with these 4 medication tips and tricks!,https://gundersenhealth.org/services/gundersen-pharmacy,Medication management and pharmacy services,Healthcare | Pharmacy | Medication Management,gundersenhealth.org
 North American Chinese Society of Human Resources (NACSHR),The Largest Chinese HR event in North America,https://www.nacshr.org/,HR services and events,Human Resources | Networking | Professional Development,nacshr.org
 CVWizard,Job market insights and anonymous application processes,https://www.cvwizard.com/en/articles/survey-reveals-new-insights-job-market,Job market insights and tools for anonymous applications,HRTech | Recruitment,cvwizard.com
@@ -1417,3 +1417,27 @@ Kisaco Research,AI Infra Summit 2025,https://ai-infra-summit.com,Industry events
 KUMA Outdoor Gear,Experience Luxury Outdoors,https://www.kumaoutdoorgear.com,Outdoor gear and accessories,Outdoor Equipment | Camping Gear | Apparel | Accessories,kumaoutdoorgear.com
 Scopus AI,Trusted content. Powered by responsible AI.,https://scopus.com,Intuitive intelligent search tool powered by generative AI,,scopus.com
 Cognizant,Prepare for the future with AI,https://www.cognizant.com/cn/zh,AI-driven digital transformation services,Artificial Intelligence | Technology Consulting | Business Services,cognizant.com
+Maven,Unlock your career growth,https://www.maven.com,Live courses with real-world experts,Education | Online Learning | Professional Development,maven.com
+STATION F,STATION F is the largest startup campus in the world.,https://stationf.co,Startup campus and services for entrepreneurs,Startup | Incubator | Coworking Space | Entrepreneurship | Innovation | Technology,stationf.co
+SAP,"SAP debuts a new, more collaborative Joule powered by open-source LLMs",https://www.sap.com,Generative AI copilot Joule,AI | Cloud Computing | Software | Enterprise Software,sap.com
+Indeed,"Find jobs, company reviews, and salaries",https://www.indeed.com/,Job search platform,Job Search | Employment | Recruitment,indeed.com
+Stride,"Software that exceeds expectations today, GenAI and Agile best practices to up-skill your team for tomorrow.",https://www.stride.build,Custom Software Delivery and GenAI solutions,IT Services and IT Consulting | Software Development | Agile Software Development | GenAI,stride.build
+"Vanguard, Inc.",Empowering individual investors to influence shareholder matters.,https://vanguard.com,Investment Stewardship,ESG | investors | Shareholders,vanguard.com
+Truthset,Data validation-as-a-service startup,https://www.startuphub.ai/data-point-capital-leads-5m-round-in-truthset-to-validate-accuracy-of-consumer-data/,Data validation services,Data Validation | Advertising | Technology | Blockchain | AI | Healthcare | Environmental Technology | Recruitment | Enterprise Software,startuphub.ai
+Basecamp Research,AI-powered database of life,https://sifted.eu/articles/basecamp-research-60m-series-b/,AI-powered database,Climate Tech | Venture Capital | Artificial Intelligence | Technology | Photo Editing | Robotics | Audio Technology,sifted.eu
+Fondo,"Bookkeeping, Tax, and Tax Credits for startups.",http://tryfondo.com,"Tax Credits, Bookkeeping, Tax Filing",Finance | Tax Services | Bookkeeping,tryfondo.com
+Safe Security,Welcome to the Future of Cyber Risk Management,https://safe.security,SAFE One - Unified Platform for Cyber Risk Management,Cybersecurity | Risk Management | Technology,safe.security
+Wolters Kluwer,Combining Domain Expertise With Advanced Technology,https://www.wolterskluwer.com/en,"Information, software solutions and services for professionals in healthcare, tax and accounting, financial and corporate compliance, legal and regulatory, corporate performance and ESG.",Health | Tax & Accounting | ESG | Finance | Compliance | Legal,wolterskluwer.com
+Airbnb.org,Helping displaced individuals find shelter.,https://www.airbnb.org/,Housing support for displaced individuals and relief workers,Nonprofit | Housing | Disaster Relief,airbnb.org
+Team Rubicon,Disaster relief through veteran volunteers.,https://teamrubiconusa.org/,Disaster relief services,Nonprofit | Disaster Relief,teamrubiconusa.org
+Black Forest Labs,The image generation model family from Black Forest Labs.,https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/,FLUX1.1 pro,AI | Image Generation | Generative AI,blackforestlabs.ai
+Simbian,"Cybersecurity startup Simbian has launched three LLM AI Agents that work as virtual employees but with the speed, stamina, and accuracy of robots.",https://simbian.ai/,LLM AI Agents for cybersecurity,Cybersecurity | Artificial Intelligence | Technology,simbian.ai
+Air Street Capital,AI investor and venture capital firm,https://www.airstreet.com/portfolio,Investment in AI startups,Venture Capital | Investment | AI,airstreet.com
+Legau,The All-In-One AI Drafting Solution,https://www.artificiallawyer.com/2024/10/10/legau-the-all-in-one-ai-drafting-solution/,multi-capability legal drafting system leveraging genAI,Legal Tech | AI | Contract Drafting | Contract Review,artificiallawyer.com
+Visa,Pivotal player in fintech innovation and partnerships.,https://www.visa.com,Payment processing and financial services,Fintech | Payment Solutions | Financial Services,visa.com
+MeCubro,Insurance for the digital age,https://www.mecubro.com,Digital insurance solutions,Insurtech | Digital Insurance,mecubro.com
+Clupp,Insurance made simple,https://www.clupp.com,Insurance platform,Insurtech | Insurance,clupp.com
+Domu,Home insurance redefined,https://www.domu.com,Home insurance,Insurtech | Home Insurance,domu.com
+Schaefer City Technologies LLC,Smart solutions for urban living,https://www.schaefercitytech.com,Urban technology solutions,Insurtech | Urban Technology,schaefercitytech.com
+Pathwork,Connecting insurance with technology,https://www.pathwork.com,Insurance technology solutions,Insurtech | Insurance Technology,pathwork.com
+Wallet Studio from Miss Moneypenny Tech,Your financial assistant,https://www.missmoneypennytech.com,Financial management app,Fintech | Personal Finance,missmoneypennytech.com
