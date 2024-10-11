@@ -47,26 +47,31 @@ def combine_csv(file_a: str, file_b: str, output_file: str):
 
     # Merge the two dataframes based on the 'name' column.
     # We use an "outer" join to ensure that all rows from both dataframes are included.
-    combined_df = pd.merge(df_a, df_b, on="name", how="outer", suffixes=("_A", "_B"))
+    combined_df = pd.merge(
+        df_a, df_b, on="web_domain", how="outer", suffixes=("_A", "_B")
+    )
 
     # Create a new dataframe where we prioritize values from File A
-    final_data = []
+    final_data_dict = {}
+
     columns = [
+        "web_domain",
         "name",
         "tagline",
         "web_site",
         "main_product_or_service",
         "categories",
-        "web_domain",
     ]
 
     for _, row in combined_df.iterrows():
 
-        if not row["name"]:
+        web_domain = row["web_domain"]
+
+        if web_domain is None:
             continue
 
         final_row = {}
-        final_row["name"] = row["name"]
+        final_row["web_domain"] = web_domain
 
         # Iterate over the other columns to prioritize values from File A if available
         for col in columns[1:]:
@@ -80,9 +85,16 @@ def combine_csv(file_a: str, file_b: str, output_file: str):
             else:
                 final_row[col] = None
 
-        final_data.append(final_row)
+        if web_domain in final_data_dict:
+            print(f"Duplicate web domain found: {web_domain}. Skipping...")
+            print(f"Duplicate row: {final_row}")
+            print(f"Existing row: {final_data_dict[web_domain]}")
+        else:
+            final_data_dict[web_domain] = final_row
 
     # Create the final dataframe
+    final_data = list(final_data_dict.values())
+
     final_df = pd.DataFrame(final_data, columns=columns)
 
     # Save the result to a new CSV file
