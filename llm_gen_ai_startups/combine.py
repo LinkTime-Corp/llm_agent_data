@@ -20,24 +20,27 @@ def get_final_path(filename: str) -> str:
 
 @click.command()
 @click.option(
-    "--file_a",
+    "-a",
+    "--file-a",
     required=True,
     type=click.Path(),
     help="Path to the first CSV file (File A)",
 )
 @click.option(
-    "--file_b",
+    "-b",
+    "--file-b",
     required=True,
     type=click.Path(),
     help="Path to the second CSV file (File B)",
 )
 @click.option(
-    "--output_file",
+    "-o",
+    "--output-file",
     required=True,
     type=click.Path(),
     help="Path to the output CSV file",
 )
-def combine_csv(file_a, file_b, output_file):
+def combine_csv(file_a: str, file_b: str, output_file: str):
     # Load both CSV files as dataframes
     df_a = pd.read_csv(get_final_path(file_a))
     df_b = pd.read_csv(get_final_path(file_b))
@@ -58,6 +61,10 @@ def combine_csv(file_a, file_b, output_file):
     ]
 
     for _, row in combined_df.iterrows():
+
+        if not row["name"]:
+            continue
+
         final_row = {}
         final_row["name"] = row["name"]
 
