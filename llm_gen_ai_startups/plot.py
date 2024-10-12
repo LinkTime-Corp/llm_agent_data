@@ -43,7 +43,7 @@ flat_categories = flat_categories[
 category_distribution = flat_categories["categories"].value_counts()
 
 # Filter out categories with fewer than 2 companies
-filtered_category_distribution = category_distribution[category_distribution >= 20]
+filtered_category_distribution = category_distribution[category_distribution >= 10]
 
 # Save the category distribution to a CSV file
 # categories_yyyymmdd.csv
