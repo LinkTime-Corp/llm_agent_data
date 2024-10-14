@@ -1339,6 +1339,18 @@
         "web_domain": "braintrustdata.com"
     },
     {
+        "name": "Bridgewise",
+        "tagline": "Financial Analysis, AI-superpowered",
+        "web_site": "https://bridgewise.com",
+        "main_product_or_service": "BRIDGET\u2122 - AI investment insights and recommendations",
+        "categories": [
+            "Financial Services",
+            "AI",
+            "Investment Technology"
+        ],
+        "web_domain": "bridgewise.com"
+    },
+    {
         "name": "BrightChamps",
         "tagline": "The Window to Nextgen Skills",
         "web_site": "https://medium.com/gsv-ventures/brightchamps-the-window-to-nextgen-skills-b8670ceef879",
@@ -2258,6 +2270,18 @@
             "Data Analytics"
         ],
         "web_domain": "darro.ai"
+    },
+    {
+        "name": "Dashworks",
+        "tagline": "AI that answers all your team\u2019s questions",
+        "web_site": "https://www.dashworks.ai/",
+        "main_product_or_service": "AI Assistant for Workplace Questions",
+        "categories": [
+            "AI",
+            "Productivity",
+            "Workplace Solutions"
+        ],
+        "web_domain": "dashworks.ai"
     },
     {
         "name": "Data Science Dojo",
@@ -3985,6 +4009,17 @@
         "web_domain": "harvey.ai"
     },
     {
+        "name": "Harvey",
+        "tagline": "Legal services AI agents.",
+        "web_site": "https://www.paxton.ai",
+        "main_product_or_service": "Legal AI Agents",
+        "categories": [
+            "Legal",
+            "AI"
+        ],
+        "web_domain": "paxton.ai"
+    },
+    {
         "name": "Hatch",
         "tagline": "Giving is predictable",
         "web_site": "https://hatch.ai/",
@@ -4140,7 +4175,8 @@
         "categories": [
             "Machine Learning",
             "AI",
-            "Open Source"
+            "Open Source",
+            "NLP"
         ],
         "web_domain": "huggingface.co"
     },
@@ -4686,6 +4722,17 @@
             "Technology"
         ],
         "web_domain": "llmanswerengine.com"
+    },
+    {
+        "name": "LLMWare",
+        "tagline": "Build and Deploy Secure AI Solutions Locally for Regulatory Compliance",
+        "web_site": "https://llmware.ai/",
+        "main_product_or_service": "Secure AI development tools and small language models",
+        "categories": [
+            "AI Development",
+            "Dev Tools"
+        ],
+        "web_domain": "llmware.ai"
     },
     {
         "name": "Lago",
@@ -5506,7 +5553,10 @@
         "categories": [
             "AI",
             "Customer Service",
-            "Technology"
+            "Technology",
+            "AI",
+            "Productivity",
+            "Document Management"
         ],
         "web_domain": "needle.ai"
     },
@@ -6410,6 +6460,30 @@
         "web_domain": "rad.ai"
     },
     {
+        "name": "Ragas",
+        "tagline": "Evaluation library for your LLM Applications",
+        "web_site": "https://docs.ragas.io",
+        "main_product_or_service": "Evaluation tools for LLM applications",
+        "categories": [
+            "evaluation",
+            "llm",
+            "llmops"
+        ],
+        "web_domain": "ragas.io"
+    },
+    {
+        "name": "Ragie",
+        "tagline": "AI-driven solutions for smarter decision-making",
+        "web_site": "https://ragie.ai",
+        "main_product_or_service": "AI analytics platform",
+        "categories": [
+            "AI",
+            "Data Analytics",
+            "Software Development"
+        ],
+        "web_domain": "ragie.ai"
+    },
+    {
         "name": "Raidium",
         "tagline": "A Foundation Model for precision medicine in radiology",
         "web_site": "https://www.raidium.com",
@@ -6507,6 +6581,18 @@
         "web_domain": "read.ai"
     },
     {
+        "name": "Relevance AI",
+        "tagline": "Build your AI Workforce",
+        "web_site": "https://relevanceai.com",
+        "main_product_or_service": "AI Agents and Automation Tools",
+        "categories": [
+            "AI",
+            "Automation",
+            "Business Solutions"
+        ],
+        "web_domain": "relevanceai.com"
+    },
+    {
         "name": "Reliant AI",
         "tagline": "Empowering businesses with AI-driven insights",
         "web_site": "https://reliant-ai.com",
@@ -6577,6 +6663,22 @@
             "Synthetic Data"
         ],
         "web_domain": "replica-analytics.com"
+    },
+    {
+        "name": "Retool",
+        "tagline": "A better way to build custom software",
+        "web_site": "https://retool.com/",
+        "main_product_or_service": "Internal software development platform",
+        "categories": [
+            "Software Development",
+            "Enterprise Software",
+            "No Code",
+            "Low Code",
+            "SaaS",
+            "AI",
+            "Development"
+        ],
+        "web_domain": "retool.com"
     },
     {
         "name": "Reveal",
@@ -7497,6 +7599,18 @@
         "web_domain": "hellotars.com"
     },
     {
+        "name": "TeamSolve",
+        "tagline": "Your Digital Knowledge Companion",
+        "web_site": "https://teamsolve.com",
+        "main_product_or_service": "Operation & Maintenance AI Assistant",
+        "categories": [
+            "AI",
+            "Knowledge Management",
+            "Industrial Solutions"
+        ],
+        "web_domain": "teamsolve.com"
+    },
+    {
         "name": "Tech Mahindra",
         "tagline": "Scale at Speed",
         "web_site": "https://www.techmahindra.com",
@@ -7656,6 +7770,18 @@
             "AI Tools"
         ],
         "web_domain": "topazlabs.com"
+    },
+    {
+        "name": "Towards AI",
+        "tagline": "Building LLMs for Production",
+        "web_site": "https://www.oreilly.com",
+        "main_product_or_service": "Comprehensive textbook on building LLM applications",
+        "categories": [
+            "AI",
+            "Education",
+            "Technology"
+        ],
+        "web_domain": "oreilly.com"
     },
     {
         "name": "TranslatePress AI",
@@ -8147,6 +8273,18 @@
         "web_domain": "workable.com"
     },
     {
+        "name": "Workato",
+        "tagline": "Conversational AI agents for orchestration.",
+        "web_site": "https://www.workato.com",
+        "main_product_or_service": "Workato Genies",
+        "categories": [
+            "AI",
+            "Automation",
+            "Integration"
+        ],
+        "web_domain": "workato.com"
+    },
+    {
         "name": "Workday",
         "tagline": "The AI-first platform for finance and HR.",
         "web_site": "https://www.workday.com/en-us/homepage.html",
@@ -8262,6 +8400,20 @@
             "AI Technology"
         ],
         "web_domain": "yuma.ai"
+    },
+    {
+        "name": "Zapier",
+        "tagline": "Automate without limits",
+        "web_site": "https://zapier.com",
+        "main_product_or_service": "No-code automation across 7,000+ apps",
+        "categories": [
+            "Automation",
+            "Productivity",
+            "Software",
+            "AI",
+            "SaaS"
+        ],
+        "web_domain": "zapier.com"
     },
     {
         "name": "Zendesk",
