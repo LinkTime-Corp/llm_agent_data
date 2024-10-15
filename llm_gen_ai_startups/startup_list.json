@@ -370,6 +370,18 @@
         "web_domain": "ai.science"
     },
     {
+        "name": "Ahura AI",
+        "tagline": "AI-Powered Insights for Business",
+        "web_site": "https://ahuraai.com",
+        "main_product_or_service": "AI-driven analytics platform",
+        "categories": [
+            "AI",
+            "Data Analytics",
+            "BI"
+        ],
+        "web_domain": "ahuraai.com"
+    },
+    {
         "name": "Aiagent.app",
         "tagline": "AI-powered customer support solutions",
         "web_site": "https://aiagent.app",
@@ -1390,6 +1402,18 @@
         "web_domain": "camel-ai.org"
     },
     {
+        "name": "CLARA Analytics",
+        "tagline": "Transforming the insurance claims process with AI-driven solutions.",
+        "web_site": "https://www.claraanalytics.com",
+        "main_product_or_service": "AI-driven claims management solutions",
+        "categories": [
+            "Insurtech",
+            "AI",
+            "Claims Management"
+        ],
+        "web_domain": "claraanalytics.com"
+    },
+    {
         "name": "CLEW",
         "tagline": "Intelligent Clinical Surveillance",
         "web_site": "https://clewmed.com/",
@@ -2161,6 +2185,19 @@
         "web_domain": "crowdstrike.com"
     },
     {
+        "name": "Crusoe",
+        "tagline": "Aligning the Future of Computing with the Future of the Climate",
+        "web_site": "https://crusoecloud.com",
+        "main_product_or_service": "scalable, climate-aligned digital infrastructure optimized for high-performance computing and artificial intelligence",
+        "categories": [
+            "Cloud Computing",
+            "Energy Solutions",
+            "High-Performance Computing",
+            "AI"
+        ],
+        "web_domain": "crusoecloud.com"
+    },
+    {
         "name": "Cube",
         "tagline": "Build AI and analytics solutions with unified data",
         "web_site": "https://cubecloud.dev",
@@ -2414,6 +2451,17 @@
             "Technology"
         ],
         "web_domain": "decagon.ai"
+    },
+    {
+        "name": "Decagon",
+        "tagline": "AI-powered customer service agents",
+        "web_site": "http://www.forbes.com/sites/rashishrivastava/2024/10/15/this-companys-ai-agents-won-contests-to-secure-big-customers-now-its-raising-65-million/",
+        "main_product_or_service": "AI customer service agents",
+        "categories": [
+            "AI",
+            "Customer Service"
+        ],
+        "web_domain": "forbes.com"
     },
     {
         "name": "Deci",
@@ -2990,6 +3038,17 @@
         "web_domain": "evabot.com"
     },
     {
+        "name": "Eventual",
+        "tagline": "Revolutionizing insurance with AI-driven solutions.",
+        "web_site": "https://www.eventual.com",
+        "main_product_or_service": "AI-driven insurance solutions",
+        "categories": [
+            "Insurtech",
+            "AI"
+        ],
+        "web_domain": "eventual.com"
+    },
+    {
         "name": "Everyprompt",
         "tagline": "A playground for GPT-3",
         "web_site": "https://everyprompt.com",
@@ -3556,6 +3615,18 @@
             "Human Capital Management"
         ],
         "web_domain": "joshbersin.com"
+    },
+    {
+        "name": "Galileo",
+        "tagline": "Bringing Evaluation Intelligence to Generative AI Teams Everywhere",
+        "web_site": "https://www.galileo.ai",
+        "main_product_or_service": "Evaluation Intelligence Platform",
+        "categories": [
+            "AI",
+            "Generative AI",
+            "Enterprise Software"
+        ],
+        "web_domain": "galileo.ai"
     },
     {
         "name": "Gems",
@@ -5869,6 +5940,48 @@
             "Language Models"
         ],
         "web_domain": "odiagenai.org"
+    },
+    {
+        "name": "Omnea",
+        "tagline": "Taking the pain out of procurement and supplier management",
+        "web_site": "https://startup-weekly.com/London-founded-Omnea-raises-20m-to-take-the-pain-out-of-procurement-and-supplier-management/",
+        "main_product_or_service": "Procurement and supplier management solutions",
+        "categories": [
+            "Procurement",
+            "Supplier Management",
+            "Technology",
+            "HealthTech",
+            "AI",
+            "Engagement Solutions",
+            "FinTech",
+            "Accounting",
+            "InsurTech",
+            "Data Analysis",
+            "Entertainment",
+            "Cybersecurity",
+            "Infrastructure",
+            "Open Source",
+            "Simulation",
+            "Enterprise",
+            "Gaming",
+            "3D Modeling",
+            "Retail",
+            "Inventory Management",
+            "Identity Management",
+            "SaaS",
+            "Marketing",
+            "Email",
+            "Manufacturing",
+            "Pet Food",
+            "Healthcare",
+            "EdTech",
+            "Education",
+            "Robotics",
+            "DeepTech",
+            "Transportation",
+            "Finance"
+        ],
+        "web_domain": "startup-weekly.com"
     },
     {
         "name": "OneTrust",
@@ -8503,6 +8616,19 @@
         "web_domain": "care.ai"
     },
     {
+        "name": "causaLens",
+        "tagline": "The Leader In Causal AI",
+        "web_site": "https://causalens.com",
+        "main_product_or_service": "AI-powered Enterprise Decision-making",
+        "categories": [
+            "Causal AI",
+            "Decision-making",
+            "Data Analytics",
+            "AI Agents"
+        ],
+        "web_domain": "causalens.com"
+    },
+    {
         "name": "d-Matrix",
         "tagline": "Transforming AI from unsustainable to attainable.",
         "web_site": "https://www.d-matrix.ai/",
@@ -8576,6 +8702,18 @@
             "Technology"
         ],
         "web_domain": "iask.ai"
+    },
+    {
+        "name": "keep AIOps",
+        "tagline": "AI-driven operations for seamless IT management",
+        "web_site": "https://keephq.dev",
+        "main_product_or_service": "AIOps platform for IT operations",
+        "categories": [
+            "Information Technology",
+            "Software",
+            "AI"
+        ],
+        "web_domain": "keephq.dev"
     },
     {
         "name": "mbue",
