@@ -1,0 +1,15 @@
+#!/bin/bash
+
+set -e -u
+
+ts=$(date +%Y%m%d)
+git co main
+git pull
+git co -b data_"$ts"
+git push --set-upstream origin data_"$ts"
+cp /home/feng/llmeds/src/applications/startup_list/startup_list.latest.json startup_list.json
+cp /home/feng/llmeds/src/applications/startup_list/startup_list.latest.csv startup_list.csv
+python plot.py
+git add .
+git commit -m "update data $ts"
+git push
