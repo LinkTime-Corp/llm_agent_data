@@ -37,6 +37,28 @@
         "web_domain": "squared.ai"
     },
     {
+        "name": "AI Stash",
+        "tagline": "The AI Tools Directory",
+        "web_site": "https://www.aistash.com",
+        "main_product_or_service": "Directory of AI tools",
+        "categories": [
+            "Copywriting",
+            "SEO",
+            "Social Media",
+            "Email Assistant",
+            "Sales",
+            "Art",
+            "Human Resources",
+            "Legal Assistant",
+            "Transcriber",
+            "Education Assistant",
+            "Research",
+            "Productivity",
+            "Search Engine"
+        ],
+        "web_domain": "aistash.com"
+    },
+    {
         "name": "AI Supremacy",
         "tagline": "News at the intersection of Artificial Intelligence, technology and business including Op-Eds, research summaries, guest contributions and valuable info about A.I. startups.",
         "web_site": "https://substack.com",
@@ -533,18 +555,6 @@
         "web_domain": "ajl.org"
     },
     {
-        "name": "Alibaba Mail",
-        "tagline": "Your trusted email service provider",
-        "web_site": "https://www.aliyun.com",
-        "main_product_or_service": "Email services and cloud computing solutions",
-        "categories": [
-            "Email Services",
-            "Cloud Computing",
-            "Technology"
-        ],
-        "web_domain": "aliyun.com"
-    },
-    {
         "name": "Allora Network",
         "tagline": "Allora is self-improving decentralized intelligence built by the community.",
         "web_site": "https://allora.network",
@@ -736,6 +746,16 @@
         "web_domain": "anytimeai.ai"
     },
     {
+        "name": "Apono",
+        "tagline": "AI-driven, Least Privilege Solution Set",
+        "web_site": "https://cloud-security/apono-raises-15-5m-series-a-funding-for-ai-driven-least-privilege-solution-set",
+        "main_product_or_service": "AI-driven least privilege solutions",
+        "categories": [
+            "Cloud Security"
+        ],
+        "web_domain": "cloud-security"
+    },
+    {
         "name": "Aporia",
         "tagline": "Deliver Reliable and Secure AI",
         "web_site": "https://www.aporia.com/",
@@ -758,6 +778,18 @@
             "Research and Development"
         ],
         "web_domain": "twitter.com"
+    },
+    {
+        "name": "Aptori",
+        "tagline": "AI-Driven Application Security Testing for API Security",
+        "web_site": "https://aptori.dev",
+        "main_product_or_service": "AI-Powered Application Security Testing",
+        "categories": [
+            "Application Security",
+            "API Security",
+            "Vulnerability Management"
+        ],
+        "web_domain": "aptori.dev"
     },
     {
         "name": "Aqemia",
@@ -1275,6 +1307,24 @@
         "web_domain": "boosted.ai"
     },
     {
+        "name": "Botpress",
+        "tagline": "the Complete AI Agent Platform",
+        "web_site": "https://botpress.com",
+        "main_product_or_service": "AI chatbot platform",
+        "categories": [
+            "SaaS",
+            "Legal Services",
+            "Manufacturing",
+            "Real Estate",
+            "Hospitality",
+            "Education",
+            "Telecom",
+            "Ecommerce",
+            "Finance"
+        ],
+        "web_domain": "botpress.com"
+    },
+    {
         "name": "Botsify",
         "tagline": "A Fully Automated Chatbot Platform To Build AI-Chatbot",
         "web_site": "https://botsify.com",
@@ -1716,18 +1766,6 @@
         "web_domain": "cicerai.com"
     },
     {
-        "name": "Cisco Hypershield",
-        "tagline": "AI-native. Ever aware. Everywhere.",
-        "web_site": "https://www.cisco.com/c/en/us/products/security/hypershield-stay-informed.html",
-        "main_product_or_service": "Groundbreaking security architecture for AI-scale data centers",
-        "categories": [
-            "Security",
-            "AI Technology",
-            "Data Center Solutions"
-        ],
-        "web_domain": "cisco.com"
-    },
-    {
         "name": "ClaySys Technologies",
         "tagline": "Automate Your World!",
         "web_site": "https://www.claysys.com",
@@ -1778,6 +1816,18 @@
         "web_domain": "clearbrief.com"
     },
     {
+        "name": "Clearscope",
+        "tagline": "The #1 Content-First SEO Platform",
+        "web_site": "https://www.clearscope.io",
+        "main_product_or_service": "AI-powered content optimization platform",
+        "categories": [
+            "SEO",
+            "Content Marketing",
+            "Software"
+        ],
+        "web_domain": "clearscope.io"
+    },
+    {
         "name": "CleeAI",
         "tagline": "AI-Powered Solutions for Everyday Tasks",
         "web_site": "https://cleeai.com",
@@ -1812,6 +1862,18 @@
             "Compliance"
         ],
         "web_domain": "clouddefense.ai"
+    },
+    {
+        "name": "Cloudphysician",
+        "tagline": "Transforming Critical Care",
+        "web_site": "https://cloudphysician.net",
+        "main_product_or_service": "AI-powered ICU & emergency care",
+        "categories": [
+            "Healthcare",
+            "Technology",
+            "Telemedicine"
+        ],
+        "web_domain": "cloudphysician.net"
     },
     {
         "name": "CoRover.ai",
@@ -2072,6 +2134,19 @@
         "web_domain": "comet.com"
     },
     {
+        "name": "ComplyAdvantage",
+        "tagline": "AI-driven fraud & AML risk detection",
+        "web_site": "https://complyadvantage.com",
+        "main_product_or_service": "AI-driven fraud and AML risk detection solutions",
+        "categories": [
+            "Fraud Detection",
+            "AML Compliance",
+            "Risk Management",
+            "Financial Services"
+        ],
+        "web_domain": "complyadvantage.com"
+    },
+    {
         "name": "Complytek",
         "tagline": "Your Trusted Regulatory Technology Partner",
         "web_site": "https://www.complytek.ai",
@@ -2119,6 +2194,19 @@
             "GPU Computing"
         ],
         "web_domain": "coreweave.com"
+    },
+    {
+        "name": "Cornerstone",
+        "tagline": "One platform. Limitless potential.",
+        "web_site": "https://www.cornerstoneondemand.com/",
+        "main_product_or_service": "AI-powered workforce agility platform",
+        "categories": [
+            "HR Tech",
+            "Learning Management",
+            "Talent Management",
+            "Workforce Agility"
+        ],
+        "web_domain": "cornerstoneondemand.com"
     },
     {
         "name": "Corti",
@@ -2697,6 +2785,17 @@
             "Technology"
         ],
         "web_domain": "askdonna.com"
+    },
+    {
+        "name": "Doowii",
+        "tagline": "You're in control",
+        "web_site": "https://www.doowii.io",
+        "main_product_or_service": "AI-driven data analytics for educators",
+        "categories": [
+            "K-12",
+            "Higher Ed"
+        ],
+        "web_domain": "doowii.io"
     },
     {
         "name": "DraftWise",
@@ -3567,6 +3666,19 @@
         "web_domain": "g42.ai"
     },
     {
+        "name": "GEP",
+        "tagline": "AI-Powered Supply Chain and Procurement Software, Strategy & Managed Services",
+        "web_site": "https://www.gep.com/",
+        "main_product_or_service": "AI-powered supply chain and procurement software",
+        "categories": [
+            "Software",
+            "Supply Chain Management",
+            "Procurement Consulting",
+            "Managed Services"
+        ],
+        "web_domain": "gep.com"
+    },
+    {
         "name": "GIGABYTE Global",
         "tagline": "Delivering a Better Tomorrow",
         "web_site": "https://www.gigabyte.com",
@@ -3624,7 +3736,9 @@
         "categories": [
             "AI",
             "Generative AI",
-            "Enterprise Software"
+            "Enterprise Software",
+            "Software",
+            "Technology"
         ],
         "web_domain": "galileo.ai"
     },
@@ -3784,7 +3898,10 @@
         "categories": [
             "AI",
             "Enterprise Software",
-            "Productivity"
+            "Productivity",
+            "Workplace Search",
+            "Knowledge Management",
+            "Automation"
         ],
         "web_domain": "glean.com"
     },
@@ -4028,6 +4145,17 @@
         "web_domain": "gumloop.com"
     },
     {
+        "name": "H2 Green Steel",
+        "tagline": "We aim to decarbonize steelmaking by using hydrogen gas.",
+        "web_site": "http://h2greensteel.com",
+        "main_product_or_service": "green steel production",
+        "categories": [
+            "Cleantech",
+            "Manufacturing"
+        ],
+        "web_domain": "h2greensteel.com"
+    },
+    {
         "name": "H2O.ai",
         "tagline": "Democratizing AI with Automated Machine Learning",
         "web_site": "https://h2o.ai/",
@@ -4191,6 +4319,18 @@
         "web_domain": "higgsfield.ai"
     },
     {
+        "name": "HighRadius",
+        "tagline": "AI-Driven Solutions for the Office of the CFO",
+        "web_site": "https://www.highradius.com/",
+        "main_product_or_service": "Autonomous Finance Platform",
+        "categories": [
+            "Finance",
+            "Software",
+            "AI Solutions"
+        ],
+        "web_domain": "highradius.com"
+    },
+    {
         "name": "Hippocratic AI",
         "tagline": "AI for healthcare that puts patients first",
         "web_site": "https://hippocraticai.com",
@@ -4201,6 +4341,19 @@
             "Technology"
         ],
         "web_domain": "hippocraticai.com"
+    },
+    {
+        "name": "HireVue",
+        "tagline": "Human Potential Intelligence",
+        "web_site": "https://www.hirevue.com",
+        "main_product_or_service": "AI-driven hiring platform",
+        "categories": [
+            "Hiring Solutions",
+            "Video Interviews",
+            "Assessments",
+            "AI Technology"
+        ],
+        "web_domain": "hirevue.com"
     },
     {
         "name": "Holland & Knight",
@@ -4286,6 +4439,22 @@
             "Data Intelligence"
         ],
         "web_domain": "hyperplane.ai"
+    },
+    {
+        "name": "ID-Pal",
+        "tagline": "Identity Verification. Made Simple.",
+        "web_site": "https://www.id-pal.com",
+        "main_product_or_service": "AI-Powered Identity Verification",
+        "categories": [
+            "Digital & Online ID Verification",
+            "Identity Document Verification",
+            "Address E-Verification",
+            "AML Compliance",
+            "KYC Compliance",
+            "Customer Onboarding",
+            "Fraud Prevention"
+        ],
+        "web_domain": "id-pal.com"
     },
     {
         "name": "Iktos",
@@ -4806,6 +4975,18 @@
         "web_domain": "llmware.ai"
     },
     {
+        "name": "LLMental",
+        "tagline": "Aument Mental Wellness",
+        "web_site": "http://www.llmental.ai",
+        "main_product_or_service": "Mental health solutions for enterprises",
+        "categories": [
+            "Mental Health",
+            "Digital Health",
+            "AI Solutions"
+        ],
+        "web_domain": "llmental.ai"
+    },
+    {
         "name": "Lago",
         "tagline": "Open source metering and usage-based billing",
         "web_site": "https://www.getlago.com",
@@ -4920,6 +5101,18 @@
         "web_domain": "leantaas.com"
     },
     {
+        "name": "Lecca.io",
+        "tagline": "AI Agents and Workflow Automation",
+        "web_site": "https://app.lecca.io",
+        "main_product_or_service": "AI Agents and Workflow Automation",
+        "categories": [
+            "AI",
+            "Workflow Automation",
+            "Productivity"
+        ],
+        "web_domain": "lecca.io"
+    },
+    {
         "name": "LeewayHertz",
         "tagline": "AI Development Company",
         "web_site": "https://www.leewayhertz.com/",
@@ -5019,6 +5212,17 @@
         "web_domain": "lexlabs.ai"
     },
     {
+        "name": "Leya",
+        "tagline": "We want every lawyer to be empowered by AI in their work to accomplish more.",
+        "web_site": "http://leya.law",
+        "main_product_or_service": "GenAI platform for lawyers",
+        "categories": [
+            "Legal Tech",
+            "AI"
+        ],
+        "web_domain": "leya.law"
+    },
+    {
         "name": "LibAILab",
         "tagline": "Empowering AI with Innovative Solutions",
         "web_site": "http://ishencai.com",
@@ -5054,6 +5258,18 @@
             "Machine Learning"
         ],
         "web_domain": "lightning.ai"
+    },
+    {
+        "name": "Lightricks",
+        "tagline": "Award Winning App Developer",
+        "web_site": "https://www.lightricks.com",
+        "main_product_or_service": "AI-Powered Image Generation",
+        "categories": [
+            "App Development",
+            "Image Editing",
+            "Creative Tools"
+        ],
+        "web_domain": "lightricks.com"
     },
     {
         "name": "Liminal",
@@ -5093,6 +5309,29 @@
             "Community"
         ],
         "web_domain": "llamaindex.ai"
+    },
+    {
+        "name": "LogRocket",
+        "tagline": "AI-first session replay and analytics that shows you what's wrong",
+        "web_site": "https://logrocket.com",
+        "main_product_or_service": "Session Replay, Product Analytics, Error Tracking",
+        "categories": [
+            "Product Analytics",
+            "Error Tracking",
+            "Session Replay"
+        ],
+        "web_domain": "logrocket.com"
+    },
+    {
+        "name": "Lovable",
+        "tagline": "We made an AI that builds software.",
+        "web_site": "http://lovable.dev",
+        "main_product_or_service": "AI software development tool",
+        "categories": [
+            "Software Development",
+            "AI"
+        ],
+        "web_domain": "lovable.dev"
     },
     {
         "name": "LunaLust",
@@ -5434,6 +5673,19 @@
         "web_domain": "minterellison.com"
     },
     {
+        "name": "Miro",
+        "tagline": "The Innovation Workspace",
+        "web_site": "https://miro.com/",
+        "main_product_or_service": "AI-powered collaboration platform",
+        "categories": [
+            "Collaboration",
+            "Productivity",
+            "Software",
+            "Design"
+        ],
+        "web_domain": "miro.com"
+    },
+    {
         "name": "Mirry.ai",
         "tagline": "AI-powered insights for better decision making",
         "web_site": "https://mirry.ai",
@@ -5518,6 +5770,17 @@
             "Software"
         ],
         "web_domain": "multion.ai"
+    },
+    {
+        "name": "Muse Tax Inc.",
+        "tagline": "AI-powered tax and financial intelligence for your platform",
+        "web_site": "https://musetax.com",
+        "main_product_or_service": "AI-driven financial solutions",
+        "categories": [
+            "Payroll",
+            "Banking"
+        ],
+        "web_domain": "musetax.com"
     },
     {
         "name": "Mutable AI",
@@ -5707,6 +5970,18 @@
             "AI"
         ],
         "web_domain": "newrelic.com"
+    },
+    {
+        "name": "Nobias Therapeutics",
+        "tagline": "Advanced Therapeutics for Pediatric and Rare Disease",
+        "web_site": "https://nobiastx.com/",
+        "main_product_or_service": "AI/ML-based drug discovery tools",
+        "categories": [
+            "Biotech",
+            "Healthcare",
+            "Pharmaceuticals"
+        ],
+        "web_domain": "nobiastx.com"
     },
     {
         "name": "Noetica",
@@ -6076,6 +6351,18 @@
         "web_domain": "oscillate.ai"
     },
     {
+        "name": "Outerbase",
+        "tagline": "The interface for your database",
+        "web_site": "https://app.outerbase.com",
+        "main_product_or_service": "AI-powered database interface",
+        "categories": [
+            "Database Management",
+            "AI Tools",
+            "Data Analytics"
+        ],
+        "web_domain": "outerbase.com"
+    },
+    {
         "name": "Outerbounds",
         "tagline": "Infrastructure for ML, AI, and Data Science",
         "web_site": "https://outerbounds.com",
@@ -6208,6 +6495,18 @@
         "web_domain": "parthean.com"
     },
     {
+        "name": "Pax8",
+        "tagline": "One cloud marketplace. Infinite growth.",
+        "web_site": "https://www.pax8.com/en-us/",
+        "main_product_or_service": "AI-powered cloud marketplace",
+        "categories": [
+            "Marketplace",
+            "Cloud Services",
+            "Technology"
+        ],
+        "web_domain": "pax8.com"
+    },
+    {
         "name": "Paxera Health",
         "tagline": "Elevating Healthcare with AI Assisted Imaging",
         "web_site": "https://paxerahealth.com/",
@@ -6218,6 +6517,18 @@
             "AI Solutions"
         ],
         "web_domain": "paxerahealth.com"
+    },
+    {
+        "name": "PayZen",
+        "tagline": "Happier Patients. More Revenue.",
+        "web_site": "https://payzen.com/",
+        "main_product_or_service": "AI-powered patient financing solutions",
+        "categories": [
+            "Healthcare",
+            "Fintech",
+            "Patient Financing"
+        ],
+        "web_domain": "payzen.com"
     },
     {
         "name": "Pearl",
@@ -6320,6 +6631,18 @@
         "web_domain": "piecestech.com"
     },
     {
+        "name": "Pieces for Developers",
+        "tagline": "AI-enabled productivity tool designed to increase developer efficiency through personalized workflow assistance.",
+        "web_site": "https://pieces.app",
+        "main_product_or_service": "Pieces OS and Pieces Desktop App",
+        "categories": [
+            "Productivity",
+            "Software Development",
+            "AI Tools"
+        ],
+        "web_domain": "pieces.app"
+    },
+    {
         "name": "Pinecone",
         "tagline": "The vector database to build knowledgeable AI",
         "web_site": "https://app.pinecone.io",
@@ -6330,6 +6653,19 @@
             "Serverless"
         ],
         "web_domain": "pinecone.io"
+    },
+    {
+        "name": "Playvox",
+        "tagline": "AI-infused solutions powering exceptional experiences",
+        "web_site": "https://www.playvox.com/",
+        "main_product_or_service": "Workforce Engagement Management",
+        "categories": [
+            "Software",
+            "Contact Center Solutions",
+            "Workforce Management",
+            "Quality Management"
+        ],
+        "web_domain": "playvox.com"
     },
     {
         "name": "Pleias",
@@ -6669,6 +7005,18 @@
         "web_domain": "wwaifu.github.io"
     },
     {
+        "name": "Rapid7",
+        "tagline": "AI-Powered Cybersecurity Platform",
+        "web_site": "https://www.rapid7.com/",
+        "main_product_or_service": "InsightAppSec",
+        "categories": [
+            "Cybersecurity",
+            "Application Security",
+            "Vulnerability Management"
+        ],
+        "web_domain": "rapid7.com"
+    },
+    {
         "name": "RazorCode AI",
         "tagline": "Empowering developers with AI-driven code solutions.",
         "web_site": "https://razorcode.ai",
@@ -6692,6 +7040,18 @@
             "Transcription"
         ],
         "web_domain": "read.ai"
+    },
+    {
+        "name": "Recycleye",
+        "tagline": "AI-powered sorting equipment and analytics for waste management businesses globally.",
+        "web_site": "https://recycleye.com/",
+        "main_product_or_service": "AI-powered waste sorting solutions",
+        "categories": [
+            "Waste Management",
+            "AI Technology",
+            "Robotics"
+        ],
+        "web_domain": "recycleye.com"
     },
     {
         "name": "Relevance AI",
@@ -6776,6 +7136,18 @@
             "Synthetic Data"
         ],
         "web_domain": "replica-analytics.com"
+    },
+    {
+        "name": "Replit",
+        "tagline": "Build software faster",
+        "web_site": "https://replit.com",
+        "main_product_or_service": "AI-powered software development & deployment platform",
+        "categories": [
+            "Software Development",
+            "Collaboration",
+            "AI Tools"
+        ],
+        "web_domain": "replit.com"
     },
     {
         "name": "Retool",
@@ -6889,6 +7261,19 @@
             "Video Production"
         ],
         "web_domain": "runwayml.com"
+    },
+    {
+        "name": "Runway",
+        "tagline": "The creative toolkit for the next generation of media.",
+        "web_site": "https://runway.team",
+        "main_product_or_service": "AI-powered video editing and content creation tools",
+        "categories": [
+            "Technology",
+            "Media",
+            "Software",
+            "Creative Tools"
+        ],
+        "web_domain": "runway.team"
     },
     {
         "name": "SLK Software",
@@ -7228,6 +7613,18 @@
             "Enterprise Platform"
         ],
         "web_domain": "slack.com"
+    },
+    {
+        "name": "Slite",
+        "tagline": "AI-powered knowledge base",
+        "web_site": "https://slite.com",
+        "main_product_or_service": "Knowledge management software",
+        "categories": [
+            "Productivity",
+            "Collaboration",
+            "Knowledge Management"
+        ],
+        "web_domain": "slite.com"
     },
     {
         "name": "SmallTalk2Me",
@@ -7933,6 +8330,30 @@
         "web_domain": "trove.ai"
     },
     {
+        "name": "True Fit",
+        "tagline": "Fit confidence for every body.",
+        "web_site": "https://www.truefit.com",
+        "main_product_or_service": "AI-driven size and fit guidance for online shoppers",
+        "categories": [
+            "E-commerce",
+            "Fashion Technology",
+            "Retail Technology"
+        ],
+        "web_domain": "truefit.com"
+    },
+    {
+        "name": "Trullion",
+        "tagline": "AI-Powered Accounting Software Solutions",
+        "web_site": "https://trullion.com",
+        "main_product_or_service": "AI-powered accounting software",
+        "categories": [
+            "Accounting",
+            "Finance",
+            "Software"
+        ],
+        "web_domain": "trullion.com"
+    },
+    {
         "name": "Truthset",
         "tagline": "The Truth in Data",
         "web_site": "https://truthset.com",
@@ -8107,6 +8528,18 @@
         "web_domain": "valarlabs.com"
     },
     {
+        "name": "Valence",
+        "tagline": "Work Better. Together.",
+        "web_site": "https://www.valence.co/",
+        "main_product_or_service": "AI-Powered Leadership Coaching",
+        "categories": [
+            "AI Coaching",
+            "Leadership Development",
+            "Talent Management"
+        ],
+        "web_domain": "valence.co"
+    },
+    {
         "name": "Valohai",
         "tagline": "The Scalable MLOps Platform",
         "web_site": "https://app.valohai.com",
@@ -8192,6 +8625,20 @@
             "Software Development"
         ],
         "web_domain": "vijil.ai"
+    },
+    {
+        "name": "Vimeo",
+        "tagline": "AI-Powered Video Platform",
+        "web_site": "https://vimeo.com",
+        "main_product_or_service": "Video hosting and management platform",
+        "categories": [
+            "Video Hosting",
+            "Video Management",
+            "Video Creation",
+            "Live Streaming",
+            "Video Monetization"
+        ],
+        "web_domain": "vimeo.com"
     },
     {
         "name": "Visor.ai",
@@ -8781,6 +9228,18 @@
             "Technology"
         ],
         "web_domain": "sensors.africa"
+    },
+    {
+        "name": "testRigor",
+        "tagline": "AI-Based Test Automation Tool",
+        "web_site": "https://testrigor.com/",
+        "main_product_or_service": "AI-Based Automated Testing Tool",
+        "categories": [
+            "Software Testing",
+            "Test Automation",
+            "AI Testing"
+        ],
+        "web_domain": "testrigor.com"
     },
     {
         "name": "xAI",
