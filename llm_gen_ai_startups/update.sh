@@ -15,8 +15,8 @@ set -u
 pushd . >/dev/null 2>&1 
 cd "${CUR_PATH}"
 
-# git co main
-# git pull
+git co main
+git pull
 git co -b data_"$ts"
 git push --set-upstream origin data_"$ts"
 cp "${eds_home}"/src/applications/startup_list/startup_list.latest.json startup_list.json
