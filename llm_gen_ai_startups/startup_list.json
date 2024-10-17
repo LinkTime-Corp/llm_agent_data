@@ -715,7 +715,9 @@
         "categories": [
             "AI",
             "Machine Learning",
-            "AI Safety"
+            "AI Safety",
+            "Research",
+            "Technology"
         ],
         "web_domain": "anthropic.com"
     },
@@ -2459,7 +2461,9 @@
             "AI",
             "Data Warehousing",
             "Real-Time Analytics",
-            "BI"
+            "BI",
+            "AI/ML",
+            "Public Cloud"
         ],
         "web_domain": "databricks.com"
     },
@@ -2988,6 +2992,18 @@
             "Healthcare Technology"
         ],
         "web_domain": "eleos.health"
+    },
+    {
+        "name": "ElevenLabs",
+        "tagline": "AI voice generation technology",
+        "web_site": "https://elevenlabs.io",
+        "main_product_or_service": "AI voice generation",
+        "categories": [
+            "AI",
+            "Voice Technology",
+            "Technology"
+        ],
+        "web_domain": "elevenlabs.io"
     },
     {
         "name": "EliseAI",
@@ -3738,7 +3754,8 @@
             "Generative AI",
             "Enterprise Software",
             "Software",
-            "Technology"
+            "Technology",
+            "Software Development"
         ],
         "web_domain": "galileo.ai"
     },
@@ -4131,6 +4148,18 @@
             "Cloud Computing"
         ],
         "web_domain": "uncoveralpha.com"
+    },
+    {
+        "name": "Guardrails AI",
+        "tagline": "Mitigate Gen AI risks with Guardrails",
+        "web_site": "https://hub.guardrailsai.com",
+        "main_product_or_service": "Open-source guardrails for AI validation",
+        "categories": [
+            "AI",
+            "Open Source",
+            "Software Development"
+        ],
+        "web_domain": "guardrailsai.com"
     },
     {
         "name": "Gumloop",
@@ -4759,6 +4788,19 @@
             "SEO"
         ],
         "web_domain": "jobiak.ai"
+    },
+    {
+        "name": "Jobot",
+        "tagline": "A well-funded, women-lead genAI startup using the latest technology to allow users to optimize R&D, storytelling, and product launches",
+        "web_site": "https://www.jobot.com",
+        "main_product_or_service": "genAI software for R&D and product launches",
+        "categories": [
+            "B2B SaaS",
+            "AI",
+            "ML",
+            "Technology"
+        ],
+        "web_domain": "jobot.com"
     },
     {
         "name": "KOGO AI",
@@ -8004,7 +8046,10 @@
             "Learning & Development",
             "Sales Enablement",
             "Marketing",
-            "Customer Service"
+            "Customer Service",
+            "AI",
+            "Video Production",
+            "Technology"
         ],
         "web_domain": "synthesia.io"
     },
