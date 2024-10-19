@@ -1768,6 +1768,18 @@
         "web_domain": "cicerai.com"
     },
     {
+        "name": "Clarity AI",
+        "tagline": "Choose Sustainably",
+        "web_site": "https://clarity.ai/",
+        "main_product_or_service": "Sustainability Tech Kit",
+        "categories": [
+            "Sustainability",
+            "Technology",
+            "Data Analytics"
+        ],
+        "web_domain": "clarity.ai"
+    },
+    {
         "name": "ClaySys Technologies",
         "tagline": "Automate Your World!",
         "web_site": "https://www.claysys.com",
@@ -4288,6 +4300,18 @@
         "web_domain": "hebbia.ai"
     },
     {
+        "name": "Helm.ai",
+        "tagline": "Unsupervised learning for autonomous driving.",
+        "web_site": "https://helm.ai/",
+        "main_product_or_service": "AI for autonomous vehicles",
+        "categories": [
+            "artificial intelligence",
+            "automotive",
+            "technology"
+        ],
+        "web_domain": "helm.ai"
+    },
+    {
         "name": "Helsing",
         "tagline": "Artificial Intelligence to serve our democracies",
         "web_site": "https://helsing.com/en",
@@ -5341,6 +5365,17 @@
         "web_domain": "litellm.ai"
     },
     {
+        "name": "LiveKit",
+        "tagline": "Real-time communication for developers.",
+        "web_site": "https://livekit.io/",
+        "main_product_or_service": "Multimodal AI solutions",
+        "categories": [
+            "communication",
+            "technology"
+        ],
+        "web_domain": "livekit.io"
+    },
+    {
         "name": "LlamaIndex",
         "tagline": "Turn your enterprise data into production-ready LLM applications",
         "web_site": "https://llamaindex.ai",
@@ -6299,6 +6334,19 @@
             "Finance"
         ],
         "web_domain": "startup-weekly.com"
+    },
+    {
+        "name": "Omneky",
+        "tagline": "AI-Powered Ads At Scale",
+        "web_site": "https://www.omneky.com",
+        "main_product_or_service": "AI-driven creative generation and analytics",
+        "categories": [
+            "Advertising",
+            "Marketing",
+            "AI",
+            "Creative Services"
+        ],
+        "web_domain": "omneky.com"
     },
     {
         "name": "OneTrust",
