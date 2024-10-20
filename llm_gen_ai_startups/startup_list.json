@@ -1279,7 +1279,14 @@
             "AI",
             "Enterprise",
             "Retail",
-            "Technology"
+            "Technology",
+            "Healthcare",
+            "Biotech",
+            "Machine Learning",
+            "AI",
+            "Data Analytics",
+            "Cloud Computing",
+            "Market Research"
         ],
         "web_domain": "venturebeat.com"
     },
@@ -2435,6 +2442,20 @@
             "Analytics"
         ],
         "web_domain": "datasciencedojo.com"
+    },
+    {
+        "name": "DataPelago",
+        "tagline": "Unveils Universal Engine to Unite Big Data, Advanced Analytics, HPC, and AI Workloads",
+        "web_site": "https://www.aiwire.net/2024/10/07/datapelago-unveils-universal-engine-to-unite-big-data-advanced-analytics-hpc-and-ai-workloads/",
+        "main_product_or_service": "Virtualization layer for AI and data analytics workloads",
+        "categories": [
+            "Financial Services",
+            "AI",
+            "Data Analytics",
+            "Legal Tech",
+            "Hardware"
+        ],
+        "web_domain": "aiwire.net"
     },
     {
         "name": "DataRobot",
@@ -5142,6 +5163,18 @@
         "web_domain": "lastmileai.dev"
     },
     {
+        "name": "Latham & Watkins LLP",
+        "tagline": "Advising the innovators, investors, and companies powering the AI transformation of industries worldwide.",
+        "web_site": "https://www.lw.com",
+        "main_product_or_service": "Legal services for AI and technology companies",
+        "categories": [
+            "AI",
+            "Legal Services",
+            "Technology"
+        ],
+        "web_domain": "lw.com"
+    },
+    {
         "name": "LaunchLemonade",
         "tagline": "Create powerful AI Tools",
         "web_site": "https://launchlemonade.app/",
@@ -7427,6 +7460,18 @@
         "web_domain": "salt.security"
     },
     {
+        "name": "SandboxAQ",
+        "tagline": "Artificial intelligence startup",
+        "web_site": "https://www.sandboxaq.com/",
+        "main_product_or_service": "AI and cybersecurity services",
+        "categories": [
+            "AI",
+            "Cybersecurity",
+            "Quantum Computing"
+        ],
+        "web_domain": "sandboxaq.com"
+    },
+    {
         "name": "Sardine",
         "tagline": "The smartest platform for fraud prevention",
         "web_site": "https://www.sardine.ai",
@@ -7500,6 +7545,18 @@
             "Productivity"
         ],
         "web_domain": "scoutos.com"
+    },
+    {
+        "name": "Securiti",
+        "tagline": "Automatically Classify and Organize Data",
+        "web_site": "https://securiti.ai",
+        "main_product_or_service": "Data Classification and Management",
+        "categories": [
+            "Data Security",
+            "Data Privacy",
+            "Data Governance"
+        ],
+        "web_domain": "securiti.ai"
     },
     {
         "name": "Seed-TTS",

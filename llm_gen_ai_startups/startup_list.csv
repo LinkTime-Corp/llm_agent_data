@@ -99,7 +99,7 @@ Blaize,Intelligence at the edge of everywhere.,https://www.blaize.com,AI Edge Co
 Blend,Leading provider of Data Science and AI services for Fortune 500 companies,https://aithority.com/machine-learning/blend-taps-former-aws-and-microsoft-leader-ernesto-chavarin-as-senior-vp-to-propel-ai-innovation/,Data Science and AI services,Machine Learning | Data Analytics | AI Services | Healthcare | AI Solutions | Legal Tech | Financial Services | Mental Health | Customer Experience,aithority.com
 BlinqIO,AI Test Engineer,https://blinq.io,AI Test Automation,Software | Automation | AI,blinq.io
 BlueDot Impact,"We run courses that support you to develop the knowledge, community and network needed to pursue a high-impact career.",https://bluedot.org/,Courses on AI safety and pandemic preparedness,Education | Non-profit | Technology,bluedot.org
-Booksy,"Building its own suite of retail-focused LLMs, Wallaby.",https://venturebeat.com/business/cibc-innovation-banking-provides-growth-capital-to-booksy/,Multilingual embeddings for AI,Business | Finance | AI | Enterprise | Retail | Technology,venturebeat.com
+Booksy,"Building its own suite of retail-focused LLMs, Wallaby.",https://venturebeat.com/business/cibc-innovation-banking-provides-growth-capital-to-booksy/,Multilingual embeddings for AI,Business | Finance | AI | Enterprise | Retail | Technology | Healthcare | Biotech | Machine Learning | AI | Data Analytics | Cloud Computing | Market Research,venturebeat.com
 Boomy,Create music in seconds,https://boomy.com,AI-powered music creation platform,Music | Technology | AI | Creative Tools,boomy.com
 Boosted.ai,AI Built For Investment Management,https://boosted.ai,AI software for investment management,AI | Investment Management | Financial Technology,boosted.ai
 Botpress,the Complete AI Agent Platform,https://botpress.com,AI chatbot platform,SaaS | Legal Services | Manufacturing | Real Estate | Hospitality | Education | Telecom | Ecommerce | Finance,botpress.com
@@ -192,6 +192,7 @@ Darrow,Discover your next big case.,https://www.darrow.ai/,AI-Powered Justice In
 Darrow AI,AI-Powered Legal Insights,https://darro.ai,AI-driven legal analytics platform,AI | Legal Tech | Data Analytics,darro.ai
 Dashworks,AI that answers all your team’s questions,https://www.dashworks.ai/,AI Assistant for Workplace Questions,AI | Productivity | Workplace Solutions,dashworks.ai
 Data Science Dojo,Learn Data Science Online,https://datasciencedojo.com,Data science training and bootcamps,Education | E-learning | Data Analytics | AI | Analytics,datasciencedojo.com
+DataPelago,"Unveils Universal Engine to Unite Big Data, Advanced Analytics, HPC, and AI Workloads",https://www.aiwire.net/2024/10/07/datapelago-unveils-universal-engine-to-unite-big-data-advanced-analytics-hpc-and-ai-workloads/,Virtualization layer for AI and data analytics workloads,Financial Services | AI | Data Analytics | Legal Tech | Hardware,aiwire.net
 DataRobot,The platform for generative and predictive AI.,https://www.datarobot.com,MLOps,AI Platform | Machine Learning | Data Analytics | Predictive Analytics,datarobot.com
 DataStax,One-Stop GenAI Stack to Build Production-Ready Apps,https://www.datastax.com,Generative AI platform and vector database,AI | Database | Cloud Computing,datastax.com
 Databricks,"Unify your data, analytics and AI",https://www.databricks.com/,Databricks Data Intelligence Platform,Data Management | Data Engineering | Data Analytics | AI | Data Warehousing | Real-Time Analytics | BI | AI/ML | Public Cloud,databricks.com
@@ -407,6 +408,7 @@ LangChain,Building applications with LLMs through composability.,https://www.lan
 LangGraph,Multi-Agent Workflows,https://blog.langchain.dev/langgraph/,Multi-Agent Workflows for LLMs,AI | Software Development | Machine Learning,blog.langchain.dev
 LastMile AI,Generative AI Developer Platform,https://lastmile.ai,RAG Workbench,AI | Software Development | Dev Tools,lastmile.ai
 LastMile AI,Revolutionizing delivery logistics with AI.,https://lastmileai.dev,AI-driven logistics optimization platform,Logistics | AI | Supply Chain Management,lastmileai.dev
+Latham & Watkins LLP,"Advising the innovators, investors, and companies powering the AI transformation of industries worldwide.",https://www.lw.com,Legal services for AI and technology companies,AI | Legal Services | Technology,lw.com
 LaunchLemonade,Create powerful AI Tools,https://launchlemonade.app/,AI Tools for business,AI | Business Tools | Automation,launchlemonade.app
 LeanTaaS,AI-Driven Digital Transformation for Healthcare,https://leantaas.com,iQueue solution suite,Healthcare | AI | Machine Learning | Predictive Analytics,leantaas.com
 Lecca.io,AI Agents and Workflow Automation,https://app.lecca.io,AI Agents and Workflow Automation,AI | Workflow Automation | Productivity,lecca.io
@@ -588,12 +590,14 @@ SafetyKit,Trust & Safety AI,https://www.safetykit.com,AI-driven Trust and Safety
 Saifr,Use AI to find threats before they find you.,https://saifr.ai/,AI-powered compliance solutions,Compliance | Risk Management | AI Technology,saifr.ai
 Sailes,Authentic AI for Sales on Autopilot,https://sailes.com,AI-powered sales automation,Sales | AI | Automation,sailes.com
 Salt Security,The only AI-infused security platform to see and protect your entire API ecosystem.,https://www.salt.security,API Security Platform,API Security | Cybersecurity | Software,salt.security
+SandboxAQ,Artificial intelligence startup,https://www.sandboxaq.com/,AI and cybersecurity services,AI | Cybersecurity | Quantum Computing,sandboxaq.com
 Sardine,The smartest platform for fraud prevention,https://www.sardine.ai,Behavior-based fraud prevention and compliance platform,Fraud prevention | Compliance | KYC/AML | Transaction monitoring,sardine.ai
 Sarus,The Privacy Layer for Analytics & AI,https://sarus.tech,Privacy-safe Analytics & AI Platform,Analytics & AI | Data Security | Data Protection,sarus.tech
 Sarvam AI,Building full-stack generative AI for population scale,https://sarvam.ai,Voice first agentic AI solutions,AI | Technology | Voice Recognition | Translation,sarvam.ai
 Scale AI,Accelerate the Development of AI Applications,https://scale.com,Scale Data Engine,AI | Data | Enterprise | Government,scale.com
 Scopus AI,Transforming data into actionable insights,https://www.scopus.com,AI-driven data analytics platform,AI | Data Analytics | Software Development,scopus.com
 Scout AI,AI for teams building,https://scoutos.com,A platform for building AI applications,AI | Software Development | Productivity,scoutos.com
+Securiti,Automatically Classify and Organize Data,https://securiti.ai,Data Classification and Management,Data Security | Data Privacy | Data Governance,securiti.ai
 Seed-TTS,Text-to-Speech synthesis for diverse applications,https://bytedancespeech.github.io,Text-to-Speech (TTS) technology,AI | Speech Technology | Software Development,bytedancespeech.github.io
 SellScale,Selix by SellScale is an agentic prospecting buddy to help your revenue org launch campaigns.,https://www.sellscale.com,AI-driven prospecting and outreach tools,Sales | Marketing | AI,sellscale.com
 Semantic Kernel Chat Copilot,Empowering developers to build AI applications with ease.,https://learn.microsoft.com/en-us/semantic-kernel/,Semantic Kernel SDK for AI integration,AI | Software Development | Machine Learning,learn.microsoft.com
